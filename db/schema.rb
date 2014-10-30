@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141029183454) do
+ActiveRecord::Schema.define(version: 20141029214152) do
 
   create_table "active_nutrition_migrations", force: true do |t|
     t.integer  "sequence_no"
@@ -20,71 +20,54 @@ ActiveRecord::Schema.define(version: 20141029183454) do
   end
 
   create_table "usda_food_groups", id: false, force: true do |t|
-    t.string "code",        null: false
-    t.string "description", null: false
-  end
-
-  create_table "usda_food_groups_copy", id: false, force: true do |t|
-    t.string   "code",        null: false
+    t.integer  "code",        null: false
     t.string   "description", null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  create_table "usda_foods", primary_key: "nutrient_databank_number", force: true do |t|
-    t.string  "food_group_code"
-    t.string  "long_description",               null: false
-    t.string  "short_description",              null: false
-    t.string  "common_names"
-    t.string  "manufacturer_name"
-    t.boolean "survey"
-    t.string  "refuse_description"
-    t.integer "percentage_refuse"
-    t.float   "nitrogen_factor",     limit: 24
-    t.float   "protein_factor",      limit: 24
-    t.float   "fat_factor",          limit: 24
-    t.float   "carbohydrate_factor", limit: 24
-  end
-
-  create_table "usda_foods_copy", primary_key: "nutrient_databank_number", force: true do |t|
-    t.string   "food_group_code"
-    t.string   "long_description",               null: false
-    t.string   "short_description",              null: false
+  create_table "usda_foods", id: false, force: true do |t|
+    t.integer  "nutrient_databank_number",            null: false
+    t.integer  "food_group_code"
+    t.string   "long_description",                    null: false
+    t.string   "short_description",                   null: false
     t.string   "common_names"
     t.string   "manufacturer_name"
     t.boolean  "survey"
     t.string   "refuse_description"
     t.integer  "percentage_refuse"
-    t.float    "nitrogen_factor",     limit: 24
-    t.float    "protein_factor",      limit: 24
-    t.float    "fat_factor",          limit: 24
-    t.float    "carbohydrate_factor", limit: 24
+    t.float    "nitrogen_factor",          limit: 24
+    t.float    "protein_factor",           limit: 24
+    t.float    "fat_factor",               limit: 24
+    t.float    "carbohydrate_factor",      limit: 24
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "usda_foods_nutrients", force: true do |t|
-    t.string  "nutrient_databank_number",                null: false
-    t.string  "nutrient_number",                         null: false
-    t.float   "nutrient_value",               limit: 24, null: false
-    t.integer "num_data_points",                         null: false
-    t.float   "standard_error",               limit: 24
-    t.string  "src_code",                                null: false
-    t.string  "derivation_code"
-    t.string  "ref_nutrient_databank_number"
-    t.boolean "add_nutrient_mark"
-    t.integer "num_studies"
-    t.float   "min",                          limit: 24
-    t.float   "max",                          limit: 24
-    t.integer "degrees_of_freedom"
-    t.float   "lower_error_bound",            limit: 24
-    t.float   "upper_error_bound",            limit: 24
-    t.string  "statistical_comments"
-    t.string  "add_mod_date"
-    t.string  "confidence_code"
+    t.integer  "nutrient_databank_number",                null: false
+    t.integer  "nutrient_number",                         null: false
+    t.float    "nutrient_value",               limit: 24, null: false
+    t.integer  "num_data_points",                         null: false
+    t.float    "standard_error",               limit: 24
+    t.string   "src_code",                                null: false
+    t.string   "derivation_code"
+    t.string   "ref_nutrient_databank_number"
+    t.boolean  "add_nutrient_mark"
+    t.integer  "num_studies"
+    t.float    "min",                          limit: 24
+    t.float    "max",                          limit: 24
+    t.integer  "degrees_of_freedom"
+    t.float    "lower_error_bound",            limit: 24
+    t.float    "upper_error_bound",            limit: 24
+    t.string   "statistical_comments"
+    t.string   "add_mod_date"
+    t.string   "confidence_code"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
-  add_index "usda_foods_nutrients", ["nutrient_databank_number", "nutrient_number"], name: "foods_nutrients_index", using: :btree
+  add_index "usda_foods_nutrients", ["nutrient_databank_number", "nutrient_number"], name: "foods_nutrients_index", unique: true, using: :btree
 
   create_table "usda_foods_nutrients_copy", force: true do |t|
     t.string   "nutrient_databank_number",                null: false
@@ -137,68 +120,36 @@ ActiveRecord::Schema.define(version: 20141029183454) do
   add_index "usda_foods_nutrients_infile", ["nutrient_databank_number", "nutrient_number"], name: "foods_nutrients_index", using: :btree
 
   create_table "usda_footnotes", force: true do |t|
-    t.string "nutrient_databank_number", null: false
-    t.string "footnote_number",          null: false
-    t.string "footnote_type",            null: false
-    t.string "nutrient_number"
-    t.string "footnote_text",            null: false
-  end
-
-  create_table "usda_footnotes_copy", force: true do |t|
-    t.string   "nutrient_databank_number", null: false
-    t.string   "footnote_number",          null: false
+    t.integer  "nutrient_databank_number", null: false
+    t.integer  "footnote_number",          null: false
+    t.integer  "nutrient_number"
     t.string   "footnote_type",            null: false
-    t.string   "nutrient_number"
     t.string   "footnote_text",            null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "usda_nutrients", id: false, force: true do |t|
-    t.string  "nutrient_number",       null: false
-    t.string  "units",                 null: false
-    t.string  "tagname"
-    t.string  "nutrient_description",  null: false
-    t.string  "number_decimal_places", null: false
-    t.integer "sort_record_order",     null: false
-  end
-
-  create_table "usda_nutrients_copy", id: false, force: true do |t|
-    t.string   "nutrient_number",       null: false
+    t.integer  "nutrient_number",       null: false
     t.string   "units",                 null: false
     t.string   "tagname"
     t.string   "nutrient_description",  null: false
-    t.string   "number_decimal_places", null: false
+    t.integer  "number_decimal_places", null: false
     t.integer  "sort_record_order",     null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "usda_source_codes", force: true do |t|
-    t.string "code",        null: false
-    t.string "description", null: false
-  end
-
-  create_table "usda_source_codes_copy", force: true do |t|
-    t.string   "code",        null: false
+    t.integer  "code",        null: false
     t.string   "description", null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "usda_weights", force: true do |t|
-    t.string  "nutrient_databank_number",            null: false
-    t.string  "sequence_number",                     null: false
-    t.float   "amount",                   limit: 24, null: false
-    t.string  "measurement_description",             null: false
-    t.float   "gram_weight",              limit: 24, null: false
-    t.integer "num_data_points"
-    t.float   "standard_deviation",       limit: 24
-  end
-
-  create_table "usda_weights_copy", force: true do |t|
-    t.string   "nutrient_databank_number",            null: false
-    t.string   "sequence_number",                     null: false
+    t.integer  "nutrient_databank_number",            null: false
+    t.integer  "sequence_number",                     null: false
     t.float    "amount",                   limit: 24, null: false
     t.string   "measurement_description",             null: false
     t.float    "gram_weight",              limit: 24, null: false

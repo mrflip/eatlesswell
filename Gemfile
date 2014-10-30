@@ -49,7 +49,4 @@ group :test do
   gem 'selenium-webdriver'
 end
 
-
-# gem 'active_nutrition', '~> 0.5', :path => './vendor/active_nutrition'
-gem 'active_nutrition',       :path => './vendor/active_nutrition'
 gem 'usda-nutrient-database', :path => './vendor/usda-nutrient-database'
