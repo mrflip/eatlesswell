@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141029214152) do
+ActiveRecord::Schema.define(version: 20141030155228) do
 
   create_table "active_nutrition_migrations", force: true do |t|
     t.integer  "sequence_no"
@@ -19,47 +19,51 @@ ActiveRecord::Schema.define(version: 20141029214152) do
     t.datetime "updated_at"
   end
 
-  create_table "usda_food_groups", id: false, force: true do |t|
-    t.integer  "code",        null: false
+  create_table "sources", force: true do |t|
     t.string   "description", null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  create_table "usda_foods", id: false, force: true do |t|
-    t.integer  "nutrient_databank_number",            null: false
-    t.integer  "food_group_code"
-    t.string   "long_description",                    null: false
-    t.string   "short_description",                   null: false
+  create_table "usda_food_groups", force: true do |t|
+    t.string   "description", null: false
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "usda_foods", force: true do |t|
+    t.integer  "food_group_id"
+    t.string   "desc_full",                      null: false
+    t.string   "desc_abbr",                      null: false
     t.string   "common_names"
-    t.string   "manufacturer_name"
+    t.string   "manufacturer"
     t.boolean  "survey"
-    t.string   "refuse_description"
-    t.integer  "percentage_refuse"
-    t.float    "nitrogen_factor",          limit: 24
-    t.float    "protein_factor",           limit: 24
-    t.float    "fat_factor",               limit: 24
-    t.float    "carbohydrate_factor",      limit: 24
+    t.string   "refuse_desc"
+    t.integer  "refuse_pct"
+    t.float    "nitrogen_factor",     limit: 24
+    t.float    "protein_factor",      limit: 24
+    t.float    "fat_factor",          limit: 24
+    t.float    "carbohydrate_factor", limit: 24
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "usda_foods_nutrients", force: true do |t|
-    t.integer  "nutrient_databank_number",                null: false
-    t.integer  "nutrient_number",                         null: false
-    t.float    "nutrient_value",               limit: 24, null: false
-    t.integer  "num_data_points",                         null: false
-    t.float    "standard_error",               limit: 24
-    t.string   "src_code",                                null: false
+    t.integer  "food_id",                         null: false
+    t.integer  "nutrient_id",                     null: false
+    t.float    "val",                  limit: 24, null: false
+    t.boolean  "enrichment"
+    t.integer  "num_data_points",                 null: false
+    t.float    "standard_error",       limit: 24
+    t.string   "source_id",                       null: false
     t.string   "derivation_code"
-    t.string   "ref_nutrient_databank_number"
-    t.boolean  "add_nutrient_mark"
+    t.string   "ref_food_id"
     t.integer  "num_studies"
-    t.float    "min",                          limit: 24
-    t.float    "max",                          limit: 24
+    t.float    "min",                  limit: 24
+    t.float    "max",                  limit: 24
     t.integer  "degrees_of_freedom"
-    t.float    "lower_error_bound",            limit: 24
-    t.float    "upper_error_bound",            limit: 24
+    t.float    "lower_error_bound",    limit: 24
+    t.float    "upper_error_bound",    limit: 24
     t.string   "statistical_comments"
     t.string   "add_mod_date"
     t.string   "confidence_code"
@@ -67,24 +71,25 @@ ActiveRecord::Schema.define(version: 20141029214152) do
     t.datetime "updated_at"
   end
 
-  add_index "usda_foods_nutrients", ["nutrient_databank_number", "nutrient_number"], name: "foods_nutrients_index", unique: true, using: :btree
+  add_index "usda_foods_nutrients", ["food_id", "nutrient_id"], name: "foods_nutrients_index", unique: true, using: :btree
+  add_index "usda_foods_nutrients", ["nutrient_id"], name: "nutrients_index", using: :btree
 
   create_table "usda_foods_nutrients_copy", force: true do |t|
-    t.string   "nutrient_databank_number",                null: false
-    t.string   "nutrient_number",                         null: false
-    t.float    "nutrient_value",               limit: 24, null: false
-    t.integer  "num_data_points",                         null: false
-    t.float    "standard_error",               limit: 24
-    t.string   "src_code",                                null: false
+    t.integer  "food_id",                         null: false
+    t.integer  "nutrient_id",                     null: false
+    t.float    "val",                  limit: 24, null: false
+    t.boolean  "enrichment"
+    t.integer  "num_data_points",                 null: false
+    t.float    "standard_error",       limit: 24
+    t.string   "source_id",                       null: false
     t.string   "derivation_code"
-    t.string   "ref_nutrient_databank_number"
-    t.boolean  "add_nutrient_mark"
+    t.string   "ref_food_id"
     t.integer  "num_studies"
-    t.float    "min",                          limit: 24
-    t.float    "max",                          limit: 24
+    t.float    "min",                  limit: 24
+    t.float    "max",                  limit: 24
     t.integer  "degrees_of_freedom"
-    t.float    "lower_error_bound",            limit: 24
-    t.float    "upper_error_bound",            limit: 24
+    t.float    "lower_error_bound",    limit: 24
+    t.float    "upper_error_bound",    limit: 24
     t.string   "statistical_comments"
     t.string   "add_mod_date"
     t.string   "confidence_code"
@@ -92,7 +97,8 @@ ActiveRecord::Schema.define(version: 20141029214152) do
     t.datetime "updated_at"
   end
 
-  add_index "usda_foods_nutrients_copy", ["nutrient_databank_number", "nutrient_number"], name: "foods_nutrients_index", using: :btree
+  add_index "usda_foods_nutrients_copy", ["food_id", "nutrient_id"], name: "foods_nutrients_index", unique: true, using: :btree
+  add_index "usda_foods_nutrients_copy", ["nutrient_id"], name: "nutrients_index", using: :btree
 
   create_table "usda_foods_nutrients_infile", force: true do |t|
     t.string   "nutrient_databank_number",                null: false
@@ -120,44 +126,40 @@ ActiveRecord::Schema.define(version: 20141029214152) do
   add_index "usda_foods_nutrients_infile", ["nutrient_databank_number", "nutrient_number"], name: "foods_nutrients_index", using: :btree
 
   create_table "usda_footnotes", force: true do |t|
-    t.integer  "nutrient_databank_number", null: false
-    t.integer  "footnote_number",          null: false
-    t.integer  "nutrient_number"
-    t.string   "footnote_type",            null: false
-    t.string   "footnote_text",            null: false
+    t.integer  "food_id",     null: false
+    t.integer  "nutrient_id"
+    t.integer  "seq",         null: false
+    t.string   "kind",        null: false
+    t.string   "body",        null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  create_table "usda_nutrients", id: false, force: true do |t|
-    t.integer  "nutrient_number",       null: false
-    t.string   "units",                 null: false
+  add_index "usda_footnotes", ["food_id", "nutrient_id", "seq"], name: "footnotes_nutrients_index", unique: true, using: :btree
+
+  create_table "usda_nutrients", force: true do |t|
+    t.string   "units",       null: false
     t.string   "tagname"
-    t.string   "nutrient_description",  null: false
-    t.integer  "number_decimal_places", null: false
-    t.integer  "sort_record_order",     null: false
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  create_table "usda_source_codes", force: true do |t|
-    t.integer  "code",        null: false
     t.string   "description", null: false
+    t.integer  "frac_digits", null: false
+    t.integer  "sortorder",   null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "usda_weights", force: true do |t|
-    t.integer  "nutrient_databank_number",            null: false
-    t.integer  "sequence_number",                     null: false
-    t.float    "amount",                   limit: 24, null: false
-    t.string   "measurement_description",             null: false
-    t.float    "gram_weight",              limit: 24, null: false
+    t.integer  "food_id",                    null: false
+    t.integer  "seq",                        null: false
+    t.float    "amount",          limit: 24, null: false
+    t.string   "description",                null: false
+    t.float    "gram_weight",     limit: 24, null: false
     t.integer  "num_data_points"
-    t.float    "standard_deviation",       limit: 24
+    t.float    "stddev",          limit: 24
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "usda_weights", ["food_id", "seq"], name: "weights_index", unique: true, using: :btree
 
   create_table "users", force: true do |t|
     t.string   "email",                  default: "", null: false

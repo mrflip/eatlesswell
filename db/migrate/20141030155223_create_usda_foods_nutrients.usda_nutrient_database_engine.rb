@@ -2,17 +2,17 @@
 class CreateUsdaFoodsNutrients < ActiveRecord::Migration
   def change
     create_table :usda_foods_nutrients do |t|
-      t.integer  :nutrient_databank_number, null: false
-      t.integer :nutrient_number, null: false, index: true
-      t.float   :nutrient_value, null: false
+      t.integer :food_id,         null: false
+      t.integer :nutrient_id,     null: false
+      t.float   :val,           null: false
+      t.boolean :enrichment
+      #
       t.integer :num_data_points, null: false
       t.float   :standard_error
-      #
-      t.string  :src_code, null: false
+      t.string  :source_id,        null: false
       t.string  :derivation_code
-      t.string  :ref_nutrient_databank_number
+      t.string  :ref_food_id
       #
-      t.boolean :add_nutrient_mark
       t.integer :num_studies
       t.float   :min
       t.float   :max
@@ -25,7 +25,11 @@ class CreateUsdaFoodsNutrients < ActiveRecord::Migration
     end
 
     add_index :usda_foods_nutrients,
-      [:nutrient_databank_number, :nutrient_number],
+      [:food_id, :nutrient_id],
       name: 'foods_nutrients_index', unique: true
+
+    add_index :usda_foods_nutrients,
+      [:nutrient_id],
+      name: 'nutrients_index'
   end
 end

@@ -1,8 +1,8 @@
 # This migration comes from usda_nutrient_database_engine (originally 1)
 class CreateUsdaFoodGroups < ActiveRecord::Migration
   def change
-    create_table :usda_food_groups, id: false, primary_key: :code do |t|
-      t.integer :code, null: false, index: true, uniq: true
+    create_table :usda_food_groups do |t|
+      # :id
       t.string  :description, null: false
     end
   end

@@ -1,8 +1,7 @@
 # This migration comes from usda_nutrient_database_engine (originally 7)
-class CreateUsdaSourceCodes < ActiveRecord::Migration
+class CreateUsdaSources < ActiveRecord::Migration
   def change
-    create_table :usda_source_codes do |t|
-      t.integer :code, null: false, index: true
+    create_table :sources do |t|
       t.string  :description, null: false
     end
   end
