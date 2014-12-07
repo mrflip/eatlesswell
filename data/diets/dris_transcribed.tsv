@@ -1,0 +1,1056 @@
+idx	Nutrient	Limit	Population	Gender	Limit	units	Limit-2	units-2	page	source	notes
+1	Total Fiber	AI	child_14_18	male	14	g/1k cal	38	g/day	110	Natl Academy DRI	
+2	Total Fiber	AI	child_14_18	female	14	g/1k cal	26	g/day	110	Natl Academy DRI	
+3	Total Fiber	AI	adult_19_30	male	14	g/1k cal	38	g/day	110	Natl Academy DRI	
+4	Total Fiber	AI	adult_19_30	female	14	g/1k cal	25	g/day	110	Natl Academy DRI	
+5	Total Fiber	AI	adult_31_50	male	14	g/1k cal	38	g/day	110	Natl Academy DRI	
+6	Total Fiber	AI	adult_31_50	female	14	g/1k cal	25	g/day	110	Natl Academy DRI	
+7	Total Fiber	AI	adult_51_70	male	14	g/1k cal	30	g/day	110	Natl Academy DRI	
+8	Total Fiber	AI	adult_51_70	female	14	g/1k cal	21	g/day	110	Natl Academy DRI	
+9	Total Fiber	AI	adult_70_up	male	14	g/1k cal	30	g/day	110	Natl Academy DRI	
+10	Total Fiber	AI	adult_70_up	female	14	g/1k cal	21	g/day	110	Natl Academy DRI	
+11	Total Fiber	AI	pregnant_lo_18	female	14	g/1k cal	28	g/day	110	Natl Academy DRI	
+12	Total Fiber	AI	pregnant_19_50	female	14	g/1k cal	28	g/day	110	Natl Academy DRI	
+13	Total Fiber	AI	lactating_lo_18	female	14	g/1k cal	29	g/day	110	Natl Academy DRI	
+14	Total Fiber	AI	lactating_19_50	female	14	g/1k cal	29	g/day	110	Natl Academy DRI	
+15											
+16	Total Fat	AI	child_14_18	male	ND				122	Natl Academy DRI	
+17	Total Fat	AI	adult_19_30	male	ND				122	Natl Academy DRI	
+18	Total Fat	AI	adult_31_50	male	ND				122	Natl Academy DRI	
+19	Total Fat	AI	adult_51_70	male	ND				122	Natl Academy DRI	
+20	Total Fat	AI	adult_70_up	male	ND				122	Natl Academy DRI	
+21	Total Fat	AI	child_14_18	female	ND				122	Natl Academy DRI	
+22	Total Fat	AI	adult_19_30	female	ND				122	Natl Academy DRI	
+23	Total Fat	AI	adult_31_50	female	ND				122	Natl Academy DRI	
+24	Total Fat	AI	adult_51_70	female	ND				122	Natl Academy DRI	
+25	Total Fat	AI	adult_70_up	female	ND				122	Natl Academy DRI	
+26	Total Fat	AI	pregnant	female	ND				122	Natl Academy DRI	
+27	Total Fat	AI	lactating	female	ND				122	Natl Academy DRI	
+28											
+29	LinAcid	AI	child_14_18	male	16				122	Natl Academy DRI	
+30	LinAcid	AI	adult_19_30	male	17				122	Natl Academy DRI	
+31	LinAcid	AI	adult_31_50	male	17				122	Natl Academy DRI	
+32	LinAcid	AI	adult_51_70	male	14				122	Natl Academy DRI	
+33	LinAcid	AI	adult_70_up	male	14				122	Natl Academy DRI	
+34	LinAcid	AI	child_14_18	female	11				122	Natl Academy DRI	
+35	LinAcid	AI	adult_19_30	female	12				122	Natl Academy DRI	
+36	LinAcid	AI	adult_31_50	female	12				122	Natl Academy DRI	
+37	LinAcid	AI	adult_51_70	female	11				122	Natl Academy DRI	
+38	LinAcid	AI	adult_70_up	female	11				122	Natl Academy DRI	
+39	LinAcid	AI	pregnant	female	13				122	Natl Academy DRI	
+40	LinAcid	AI	lactating	female	13				122	Natl Academy DRI	
+41											
+42	Alpha-LinAcid	AI	child_14_18	male	1.6				122	Natl Academy DRI	
+43	Alpha-LinAcid	AI	adult_19_30	male	1.6				122	Natl Academy DRI	
+44	Alpha-LinAcid	AI	adult_31_50	male	1.6				122	Natl Academy DRI	
+45	Alpha-LinAcid	AI	adult_51_70	male	1.6				122	Natl Academy DRI	
+46	Alpha-LinAcid	AI	adult_70_up	male	1.6				122	Natl Academy DRI	
+47	Alpha-LinAcid	AI	child_14_18	female	1.1				122	Natl Academy DRI	
+48	Alpha-LinAcid	AI	adult_19_30	female	1.1				122	Natl Academy DRI	
+49	Alpha-LinAcid	AI	adult_31_50	female	1.1				122	Natl Academy DRI	
+50	Alpha-LinAcid	AI	adult_51_70	female	1.1				122	Natl Academy DRI	
+51	Alpha-LinAcid	AI	adult_70_up	female	1.1				122	Natl Academy DRI	
+52	Alpha-LinAcid	AI	pregnant	female	1.4				122	Natl Academy DRI	
+53	Alpha-LinAcid	AI	lactating	female	1.3				122	Natl Academy DRI	
+54											
+55	Cholesterol	LU	all		undesirable					Natl Academy DRI	It is recommended that people maintain their dietary cholesterol intake as low as possible, while consuming a diet nutritionally adequate in all required nutrients.
+56											
+57	Protein	EAR	child_14_18	male	0.73	g/day per kg_weight				Natl Academy DRI	
+58	Protein	EAR	adult_19_30	male	0.66	g/day per kg_weight				Natl Academy DRI	
+59	Protein	EAR	adult_31_50	male	0.66	g/day per kg_weight				Natl Academy DRI	
+60	Protein	EAR	adult_51_70	male	0.66	g/day per kg_weight				Natl Academy DRI	
+61	Protein	EAR	adult_70_up	male	0.66	g/day per kg_weight				Natl Academy DRI	
+62	Protein	EAR	child_14_18	female	0.71	g/day per kg_weight				Natl Academy DRI	
+63	Protein	EAR	adult_19_30	female	0.66	g/day per kg_weight				Natl Academy DRI	
+64	Protein	EAR	adult_31_50	female	0.66	g/day per kg_weight				Natl Academy DRI	
+65	Protein	EAR	adult_51_70	female	0.66	g/day per kg_weight				Natl Academy DRI	
+66	Protein	EAR	adult_70_up	female	0.66	g/day per kg_weight				Natl Academy DRI	
+67	Protein	EAR	pregnant	female	0.88	g/day per kg_weight				Natl Academy DRI	
+68	Protein	EAR	lactating	female	1.05	g/day per kg_weight				Natl Academy DRI	
+69											
+70	Protein	RDA	child_14_18	male	0.85	g/day per kg_weight				Natl Academy DRI	
+71	Protein	RDA	adult_19_30	male	0.80	g/day per kg_weight				Natl Academy DRI	
+72	Protein	RDA	adult_31_50	male	0.80	g/day per kg_weight				Natl Academy DRI	
+73	Protein	RDA	adult_51_70	male	0.80	g/day per kg_weight				Natl Academy DRI	
+74	Protein	RDA	adult_70_up	male	0.80	g/day per kg_weight				Natl Academy DRI	
+75	Protein	RDA	child_14_18	female	0.85	g/day per kg_weight				Natl Academy DRI	
+76	Protein	RDA	adult_19_30	female	0.80	g/day per kg_weight				Natl Academy DRI	
+77	Protein	RDA	adult_31_50	female	0.80	g/day per kg_weight				Natl Academy DRI	
+78	Protein	RDA	adult_51_70	female	0.80	g/day per kg_weight				Natl Academy DRI	
+79	Protein	RDA	adult_70_up	female	0.80	g/day per kg_weight				Natl Academy DRI	
+80	Protein	RDA	pregnant	female	1.1	g/day per kg_weight				Natl Academy DRI	
+81	Protein	RDA	lactating	female	1.3	g/day per kg_weight				Natl Academy DRI	
+82											
+83	Protein	UL	all		None					Natl Academy DRI	
+84											
+85	Total Water	RDA	child_14_18	male	3.3					Natl Academy DRI	
+86	Total Water	RDA	adult_19_30	male	3.7					Natl Academy DRI	
+87	Total Water	RDA	adult_31_50	male	3.7					Natl Academy DRI	
+88	Total Water	RDA	adult_51_70	male	3.7					Natl Academy DRI	
+89	Total Water	RDA	adult_70_up	male	3.7					Natl Academy DRI	
+90	Total Water	RDA	child_14_18	female	2.3					Natl Academy DRI	
+91	Total Water	RDA	adult_19_30	female	2.7					Natl Academy DRI	
+92	Total Water	RDA	adult_31_50	female	2.7					Natl Academy DRI	
+93	Total Water	RDA	adult_51_70	female	2.7					Natl Academy DRI	
+94	Total Water	RDA	adult_70_up	female	2.7					Natl Academy DRI	
+95	Total Water	RDA	pregnant_19_50	female	3.0					Natl Academy DRI	
+96	Total Water	RDA	lactating_19_50	female	3.8					Natl Academy DRI	
+97											
+98											
+99	Total Beverage	RDA	child_14_18	male	2.6					Natl Academy DRI	
+100	Total Beverage	RDA	adult_19_30	male	3.0					Natl Academy DRI	
+101	Total Beverage	RDA	adult_31_50	male	3.0					Natl Academy DRI	
+102	Total Beverage	RDA	adult_51_70	male	3.0					Natl Academy DRI	
+103	Total Beverage	RDA	adult_70_up	male	3.0					Natl Academy DRI	
+104	Total Beverage	RDA	child_14_18	female	1.8					Natl Academy DRI	
+105	Total Beverage	RDA	adult_19_30	female	2.2					Natl Academy DRI	
+106	Total Beverage	RDA	adult_31_50	female	2.2					Natl Academy DRI	
+107	Total Beverage	RDA	adult_51_70	female	2.2					Natl Academy DRI	
+108	Total Beverage	RDA	adult_70_up	female	2.2					Natl Academy DRI	
+109	Total Beverage	RDA	pregnant_19_50	female	2.3					Natl Academy DRI	
+110	Total Beverage	RDA	lactating_19_50	female	3.1					Natl Academy DRI	
+111											
+112	Vitamin A	EAR	child_14_18	male	630	u_gm RAE/day			171	Natl Academy DRI	
+113	Vitamin A	EAR	adult_19_30	male	625	u_gm RAE/day			171	Natl Academy DRI	
+114	Vitamin A	EAR	adult_31_50	male	625	u_gm RAE/day			171	Natl Academy DRI	
+115	Vitamin A	EAR	adult_51_70	male	625	u_gm RAE/day			171	Natl Academy DRI	
+116	Vitamin A	EAR	adult_70_up	male	625	u_gm RAE/day			171	Natl Academy DRI	
+117	Vitamin A	EAR	child_14_18	female	485	u_gm RAE/day			171	Natl Academy DRI	
+118	Vitamin A	EAR	adult_19_30	female	500	u_gm RAE/day			171	Natl Academy DRI	
+119	Vitamin A	EAR	adult_31_50	female	500	u_gm RAE/day			171	Natl Academy DRI	
+120	Vitamin A	EAR	adult_51_70	female	500	u_gm RAE/day			171	Natl Academy DRI	
+121	Vitamin A	EAR	adult_70_up	female	500	u_gm RAE/day			171	Natl Academy DRI	
+122	Vitamin A	EAR	pregnant_19_50	female	550	u_gm RAE/day			171	Natl Academy DRI	
+123	Vitamin A	EAR	lactating_19_50	female	900	u_gm RAE/day			171	Natl Academy DRI	
+124											
+125	Vitamin A	RDA	child_14_18	male	900	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+126	Vitamin A	RDA	adult_19_30	male	900	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+127	Vitamin A	RDA	adult_31_50	male	900	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+128	Vitamin A	RDA	adult_51_70	male	900	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+129	Vitamin A	RDA	adult_70_up	male	900	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+130	Vitamin A	RDA	child_14_18	female	700	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+131	Vitamin A	RDA	adult_19_30	female	700	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+132	Vitamin A	RDA	adult_31_50	female	700	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+133	Vitamin A	RDA	adult_51_70	female	700	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+134	Vitamin A	RDA	adult_70_up	female	700	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+135	Vitamin A	RDA	pregnant_19_50	female	770	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+136	Vitamin A	RDA	lactating_19_50	female	1300	u_gm RAE/day			171	Natl Academy DRI	Vitamin A — Considerations — Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals. /// Vitamin A — Note — The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+137											
+138	Vitamin A	UL	child_14_18	male	2800	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+139	Vitamin A	UL	adult_19_30	male	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+140	Vitamin A	UL	adult_31_50	male	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+141	Vitamin A	UL	adult_51_70	male	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+142	Vitamin A	UL	adult_70_up	male	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+143	Vitamin A	UL	child_14_18	female	2800	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+144	Vitamin A	UL	adult_19_30	female	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+145	Vitamin A	UL	adult_31_50	female	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+146	Vitamin A	UL	adult_51_70	female	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+147	Vitamin A	UL	adult_70_up	female	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+148	Vitamin A	UL	pregnant_19_50	female	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+149	Vitamin A	UL	lactating_19_50	female	3000	u_gm RAE/day			171	Natl Academy DRI	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+150											
+151	Vitamin B-6	EAR	child_14_18	male	1.1				183	Natl Academy DRI	
+152	Vitamin B-6	EAR	adult_19_30	male	1.1				183	Natl Academy DRI	
+153	Vitamin B-6	EAR	adult_31_50	male	1.1				183	Natl Academy DRI	
+154	Vitamin B-6	EAR	adult_51_70	male	1.4				183	Natl Academy DRI	
+155	Vitamin B-6	EAR	adult_70_up	male	1.4				183	Natl Academy DRI	
+156	Vitamin B-6	EAR	child_14_18	female	1.0				183	Natl Academy DRI	
+157	Vitamin B-6	EAR	adult_19_30	female	1.1				183	Natl Academy DRI	
+158	Vitamin B-6	EAR	adult_31_50	female	1.1				183	Natl Academy DRI	
+159	Vitamin B-6	EAR	adult_51_70	female	1.3				183	Natl Academy DRI	
+160	Vitamin B-6	EAR	adult_70_up	female	1.3				183	Natl Academy DRI	
+161	Vitamin B-6	EAR	pregnant_19_50	female	1.6				183	Natl Academy DRI	
+162	Vitamin B-6	EAR	lactating_19_50	female	1.7				183	Natl Academy DRI	
+163											
+164	Vitamin B-6	RDA	child_14_18	male	1.3				183	Natl Academy DRI	
+165	Vitamin B-6	RDA	adult_19_30	male	1.3				183	Natl Academy DRI	
+166	Vitamin B-6	RDA	adult_31_50	male	1.3				183	Natl Academy DRI	
+167	Vitamin B-6	RDA	adult_51_70	male	1.7				183	Natl Academy DRI	
+168	Vitamin B-6	RDA	adult_70_up	male	1.7				183	Natl Academy DRI	
+169	Vitamin B-6	RDA	child_14_18	female	1.2				183	Natl Academy DRI	
+170	Vitamin B-6	RDA	adult_19_30	female	1.3				183	Natl Academy DRI	
+171	Vitamin B-6	RDA	adult_31_50	female	1.3				183	Natl Academy DRI	
+172	Vitamin B-6	RDA	adult_51_70	female	1.5				183	Natl Academy DRI	
+173	Vitamin B-6	RDA	adult_70_up	female	1.5				183	Natl Academy DRI	
+174	Vitamin B-6	RDA	pregnant_19_50	female	1.9				183	Natl Academy DRI	
+175	Vitamin B-6	RDA	lactating_19_50	female	2.0				183	Natl Academy DRI	
+176											
+177	Vitamin B-6	UL	child_14_18	male	80				183	Natl Academy DRI	
+178	Vitamin B-6	UL	adult_19_30	male	100				183	Natl Academy DRI	
+179	Vitamin B-6	UL	adult_31_50	male	100				183	Natl Academy DRI	
+180	Vitamin B-6	UL	adult_51_70	male	100				183	Natl Academy DRI	
+181	Vitamin B-6	UL	adult_70_up	male	100				183	Natl Academy DRI	
+182	Vitamin B-6	UL	child_14_18	female	80				183	Natl Academy DRI	
+183	Vitamin B-6	UL	adult_19_30	female	100				183	Natl Academy DRI	
+184	Vitamin B-6	UL	adult_31_50	female	100				183	Natl Academy DRI	
+185	Vitamin B-6	UL	adult_51_70	female	100				183	Natl Academy DRI	
+186	Vitamin B-6	UL	adult_70_up	female	100				183	Natl Academy DRI	
+187	Vitamin B-6	UL	pregnant_19_50	female	100				183	Natl Academy DRI	
+188	Vitamin B-6	UL	lactating_19_50	female	100				183	Natl Academy DRI	
+189											
+190	Vitamin B-12	EAR	child_14_18	male	2.0				189	Natl Academy DRI	
+191	Vitamin B-12	EAR	adult_19_30	male	2.0				189	Natl Academy DRI	
+192	Vitamin B-12	EAR	adult_31_50	male	2.0				189	Natl Academy DRI	
+193	Vitamin B-12	EAR	adult_51_70	male	2.0				189	Natl Academy DRI	
+194	Vitamin B-12	EAR	adult_70_up	male	2.0				189	Natl Academy DRI	
+195	Vitamin B-12	EAR	child_14_18	female	2.0				189	Natl Academy DRI	
+196	Vitamin B-12	EAR	adult_19_30	female	2.0				189	Natl Academy DRI	
+197	Vitamin B-12	EAR	adult_31_50	female	2.0				189	Natl Academy DRI	
+198	Vitamin B-12	EAR	adult_51_70	female	2.0				189	Natl Academy DRI	
+199	Vitamin B-12	EAR	adult_70_up	female	2.0				189	Natl Academy DRI	
+200	Vitamin B-12	EAR	pregnant_19_50	female	2.2				189	Natl Academy DRI	
+201	Vitamin B-12	EAR	lactating_19_50	female	2.4				189	Natl Academy DRI	
+202											
+203	Vitamin B-12	RDA	child_14_18	male	2.4				189	Natl Academy DRI	
+204	Vitamin B-12	RDA	adult_19_30	male	2.4				189	Natl Academy DRI	
+205	Vitamin B-12	RDA	adult_31_50	male	2.4				189	Natl Academy DRI	
+206	Vitamin B-12	RDA	adult_51_70	male	2.4				189	Natl Academy DRI	
+207	Vitamin B-12	RDA	adult_70_up	male	2.4				189	Natl Academy DRI	
+208	Vitamin B-12	RDA	child_14_18	female	2.4				189	Natl Academy DRI	
+209	Vitamin B-12	RDA	adult_19_30	female	2.4				189	Natl Academy DRI	
+210	Vitamin B-12	RDA	adult_31_50	female	2.4				189	Natl Academy DRI	
+211	Vitamin B-12	RDA	adult_51_70	female	2.4				189	Natl Academy DRI	
+212	Vitamin B-12	RDA	adult_70_up	female	2.4				189	Natl Academy DRI	
+213	Vitamin B-12	RDA	pregnant_19_50	female	2.6				189	Natl Academy DRI	
+214	Vitamin B-12	RDA	lactating_19_50	female	2.8				189	Natl Academy DRI	
+215											
+216	Vitamin B-12	UL	child_14_18	male	ND				189	Natl Academy DRI	
+217	Vitamin B-12	UL	adult_19_30	male	ND				189	Natl Academy DRI	
+218	Vitamin B-12	UL	adult_31_50	male	ND				189	Natl Academy DRI	
+219	Vitamin B-12	UL	adult_51_70	male	ND				189	Natl Academy DRI	
+220	Vitamin B-12	UL	adult_70_up	male	ND				189	Natl Academy DRI	
+221	Vitamin B-12	UL	child_14_18	female	ND				189	Natl Academy DRI	
+222	Vitamin B-12	UL	adult_19_30	female	ND				189	Natl Academy DRI	
+223	Vitamin B-12	UL	adult_31_50	female	ND				189	Natl Academy DRI	
+224	Vitamin B-12	UL	adult_51_70	female	ND				189	Natl Academy DRI	Vitamin B-12 -- Considerations -- adult_50_up -- Because 10 to 30 percent of older people may malabsorb food-bound vitamin B12, for adults over 50 years old it is advisable for most of this amount to be obtained by consuming foods fortified with vitamin B12 or a vitamin B12-containng supplement.
+225	Vitamin B-12	UL	adult_70_up	female	ND				189	Natl Academy DRI	Vitamin B-12 -- Considerations -- adult_50_up -- Because 10 to 30 percent of older people may malabsorb food-bound vitamin B12, for adults over 50 years old it is advisable for most of this amount to be obtained by consuming foods fortified with vitamin B12 or a vitamin B12-containng supplement.
+226	Vitamin B-12	UL	pregnant_19_50	female	ND				189	Natl Academy DRI	
+227	Vitamin B-12	UL	lactating_19_50	female	ND				189	Natl Academy DRI	
+228											
+229	Biotin	AI	child_14_18	male	25				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+230	Biotin	AI	adult_19_30	male	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+231	Biotin	AI	adult_31_50	male	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+232	Biotin	AI	adult_51_70	male	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+233	Biotin	AI	adult_70_up	male	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+234	Biotin	AI	child_14_18	female	25				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+235	Biotin	AI	adult_19_30	female	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+236	Biotin	AI	adult_31_50	female	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+237	Biotin	AI	adult_51_70	female	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+238	Biotin	AI	adult_70_up	female	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+239	Biotin	AI	pregnant_19_50	female	30				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+240	Biotin	AI	lactating_19_50	female	35				197	Natl Academy DRI	Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+241											
+242	Vitamin C	EAR	child_14_18	male	63				189	Natl Academy DRI	
+243	Vitamin C	EAR	adult_19_30	male	75				189	Natl Academy DRI	
+244	Vitamin C	EAR	adult_31_50	male	75				189	Natl Academy DRI	
+245	Vitamin C	EAR	adult_51_70	male	75				189	Natl Academy DRI	
+246	Vitamin C	EAR	adult_70_up	male	75				189	Natl Academy DRI	
+247	Vitamin C	EAR	child_14_18	female	56				189	Natl Academy DRI	
+248	Vitamin C	EAR	adult_19_30	female	60				189	Natl Academy DRI	
+249	Vitamin C	EAR	adult_31_50	female	60				189	Natl Academy DRI	
+250	Vitamin C	EAR	adult_51_70	female	60				189	Natl Academy DRI	
+251	Vitamin C	EAR	adult_70_up	female	60				189	Natl Academy DRI	
+252	Vitamin C	EAR	pregnant_19_50	female	70				189	Natl Academy DRI	
+253	Vitamin C	EAR	lactating_19_50	female	100				189	Natl Academy DRI	
+254											
+255	Vitamin C	RDA	child_14_18	male	75				189	Natl Academy DRI	
+256	Vitamin C	RDA	adult_19_30	male	90				189	Natl Academy DRI	
+257	Vitamin C	RDA	adult_31_50	male	90				189	Natl Academy DRI	
+258	Vitamin C	RDA	adult_51_70	male	90				189	Natl Academy DRI	
+259	Vitamin C	RDA	adult_70_up	male	90				189	Natl Academy DRI	
+260	Vitamin C	RDA	child_14_18	female	65				189	Natl Academy DRI	
+261	Vitamin C	RDA	adult_19_30	female	75				189	Natl Academy DRI	
+262	Vitamin C	RDA	adult_31_50	female	75				189	Natl Academy DRI	
+263	Vitamin C	RDA	adult_51_70	female	75				189	Natl Academy DRI	
+264	Vitamin C	RDA	adult_70_up	female	75				189	Natl Academy DRI	
+265	Vitamin C	RDA	pregnant_19_50	female	85				189	Natl Academy DRI	
+266	Vitamin C	RDA	lactating_19_50	female	120				189	Natl Academy DRI	
+267											
+268	Vitamin C	UL	child_14_18	male	1800				189	Natl Academy DRI	
+269	Vitamin C	UL	adult_19_30	male	2000				189	Natl Academy DRI	
+270	Vitamin C	UL	adult_31_50	male	2000				189	Natl Academy DRI	
+271	Vitamin C	UL	adult_51_70	male	2000				189	Natl Academy DRI	
+272	Vitamin C	UL	adult_70_up	male	2000				189	Natl Academy DRI	
+273	Vitamin C	UL	child_14_18	female	1800				189	Natl Academy DRI	
+274	Vitamin C	UL	adult_19_30	female	2000				189	Natl Academy DRI	
+275	Vitamin C	UL	adult_31_50	female	2000				189	Natl Academy DRI	
+276	Vitamin C	UL	adult_51_70	female	2000				189	Natl Academy DRI	
+277	Vitamin C	UL	adult_70_up	female	2000				189	Natl Academy DRI	
+278	Vitamin C	UL	pregnant_19_50	female	2000				189	Natl Academy DRI	
+279	Vitamin C	UL	lactating_19_50	female	2000				189	Natl Academy DRI	
+280											
+281	Carotenoids	LD	adult		good				212	Natl Academy DRI	There are no DRIs specifically for carotenoids. The most prevalent carotenoids in North American diets are a-carotene, b-carotene, lycopene, lutein, zeaxanthin, and b-cryptoxanthin. Of these, a-carotene, b-carotene, and b- cryptoxanthin can be converted into retinol (vitamin A) in the body and are called provitamin A carotenoids. Lycopene, lutein, and zeaxanthin have no vi- tamin A activity and are called nonprovitamin A carotenoids. The only known function of carotenoids in humans is to act as a source of vitamin A in the diet (provitamin A carotenoids only). Although epidemiological evidence suggests that higher blood concentrations of b-carotene and other carotenoids obtained from foods are associated with a lower risk of several chronic diseases, other evidence suggests possible harm arising from very large doses in population subgroups, such as smokers and asbestos workers. Currently, there is insufficient evidence to recommend that a certain percentage of dietary vitamin A should come from provitamin A carot- enoids. However, existing recommendations calling for the increased consump- tion of carotenoid-rich fruits and vegetables for their health-promoting benefits are strongly supported.
+282											
+283	Choline	AI	child_14_18	male	550	mg/d			219	Natl Academy DRI	
+284	Choline	AI	adult_19_30	male	550	mg/d			219	Natl Academy DRI	
+285	Choline	AI	adult_31_50	male	550	mg/d			219	Natl Academy DRI	
+286	Choline	AI	adult_51_70	male	550	mg/d			219	Natl Academy DRI	
+287	Choline	AI	adult_70_up	male	550	mg/d			219	Natl Academy DRI	
+288	Choline	AI	child_14_18	female	400	mg/d			219	Natl Academy DRI	
+289	Choline	AI	adult_19_30	female	425	mg/d			219	Natl Academy DRI	
+290	Choline	AI	adult_31_50	female	425	mg/d			219	Natl Academy DRI	
+291	Choline	AI	adult_51_70	female	425	mg/d			219	Natl Academy DRI	
+292	Choline	AI	adult_70_up	female	425	mg/d			219	Natl Academy DRI	
+293	Choline	AI	pregnant_19_50	female	450	mg/d			219	Natl Academy DRI	
+294	Choline	AI	lactating_19_50	female	550	mg/d			219	Natl Academy DRI	
+295											
+296	Choline	UL	child_14_18	male	3000	mg/d			219	Natl Academy DRI	
+297	Choline	UL	adult_19_30	male	3500	mg/d			219	Natl Academy DRI	
+298	Choline	UL	adult_31_50	male	3500	mg/d			219	Natl Academy DRI	
+299	Choline	UL	adult_51_70	male	3500	mg/d			219	Natl Academy DRI	
+300	Choline	UL	adult_70_up	male	3500	mg/d			219	Natl Academy DRI	
+301	Choline	UL	child_14_18	female	3000	mg/d			219	Natl Academy DRI	
+302	Choline	UL	adult_19_30	female	3500	mg/d			219	Natl Academy DRI	
+303	Choline	UL	adult_31_50	female	3500	mg/d			219	Natl Academy DRI	
+304	Choline	UL	adult_51_70	female	3500	mg/d			219	Natl Academy DRI	
+305	Choline	UL	adult_70_up	female	3500	mg/d			219	Natl Academy DRI	
+306	Choline	UL	pregnant_19_50	female	3500	mg/d			219	Natl Academy DRI	
+307	Choline	UL	lactating_19_50	female	3500	mg/d			219	Natl Academy DRI	
+308											
+309	Vitamin D	AI	child_14_18	male	5	µg/day			224	Natl Academy DRI	
+310	Vitamin D	AI	adult_19_30	male	5	µg/day			224	Natl Academy DRI	
+311	Vitamin D	AI	adult_31_50	male	5	µg/day			224	Natl Academy DRI	
+312	Vitamin D	AI	adult_51_70	male	10	µg/day			224	Natl Academy DRI	
+313	Vitamin D	AI	adult_70_up	male	15	µg/day			224	Natl Academy DRI	
+314	Vitamin D	AI	child_14_18	female	5	µg/day			224	Natl Academy DRI	
+315	Vitamin D	AI	adult_19_30	female	5	µg/day			224	Natl Academy DRI	
+316	Vitamin D	AI	adult_31_50	female	5	µg/day			224	Natl Academy DRI	
+317	Vitamin D	AI	adult_51_70	female	10	µg/day			224	Natl Academy DRI	
+318	Vitamin D	AI	adult_70_up	female	15	µg/day			224	Natl Academy DRI	
+319	Vitamin D	AI	pregnant_19_50	female	5	µg/day			224	Natl Academy DRI	
+320	Vitamin D	AI	lactating_19_50	female	5	µg/day			224	Natl Academy DRI	
+321											
+322	Vitamin D	UL	child_14_18	male	50	µg/day			224	Natl Academy DRI	
+323	Vitamin D	UL	adult_19_30	male	50	µg/day			224	Natl Academy DRI	
+324	Vitamin D	UL	adult_31_50	male	50	µg/day			224	Natl Academy DRI	
+325	Vitamin D	UL	adult_51_70	male	50	µg/day			224	Natl Academy DRI	
+326	Vitamin D	UL	adult_70_up	male	50	µg/day			224	Natl Academy DRI	
+327	Vitamin D	UL	child_14_18	female	50	µg/day			224	Natl Academy DRI	
+328	Vitamin D	UL	adult_19_30	female	50	µg/day			224	Natl Academy DRI	
+329	Vitamin D	UL	adult_31_50	female	50	µg/day			224	Natl Academy DRI	
+330	Vitamin D	UL	adult_51_70	female	50	µg/day			224	Natl Academy DRI	
+331	Vitamin D	UL	adult_70_up	female	50	µg/day			224	Natl Academy DRI	
+332	Vitamin D	UL	pregnant_19_50	female	50	µg/day			224	Natl Academy DRI	
+333	Vitamin D	UL	lactating_19_50	female	50	µg/day			224	Natl Academy DRI	
+334											
+335	Vitamin E	EAR	child_14_18	male	12	mg/day			234	Natl Academy DRI	
+336	Vitamin E	EAR	adult_19_30	male	12	mg/day			234	Natl Academy DRI	
+337	Vitamin E	EAR	adult_31_50	male	12	mg/day			234	Natl Academy DRI	
+338	Vitamin E	EAR	adult_51_70	male	12	mg/day			234	Natl Academy DRI	
+339	Vitamin E	EAR	adult_70_up	male	12	mg/day			234	Natl Academy DRI	
+340	Vitamin E	EAR	child_14_18	female	12	mg/day			234	Natl Academy DRI	
+341	Vitamin E	EAR	adult_19_30	female	12	mg/day			234	Natl Academy DRI	
+342	Vitamin E	EAR	adult_31_50	female	12	mg/day			234	Natl Academy DRI	
+343	Vitamin E	EAR	adult_51_70	female	12	mg/day			234	Natl Academy DRI	
+344	Vitamin E	EAR	adult_70_up	female	12	mg/day			234	Natl Academy DRI	
+345	Vitamin E	EAR	pregnant_19_50	female	12	mg/day			234	Natl Academy DRI	
+346	Vitamin E	EAR	lactating_19_50	female	16	mg/day			234	Natl Academy DRI	
+347											
+348	Vitamin E	RDA	child_14_18	male	15	mg/day			234	Natl Academy DRI	
+349	Vitamin E	RDA	adult_19_30	male	15	mg/day			234	Natl Academy DRI	
+350	Vitamin E	RDA	adult_31_50	male	15	mg/day			234	Natl Academy DRI	
+351	Vitamin E	RDA	adult_51_70	male	15	mg/day			234	Natl Academy DRI	
+352	Vitamin E	RDA	adult_70_up	male	15	mg/day			234	Natl Academy DRI	
+353	Vitamin E	RDA	child_14_18	female	15	mg/day			234	Natl Academy DRI	
+354	Vitamin E	RDA	adult_19_30	female	15	mg/day			234	Natl Academy DRI	
+355	Vitamin E	RDA	adult_31_50	female	15	mg/day			234	Natl Academy DRI	
+356	Vitamin E	RDA	adult_51_70	female	15	mg/day			234	Natl Academy DRI	
+357	Vitamin E	RDA	adult_70_up	female	15	mg/day			234	Natl Academy DRI	
+358	Vitamin E	RDA	pregnant_19_50	female	15	mg/day			234	Natl Academy DRI	
+359	Vitamin E	RDA	lactating_19_50	female	19	mg/day			234	Natl Academy DRI	
+360											
+361	Vitamin E	UL	child_14_18	male	800	mg/day			234	Natl Academy DRI	
+362	Vitamin E	UL	adult_19_30	male	1000	mg/day			234	Natl Academy DRI	
+363	Vitamin E	UL	adult_31_50	male	1000	mg/day			234	Natl Academy DRI	
+364	Vitamin E	UL	adult_51_70	male	1000	mg/day			234	Natl Academy DRI	
+365	Vitamin E	UL	adult_70_up	male	1000	mg/day			234	Natl Academy DRI	
+366	Vitamin E	UL	child_14_18	female	800	mg/day			234	Natl Academy DRI	
+367	Vitamin E	UL	adult_19_30	female	1000	mg/day			234	Natl Academy DRI	
+368	Vitamin E	UL	adult_31_50	female	1000	mg/day			234	Natl Academy DRI	
+369	Vitamin E	UL	adult_51_70	female	1000	mg/day			234	Natl Academy DRI	
+370	Vitamin E	UL	adult_70_up	female	1000	mg/day			234	Natl Academy DRI	
+371	Vitamin E	UL	pregnant_19_50	female	1000	mg/day			234	Natl Academy DRI	
+372	Vitamin E	UL	lactating_19_50	female	1000	mg/day			234	Natl Academy DRI	
+373											
+374	Folate	EAR	child_14_18	male	330				244	Natl Academy DRI	
+375	Folate	EAR	adult_19_30	male	320				244	Natl Academy DRI	
+376	Folate	EAR	adult_31_50	male	320				244	Natl Academy DRI	
+377	Folate	EAR	adult_51_70	male	320				244	Natl Academy DRI	
+378	Folate	EAR	adult_70_up	male	320				244	Natl Academy DRI	
+379	Folate	EAR	child_14_18	female	330				244	Natl Academy DRI	
+380	Folate	EAR	adult_19_30	female	320				244	Natl Academy DRI	
+381	Folate	EAR	adult_31_50	female	320				244	Natl Academy DRI	
+382	Folate	EAR	adult_51_70	female	320				244	Natl Academy DRI	
+383	Folate	EAR	adult_70_up	female	320				244	Natl Academy DRI	
+384	Folate	EAR	pregnant_19_50	female	520				244	Natl Academy DRI	
+385	Folate	EAR	lactating_19_50	female	450				244	Natl Academy DRI	
+386											
+387	Folate	RDA	child_14_18	male	400				244	Natl Academy DRI	
+388	Folate	RDA	adult_19_30	male	400				244	Natl Academy DRI	
+389	Folate	RDA	adult_31_50	male	400				244	Natl Academy DRI	
+390	Folate	RDA	adult_51_70	male	400				244	Natl Academy DRI	
+391	Folate	RDA	adult_70_up	male	400				244	Natl Academy DRI	
+392	Folate	RDA	child_14_18	female	400				244	Natl Academy DRI	
+393	Folate	RDA	adult_19_30	female	400				244	Natl Academy DRI	
+394	Folate	RDA	adult_31_50	female	400				244	Natl Academy DRI	
+395	Folate	RDA	adult_51_70	female	400				244	Natl Academy DRI	
+396	Folate	RDA	adult_70_up	female	400				244	Natl Academy DRI	
+397	Folate	RDA	pregnant_19_50	female	600				244	Natl Academy DRI	
+398	Folate	RDA	lactating_19_50	female	500				244	Natl Academy DRI	
+399											
+400	Folate	UL	child_14_18	male	800				244	Natl Academy DRI	
+401	Folate	UL	adult_19_30	male	1000				244	Natl Academy DRI	
+402	Folate	UL	adult_31_50	male	1000				244	Natl Academy DRI	
+403	Folate	UL	adult_51_70	male	1000				244	Natl Academy DRI	
+404	Folate	UL	adult_70_up	male	1000				244	Natl Academy DRI	
+405	Folate	UL	child_14_18	female	800				244	Natl Academy DRI	
+406	Folate	UL	adult_19_30	female	1000				244	Natl Academy DRI	
+407	Folate	UL	adult_31_50	female	1000				244	Natl Academy DRI	
+408	Folate	UL	adult_51_70	female	1000				244	Natl Academy DRI	
+409	Folate	UL	adult_70_up	female	1000				244	Natl Academy DRI	
+410	Folate	UL	pregnant_19_50	female	1000				244	Natl Academy DRI	
+411	Folate	UL	lactating_19_50	female	1000				244	Natl Academy DRI	
+412											
+413	Vitamin K	AI	child_14_18	male	75				254	Natl Academy DRI	
+414	Vitamin K	AI	adult_19_30	male	120				254	Natl Academy DRI	
+415	Vitamin K	AI	adult_31_50	male	120				254	Natl Academy DRI	
+416	Vitamin K	AI	adult_51_70	male	120				254	Natl Academy DRI	
+417	Vitamin K	AI	adult_70_up	male	120				254	Natl Academy DRI	
+418	Vitamin K	AI	child_14_18	female	75				254	Natl Academy DRI	
+419	Vitamin K	AI	adult_19_30	female	90				254	Natl Academy DRI	
+420	Vitamin K	AI	adult_31_50	female	90				254	Natl Academy DRI	
+421	Vitamin K	AI	adult_51_70	female	90				254	Natl Academy DRI	
+422	Vitamin K	AI	adult_70_up	female	90				254	Natl Academy DRI	
+423	Vitamin K	AI	pregnant_19_50	female	90				254	Natl Academy DRI	
+424	Vitamin K	AI	lactating_19_50	female	90				254	Natl Academy DRI	
+425											
+426	Vitamin K	UL	all	all	NG				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+427											
+428	Vitamin K	LU	child_14_18	male	75				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+429	Vitamin K	LU	adult_19_30	male	120				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+430	Vitamin K	LU	adult_31_50	male	120				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+431	Vitamin K	LU	adult_51_70	male	120				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+432	Vitamin K	LU	adult_70_up	male	120				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+433	Vitamin K	LU	child_14_18	female	75				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+434	Vitamin K	LU	adult_19_30	female	90				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+435	Vitamin K	LU	adult_31_50	female	90				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+436	Vitamin K	LU	adult_51_70	female	90				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+437	Vitamin K	LU	adult_70_up	female	90				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+438	Vitamin K	LU	pregnant_19_50	female	90				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+439	Vitamin K	LU	lactating_19_50	female	90				254	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+440											
+441	Niacin	EAR	child_14_18	male	12				262	Natl Academy DRI	
+442	Niacin	EAR	adult_19_30	male	12				262	Natl Academy DRI	
+443	Niacin	EAR	adult_31_50	male	12				262	Natl Academy DRI	
+444	Niacin	EAR	adult_51_70	male	12				262	Natl Academy DRI	
+445	Niacin	EAR	adult_70_up	male	12				262	Natl Academy DRI	
+446	Niacin	EAR	child_14_18	female	11				262	Natl Academy DRI	
+447	Niacin	EAR	adult_19_30	female	11				262	Natl Academy DRI	
+448	Niacin	EAR	adult_31_50	female	11				262	Natl Academy DRI	
+449	Niacin	EAR	adult_51_70	female	11				262	Natl Academy DRI	
+450	Niacin	EAR	adult_70_up	female	11				262	Natl Academy DRI	
+451	Niacin	EAR	pregnant_19_50	female	14				262	Natl Academy DRI	
+452	Niacin	EAR	lactating_19_50	female	13				262	Natl Academy DRI	
+453									262		
+454	Niacin	RDA	child_14_18	male	16				262	Natl Academy DRI	
+455	Niacin	RDA	adult_19_30	male	16				262	Natl Academy DRI	
+456	Niacin	RDA	adult_31_50	male	16				262	Natl Academy DRI	
+457	Niacin	RDA	adult_51_70	male	16				262	Natl Academy DRI	
+458	Niacin	RDA	adult_70_up	male	16				262	Natl Academy DRI	
+459	Niacin	RDA	child_14_18	female	14				262	Natl Academy DRI	
+460	Niacin	RDA	adult_19_30	female	14				262	Natl Academy DRI	
+461	Niacin	RDA	adult_31_50	female	14				262	Natl Academy DRI	
+462	Niacin	RDA	adult_51_70	female	14				262	Natl Academy DRI	
+463	Niacin	RDA	adult_70_up	female	14				262	Natl Academy DRI	
+464	Niacin	RDA	pregnant_19_50	female	18				262	Natl Academy DRI	
+465	Niacin	RDA	lactating_19_50	female	17				262	Natl Academy DRI	
+466									262		
+467	Niacin	UL	child_14_18	male	30				262	Natl Academy DRI	
+468	Niacin	UL	adult_19_30	male	35				262	Natl Academy DRI	
+469	Niacin	UL	adult_31_50	male	35				262	Natl Academy DRI	
+470	Niacin	UL	adult_51_70	male	35				262	Natl Academy DRI	
+471	Niacin	UL	adult_70_up	male	35				262	Natl Academy DRI	
+472	Niacin	UL	child_14_18	female	30				262	Natl Academy DRI	
+473	Niacin	UL	adult_19_30	female	35				262	Natl Academy DRI	
+474	Niacin	UL	adult_31_50	female	35				262	Natl Academy DRI	
+475	Niacin	UL	adult_51_70	female	35				262	Natl Academy DRI	
+476	Niacin	UL	adult_70_up	female	35				262	Natl Academy DRI	
+477	Niacin	UL	pregnant_19_50	female	35				262	Natl Academy DRI	
+478	Niacin	UL	lactating_19_50	female	35				262	Natl Academy DRI	
+479											
+480	Pantothenic Acid	AI	child_14_18	male	5				270	Natl Academy DRI	
+481	Pantothenic Acid	AI	adult_19_30	male	5				270	Natl Academy DRI	
+482	Pantothenic Acid	AI	adult_31_50	male	5				270	Natl Academy DRI	
+483	Pantothenic Acid	AI	adult_51_70	male	5				270	Natl Academy DRI	
+484	Pantothenic Acid	AI	adult_70_up	male	5				270	Natl Academy DRI	
+485	Pantothenic Acid	AI	child_14_18	female	5				270	Natl Academy DRI	
+486	Pantothenic Acid	AI	adult_19_30	female	5				270	Natl Academy DRI	
+487	Pantothenic Acid	AI	adult_31_50	female	5				270	Natl Academy DRI	
+488	Pantothenic Acid	AI	adult_51_70	female	5				270	Natl Academy DRI	
+489	Pantothenic Acid	AI	adult_70_up	female	5				270	Natl Academy DRI	
+490	Pantothenic Acid	AI	pregnant_19_50	female	6				270	Natl Academy DRI	
+491	Pantothenic Acid	AI	lactating_19_50	female	7				270	Natl Academy DRI	
+492											
+493	Pantothenic Acid	UL	child_14_18	male	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+494	Pantothenic Acid	UL	adult_19_30	male	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+495	Pantothenic Acid	UL	adult_31_50	male	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+496	Pantothenic Acid	UL	adult_51_70	male	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+497	Pantothenic Acid	UL	adult_70_up	male	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+498	Pantothenic Acid	UL	child_14_18	female	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+499	Pantothenic Acid	UL	adult_19_30	female	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+500	Pantothenic Acid	UL	adult_31_50	female	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+501	Pantothenic Acid	UL	adult_51_70	female	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+502	Pantothenic Acid	UL	adult_70_up	female	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+503	Pantothenic Acid	UL	pregnant_19_50	female	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+504	Pantothenic Acid	UL	lactating_19_50	female	ND				270	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+505											
+506	Riboflavin	EAR	child_14_18	male	1.1				274	Natl Academy DRI	
+507	Riboflavin	EAR	adult_19_30	male	1.1				274	Natl Academy DRI	
+508	Riboflavin	EAR	adult_31_50	male	1.1				274	Natl Academy DRI	
+509	Riboflavin	EAR	adult_51_70	male	1.1				274	Natl Academy DRI	
+510	Riboflavin	EAR	adult_70_up	male	1.1				274	Natl Academy DRI	
+511	Riboflavin	EAR	child_14_18	female	0.9				274	Natl Academy DRI	
+512	Riboflavin	EAR	adult_19_30	female	0.9				274	Natl Academy DRI	
+513	Riboflavin	EAR	adult_31_50	female	0.9				274	Natl Academy DRI	
+514	Riboflavin	EAR	adult_51_70	female	0.9				274	Natl Academy DRI	
+515	Riboflavin	EAR	adult_70_up	female	0.9				274	Natl Academy DRI	
+516	Riboflavin	EAR	pregnant_19_50	female	1.2				274	Natl Academy DRI	
+517	Riboflavin	EAR	lactating_19_50	female	1.3				274	Natl Academy DRI	
+518											
+519	Riboflavin	RDA	child_14_18	male	1.3				274	Natl Academy DRI	
+520	Riboflavin	RDA	adult_19_30	male	1.3				274	Natl Academy DRI	
+521	Riboflavin	RDA	adult_31_50	male	1.3				274	Natl Academy DRI	
+522	Riboflavin	RDA	adult_51_70	male	1.3				274	Natl Academy DRI	
+523	Riboflavin	RDA	adult_70_up	male	1.3				274	Natl Academy DRI	
+524	Riboflavin	RDA	child_14_18	female	1.0				274	Natl Academy DRI	
+525	Riboflavin	RDA	adult_19_30	female	1.1				274	Natl Academy DRI	
+526	Riboflavin	RDA	adult_31_50	female	1.1				274	Natl Academy DRI	
+527	Riboflavin	RDA	adult_51_70	female	1.1				274	Natl Academy DRI	
+528	Riboflavin	RDA	adult_70_up	female	1.1				274	Natl Academy DRI	
+529	Riboflavin	RDA	pregnant_19_50	female	1.4				274	Natl Academy DRI	
+530	Riboflavin	RDA	lactating_19_50	female	1.6				274	Natl Academy DRI	
+531											
+532	Riboflavin	UL	child_14_18	male	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+533	Riboflavin	UL	adult_19_30	male	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+534	Riboflavin	UL	adult_31_50	male	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+535	Riboflavin	UL	adult_51_70	male	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+536	Riboflavin	UL	adult_70_up	male	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+537	Riboflavin	UL	child_14_18	female	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+538	Riboflavin	UL	adult_19_30	female	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+539	Riboflavin	UL	adult_31_50	female	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+540	Riboflavin	UL	adult_51_70	female	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+541	Riboflavin	UL	adult_70_up	female	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+542	Riboflavin	UL	pregnant_19_50	female	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+543	Riboflavin	UL	lactating_19_50	female	ND				274	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+544											
+545	Thiamin	EAR	child_14_18	male	1.0				280	Natl Academy DRI	
+546	Thiamin	EAR	adult_19_30	male	1.0				280	Natl Academy DRI	
+547	Thiamin	EAR	adult_31_50	male	1.0				280	Natl Academy DRI	
+548	Thiamin	EAR	adult_51_70	male	1.0				280	Natl Academy DRI	
+549	Thiamin	EAR	adult_70_up	male	1.0				280	Natl Academy DRI	
+550	Thiamin	EAR	child_14_18	female	0.9				280	Natl Academy DRI	
+551	Thiamin	EAR	adult_19_30	female	0.9				280	Natl Academy DRI	
+552	Thiamin	EAR	adult_31_50	female	0.9				280	Natl Academy DRI	
+553	Thiamin	EAR	adult_51_70	female	0.9				280	Natl Academy DRI	
+554	Thiamin	EAR	adult_70_up	female	0.9				280	Natl Academy DRI	
+555	Thiamin	EAR	pregnant_19_50	female	1.2				280	Natl Academy DRI	
+556	Thiamin	EAR	lactating_19_50	female	1.2				280	Natl Academy DRI	
+557											
+558	Thiamin	RDA	child_14_18	male	1.2				280	Natl Academy DRI	
+559	Thiamin	RDA	adult_19_30	male	1.2				280	Natl Academy DRI	
+560	Thiamin	RDA	adult_31_50	male	1.2				280	Natl Academy DRI	
+561	Thiamin	RDA	adult_51_70	male	1.2				280	Natl Academy DRI	
+562	Thiamin	RDA	adult_70_up	male	1.2				280	Natl Academy DRI	
+563	Thiamin	RDA	child_14_18	female	1.0				280	Natl Academy DRI	
+564	Thiamin	RDA	adult_19_30	female	1.1				280	Natl Academy DRI	
+565	Thiamin	RDA	adult_31_50	female	1.1				280	Natl Academy DRI	
+566	Thiamin	RDA	adult_51_70	female	1.1				280	Natl Academy DRI	
+567	Thiamin	RDA	adult_70_up	female	1.1				280	Natl Academy DRI	
+568	Thiamin	RDA	pregnant_19_50	female	1.4				280	Natl Academy DRI	
+569	Thiamin	RDA	lactating_19_50	female	1.4				280	Natl Academy DRI	
+570											
+571	Thiamin	UL	child_14_18	male	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+572	Thiamin	UL	adult_19_30	male	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+573	Thiamin	UL	adult_31_50	male	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+574	Thiamin	UL	adult_51_70	male	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+575	Thiamin	UL	adult_70_up	male	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+576	Thiamin	UL	child_14_18	female	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+577	Thiamin	UL	adult_19_30	female	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+578	Thiamin	UL	adult_31_50	female	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+579	Thiamin	UL	adult_51_70	female	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+580	Thiamin	UL	adult_70_up	female	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+581	Thiamin	UL	pregnant_19_50	female	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+582	Thiamin	UL	lactating_19_50	female	ND				280	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+583											
+584	Calcium	AI	child_14_18	male	1300				286	Natl Academy DRI	
+585	Calcium	AI	adult_19_30	male	1000				286	Natl Academy DRI	
+586	Calcium	AI	adult_31_50	male	1000				286	Natl Academy DRI	
+587	Calcium	AI	adult_51_70	male	1200				286	Natl Academy DRI	
+588	Calcium	AI	adult_70_up	male	1200				286	Natl Academy DRI	
+589	Calcium	AI	child_14_18	female	1300				286	Natl Academy DRI	
+590	Calcium	AI	adult_19_30	female	1000				286	Natl Academy DRI	
+591	Calcium	AI	adult_31_50	female	1000				286	Natl Academy DRI	
+592	Calcium	AI	adult_51_70	female	1200				286	Natl Academy DRI	
+593	Calcium	AI	adult_70_up	female	1200				286	Natl Academy DRI	
+594	Calcium	AI	pregnant_19_50	female	1000				286	Natl Academy DRI	
+595	Calcium	AI	lactating_19_50	female	1000				286	Natl Academy DRI	
+596											
+597	Calcium	UL	child_14_18	male	2500				286	Natl Academy DRI	
+598	Calcium	UL	adult_19_30	male	2500				286	Natl Academy DRI	
+599	Calcium	UL	adult_31_50	male	2500				286	Natl Academy DRI	
+600	Calcium	UL	adult_51_70	male	2500				286	Natl Academy DRI	
+601	Calcium	UL	adult_70_up	male	2500				286	Natl Academy DRI	
+602	Calcium	UL	child_14_18	female	2500				286	Natl Academy DRI	
+603	Calcium	UL	adult_19_30	female	2500				286	Natl Academy DRI	
+604	Calcium	UL	adult_31_50	female	2500				286	Natl Academy DRI	
+605	Calcium	UL	adult_51_70	female	2500				286	Natl Academy DRI	
+606	Calcium	UL	adult_70_up	female	2500				286	Natl Academy DRI	
+607	Calcium	UL	pregnant_19_50	female	2500				286	Natl Academy DRI	
+608	Calcium	UL	lactating_19_50	female	2500				286	Natl Academy DRI	
+609											
+610	Chromium	AI	child_14_18	male	35				296	Natl Academy DRI	
+611	Chromium	AI	adult_19_30	male	35				296	Natl Academy DRI	
+612	Chromium	AI	adult_31_50	male	35				296	Natl Academy DRI	
+613	Chromium	AI	adult_51_70	male	30				296	Natl Academy DRI	
+614	Chromium	AI	adult_70_up	male	30				296	Natl Academy DRI	
+615	Chromium	AI	child_14_18	female	24				296	Natl Academy DRI	
+616	Chromium	AI	adult_19_30	female	25				296	Natl Academy DRI	
+617	Chromium	AI	adult_31_50	female	25				296	Natl Academy DRI	
+618	Chromium	AI	adult_51_70	female	20				296	Natl Academy DRI	
+619	Chromium	AI	adult_70_up	female	20				296	Natl Academy DRI	
+620	Chromium	AI	pregnant_19_50	female	30				296	Natl Academy DRI	
+621	Chromium	AI	lactating_19_50	female	45				296	Natl Academy DRI	
+622											
+623	Chromium	UL	child_14_18	male	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+624	Chromium	UL	adult_19_30	male	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+625	Chromium	UL	adult_31_50	male	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+626	Chromium	UL	adult_51_70	male	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+627	Chromium	UL	adult_70_up	male	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+628	Chromium	UL	child_14_18	female	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+629	Chromium	UL	adult_19_30	female	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+630	Chromium	UL	adult_31_50	female	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+631	Chromium	UL	adult_51_70	female	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+632	Chromium	UL	adult_70_up	female	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+633	Chromium	UL	pregnant_19_50	female	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+634	Chromium	UL	lactating_19_50	female	ND				296	Natl Academy DRI	Data were insufficient to set a UL. In the absence of a UL, extra caution may be warranted in consuming levels above the recommended intake.
+635											
+636	Copper	EAR	child_14_18	male	685				304	Natl Academy DRI	
+637	Copper	EAR	adult_19_30	male	700				304	Natl Academy DRI	
+638	Copper	EAR	adult_31_50	male	700				304	Natl Academy DRI	
+639	Copper	EAR	adult_51_70	male	700				304	Natl Academy DRI	
+640	Copper	EAR	adult_70_up	male	700				304	Natl Academy DRI	
+641	Copper	EAR	child_14_18	female	685				304	Natl Academy DRI	
+642	Copper	EAR	adult_19_30	female	700				304	Natl Academy DRI	
+643	Copper	EAR	adult_31_50	female	700				304	Natl Academy DRI	
+644	Copper	EAR	adult_51_70	female	700				304	Natl Academy DRI	
+645	Copper	EAR	adult_70_up	female	700				304	Natl Academy DRI	
+646	Copper	EAR	pregnant_19_50	female	800				304	Natl Academy DRI	
+647	Copper	EAR	lactating_19_50	female	1000				304	Natl Academy DRI	
+648											
+649	Copper	RDA	child_14_18	male	890				304	Natl Academy DRI	
+650	Copper	RDA	adult_19_30	male	900				304	Natl Academy DRI	
+651	Copper	RDA	adult_31_50	male	900				304	Natl Academy DRI	
+652	Copper	RDA	adult_51_70	male	900				304	Natl Academy DRI	
+653	Copper	RDA	adult_70_up	male	900				304	Natl Academy DRI	
+654	Copper	RDA	child_14_18	female	890				304	Natl Academy DRI	
+655	Copper	RDA	adult_19_30	female	900				304	Natl Academy DRI	
+656	Copper	RDA	adult_31_50	female	900				304	Natl Academy DRI	
+657	Copper	RDA	adult_51_70	female	900				304	Natl Academy DRI	
+658	Copper	RDA	adult_70_up	female	900				304	Natl Academy DRI	
+659	Copper	RDA	pregnant_19_50	female	1000				304	Natl Academy DRI	
+660	Copper	RDA	lactating_19_50	female	1300				304	Natl Academy DRI	
+661											
+662	Copper	UL	child_14_18	male	8000				304	Natl Academy DRI	
+663	Copper	UL	adult_19_30	male	10000				304	Natl Academy DRI	
+664	Copper	UL	adult_31_50	male	10000				304	Natl Academy DRI	
+665	Copper	UL	adult_51_70	male	10000				304	Natl Academy DRI	
+666	Copper	UL	adult_70_up	male	10000				304	Natl Academy DRI	
+667	Copper	UL	child_14_18	female	8000				304	Natl Academy DRI	
+668	Copper	UL	adult_19_30	female	10000				304	Natl Academy DRI	
+669	Copper	UL	adult_31_50	female	10000				304	Natl Academy DRI	
+670	Copper	UL	adult_51_70	female	10000				304	Natl Academy DRI	
+671	Copper	UL	adult_70_up	female	10000				304	Natl Academy DRI	
+672	Copper	UL	pregnant_19_50	female	10000				304	Natl Academy DRI	
+673	Copper	UL	lactating_19_50	female	10000				304	Natl Academy DRI	
+674											
+675	Fluoride	AI	child_14_18	male	3				312	Natl Academy DRI	
+676	Fluoride	AI	adult_19_30	male	4				312	Natl Academy DRI	
+677	Fluoride	AI	adult_31_50	male	4				312	Natl Academy DRI	
+678	Fluoride	AI	adult_51_70	male	4				312	Natl Academy DRI	
+679	Fluoride	AI	adult_70_up	male	4				312	Natl Academy DRI	
+680	Fluoride	AI	child_14_18	female	3				312	Natl Academy DRI	
+681	Fluoride	AI	adult_19_30	female	3				312	Natl Academy DRI	
+682	Fluoride	AI	adult_31_50	female	3				312	Natl Academy DRI	
+683	Fluoride	AI	adult_51_70	female	3				312	Natl Academy DRI	
+684	Fluoride	AI	adult_70_up	female	3				312	Natl Academy DRI	
+685	Fluoride	AI	pregnant_19_50	female	3				312	Natl Academy DRI	
+686	Fluoride	AI	lactating_19_50	female	3				312	Natl Academy DRI	
+687											
+688	Fluoride	UL	child_14_18	male	10				312	Natl Academy DRI	
+689	Fluoride	UL	adult_19_30	male	10				312	Natl Academy DRI	
+690	Fluoride	UL	adult_31_50	male	10				312	Natl Academy DRI	
+691	Fluoride	UL	adult_51_70	male	10				312	Natl Academy DRI	
+692	Fluoride	UL	adult_70_up	male	10				312	Natl Academy DRI	
+693	Fluoride	UL	child_14_18	female	10				312	Natl Academy DRI	
+694	Fluoride	UL	adult_19_30	female	10				312	Natl Academy DRI	
+695	Fluoride	UL	adult_31_50	female	10				312	Natl Academy DRI	
+696	Fluoride	UL	adult_51_70	female	10				312	Natl Academy DRI	
+697	Fluoride	UL	adult_70_up	female	10				312	Natl Academy DRI	
+698	Fluoride	UL	pregnant_19_50	female	10				312	Natl Academy DRI	
+699	Fluoride	UL	lactating_19_50	female	10				312	Natl Academy DRI	
+700											
+701	Iodine	EAR	child_14_18	male	95				320	Natl Academy DRI	
+702	Iodine	EAR	adult_19_30	male	95				320	Natl Academy DRI	
+703	Iodine	EAR	adult_31_50	male	95				320	Natl Academy DRI	
+704	Iodine	EAR	adult_51_70	male	95				320	Natl Academy DRI	
+705	Iodine	EAR	adult_70_up	male	95				320	Natl Academy DRI	
+706	Iodine	EAR	child_14_18	female	95				320	Natl Academy DRI	
+707	Iodine	EAR	adult_19_30	female	95				320	Natl Academy DRI	
+708	Iodine	EAR	adult_31_50	female	95				320	Natl Academy DRI	
+709	Iodine	EAR	adult_51_70	female	95				320	Natl Academy DRI	
+710	Iodine	EAR	adult_70_up	female	95				320	Natl Academy DRI	
+711	Iodine	EAR	pregnant_19_50	female	160				320	Natl Academy DRI	
+712	Iodine	EAR	lactating_19_50	female	209				320	Natl Academy DRI	
+713											
+714	Iodine	RDA	child_14_18	male	150				320	Natl Academy DRI	
+715	Iodine	RDA	adult_19_30	male	150				320	Natl Academy DRI	
+716	Iodine	RDA	adult_31_50	male	150				320	Natl Academy DRI	
+717	Iodine	RDA	adult_51_70	male	150				320	Natl Academy DRI	
+718	Iodine	RDA	adult_70_up	male	150				320	Natl Academy DRI	
+719	Iodine	RDA	child_14_18	female	150				320	Natl Academy DRI	
+720	Iodine	RDA	adult_19_30	female	150				320	Natl Academy DRI	
+721	Iodine	RDA	adult_31_50	female	150				320	Natl Academy DRI	
+722	Iodine	RDA	adult_51_70	female	150				320	Natl Academy DRI	
+723	Iodine	RDA	adult_70_up	female	150				320	Natl Academy DRI	
+724	Iodine	RDA	pregnant_19_50	female	220				320	Natl Academy DRI	
+725	Iodine	RDA	lactating_19_50	female	290				320	Natl Academy DRI	
+726											
+727	Iodine	UL	child_14_18	male	900				320	Natl Academy DRI	
+728	Iodine	UL	adult_19_30	male	1100				320	Natl Academy DRI	
+729	Iodine	UL	adult_31_50	male	1100				320	Natl Academy DRI	
+730	Iodine	UL	adult_51_70	male	1100				320	Natl Academy DRI	
+731	Iodine	UL	adult_70_up	male	1100				320	Natl Academy DRI	
+732	Iodine	UL	child_14_18	female	1100				320	Natl Academy DRI	
+733	Iodine	UL	adult_19_30	female	1100				320	Natl Academy DRI	
+734	Iodine	UL	adult_31_50	female	1100				320	Natl Academy DRI	
+735	Iodine	UL	adult_51_70	female	1100				320	Natl Academy DRI	
+736	Iodine	UL	adult_70_up	female	1100				320	Natl Academy DRI	
+737	Iodine	UL	pregnant_19_50	female	1100				320	Natl Academy DRI	
+738	Iodine	UL	lactating_19_50	female	1100				320	Natl Academy DRI	
+739											
+740	Iron	EAR	child_14_18	male	7.7				328	Natl Academy DRI	
+741	Iron	EAR	adult_19_30	male	6.0				328	Natl Academy DRI	
+742	Iron	EAR	adult_31_50	male	6.0				328	Natl Academy DRI	
+743	Iron	EAR	adult_51_70	male	6.0				328	Natl Academy DRI	
+744	Iron	EAR	adult_70_up	male	6.0				328	Natl Academy DRI	
+745	Iron	EAR	child_14_18	female	7.9				328	Natl Academy DRI	
+746	Iron	EAR	adult_19_30	female	8.1				328	Natl Academy DRI	
+747	Iron	EAR	adult_31_50	female	8.1				328	Natl Academy DRI	
+748	Iron	EAR	adult_51_70	female	5				328	Natl Academy DRI	
+749	Iron	EAR	adult_70_up	female	5				328	Natl Academy DRI	
+750	Iron	EAR	pregnant_19_50	female	22				328	Natl Academy DRI	
+751	Iron	EAR	lactating_19_50	female	6.5				328	Natl Academy DRI	
+752											
+753	Iron	RDA	child_14_18	male	11				328	Natl Academy DRI	
+754	Iron	RDA	adult_19_30	male	8				328	Natl Academy DRI	
+755	Iron	RDA	adult_31_50	male	8				328	Natl Academy DRI	
+756	Iron	RDA	adult_51_70	male	8				328	Natl Academy DRI	
+757	Iron	RDA	adult_70_up	male	8				328	Natl Academy DRI	
+758	Iron	RDA	child_14_18	female	15				328	Natl Academy DRI	
+759	Iron	RDA	adult_19_30	female	18				328	Natl Academy DRI	
+760	Iron	RDA	adult_31_50	female	18				328	Natl Academy DRI	
+761	Iron	RDA	adult_51_70	female	8				328	Natl Academy DRI	
+762	Iron	RDA	adult_70_up	female	8				328	Natl Academy DRI	
+763	Iron	RDA	pregnant_19_50	female	27				328	Natl Academy DRI	
+764	Iron	RDA	lactating_19_50	female	9				328	Natl Academy DRI	
+765											
+766	Iron	UL	child_14_18	male	45				328	Natl Academy DRI	
+767	Iron	UL	adult_19_30	male	45				328	Natl Academy DRI	
+768	Iron	UL	adult_31_50	male	45				328	Natl Academy DRI	
+769	Iron	UL	adult_51_70	male	45				328	Natl Academy DRI	
+770	Iron	UL	adult_70_up	male	45				328	Natl Academy DRI	
+771	Iron	UL	child_14_18	female	45				328	Natl Academy DRI	
+772	Iron	UL	adult_19_30	female	45				328	Natl Academy DRI	
+773	Iron	UL	adult_31_50	female	45				328	Natl Academy DRI	
+774	Iron	UL	adult_51_70	female	45				328	Natl Academy DRI	
+775	Iron	UL	adult_70_up	female	45				328	Natl Academy DRI	
+776	Iron	UL	pregnant_19_50	female	45				328	Natl Academy DRI	
+777	Iron	UL	lactating_19_50	female	45				328	Natl Academy DRI	
+778											
+779	Magnesium	EAR	child_14_18	male	340				340	Natl Academy DRI	
+780	Magnesium	EAR	adult_19_30	male	33				340	Natl Academy DRI	
+781	Magnesium	EAR	adult_31_50	male	350				340	Natl Academy DRI	
+782	Magnesium	EAR	adult_51_70	male	350				340	Natl Academy DRI	
+783	Magnesium	EAR	adult_70_up	male	350				340	Natl Academy DRI	
+784	Magnesium	EAR	child_14_18	female	300				340	Natl Academy DRI	
+785	Magnesium	EAR	adult_19_30	female	255				340	Natl Academy DRI	
+786	Magnesium	EAR	adult_31_50	female	265				340	Natl Academy DRI	
+787	Magnesium	EAR	adult_51_70	female	265				340	Natl Academy DRI	
+788	Magnesium	EAR	adult_70_up	female	265				340	Natl Academy DRI	
+789	Magnesium	EAR	pregnant_19_30	female	290				340	Natl Academy DRI	
+790	Magnesium	EAR	pregnant_31_50	female	300				340	Natl Academy DRI	
+791	Magnesium	EAR	lactating_19_30	female	255				340	Natl Academy DRI	
+792	Magnesium	EAR	lactating_31_50	female	265				340	Natl Academy DRI	
+793											
+794	Magnesium	RDA	child_14_18	male	410				340	Natl Academy DRI	
+795	Magnesium	RDA	adult_19_30	male	400				340	Natl Academy DRI	
+796	Magnesium	RDA	adult_31_50	male	420				340	Natl Academy DRI	
+797	Magnesium	RDA	adult_51_70	male	420				340	Natl Academy DRI	
+798	Magnesium	RDA	adult_70_up	male	420				340	Natl Academy DRI	
+799	Magnesium	RDA	child_14_18	female	360				340	Natl Academy DRI	
+800	Magnesium	RDA	adult_19_30	female	310				340	Natl Academy DRI	
+801	Magnesium	RDA	adult_31_50	female	320				340	Natl Academy DRI	
+802	Magnesium	RDA	adult_51_70	female	320				340	Natl Academy DRI	
+803	Magnesium	RDA	adult_70_up	female	320				340	Natl Academy DRI	
+804	Magnesium	RDA	pregnant_19_30	female	350				340	Natl Academy DRI	
+805	Magnesium	RDA	pregnant_31_50	female	360				340	Natl Academy DRI	
+806	Magnesium	RDA	lactating_19_30	female	310				340	Natl Academy DRI	
+807	Magnesium	RDA	lactating_31_50	female	320				340	Natl Academy DRI	
+808											
+809	Magnesium	UL_supp	child_14_18	male	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+810	Magnesium	UL_supp	adult_19_30	male	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+811	Magnesium	UL_supp	adult_31_50	male	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+812	Magnesium	UL_supp	adult_51_70	male	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+813	Magnesium	UL_supp	adult_70_up	male	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+814	Magnesium	UL_supp	child_14_18	female	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+815	Magnesium	UL_supp	adult_19_30	female	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+816	Magnesium	UL_supp	adult_31_50	female	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+817	Magnesium	UL_supp	adult_51_70	female	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+818	Magnesium	UL_supp	adult_70_up	female	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+819	Magnesium	UL_supp	pregnant_19_50	female	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+820	Magnesium	UL_supp	lactating_19_50	female	350				340	Natl Academy DRI	The ULs for magnesium represent intake from pharmacological agents only and do not include intake from food and water.
+821											
+822	Manganese	AI	child_14_18	male					350	Natl Academy DRI	
+823	Manganese	AI	adult_19_30	male					350	Natl Academy DRI	
+824	Manganese	AI	adult_31_50	male					350	Natl Academy DRI	
+825	Manganese	AI	adult_51_70	male					350	Natl Academy DRI	
+826	Manganese	AI	adult_70_up	male					350	Natl Academy DRI	
+827	Manganese	AI	child_14_18	female					350	Natl Academy DRI	
+828	Manganese	AI	adult_19_30	female					350	Natl Academy DRI	
+829	Manganese	AI	adult_31_50	female					350	Natl Academy DRI	
+830	Manganese	AI	adult_51_70	female					350	Natl Academy DRI	
+831	Manganese	AI	adult_70_up	female					350	Natl Academy DRI	
+832	Manganese	AI	pregnant_19_50	female					350	Natl Academy DRI	
+833	Manganese	AI	lactating_19_50	female					350	Natl Academy DRI	
+834									350		
+835	Manganese	UL	child_14_18	male					350	Natl Academy DRI	
+836	Manganese	UL	adult_19_30	male					350	Natl Academy DRI	
+837	Manganese	UL	adult_31_50	male					350	Natl Academy DRI	
+838	Manganese	UL	adult_51_70	male					350	Natl Academy DRI	
+839	Manganese	UL	adult_70_up	male					350	Natl Academy DRI	
+840	Manganese	UL	child_14_18	female					350	Natl Academy DRI	
+841	Manganese	UL	adult_19_30	female					350	Natl Academy DRI	
+842	Manganese	UL	adult_31_50	female					350	Natl Academy DRI	
+843	Manganese	UL	adult_51_70	female					350	Natl Academy DRI	
+844	Manganese	UL	adult_70_up	female					350	Natl Academy DRI	
+845	Manganese	UL	pregnant_19_50	female					350	Natl Academy DRI	
+846	Manganese	UL	lactating_19_50	female					350	Natl Academy DRI	
+847											
+848	Molybdenum		child_14_18	male					356	Natl Academy DRI	
+849	Molybdenum		adult_19_30	male					356	Natl Academy DRI	
+850	Molybdenum		adult_31_50	male					356	Natl Academy DRI	
+851	Molybdenum		adult_51_70	male					356	Natl Academy DRI	
+852	Molybdenum		adult_70_up	male					356	Natl Academy DRI	
+853	Molybdenum		child_14_18	female					356	Natl Academy DRI	
+854	Molybdenum		adult_19_30	female					356	Natl Academy DRI	
+855	Molybdenum		adult_31_50	female					356	Natl Academy DRI	
+856	Molybdenum		adult_51_70	female					356	Natl Academy DRI	
+857	Molybdenum		adult_70_up	female					356	Natl Academy DRI	
+858	Molybdenum		pregnant_19_50	female					356	Natl Academy DRI	
+859	Molybdenum		lactating_19_50	female					356	Natl Academy DRI	
+860											
+861	Phosphorus		child_14_18	male					362	Natl Academy DRI	
+862	Phosphorus		adult_19_30	male					362	Natl Academy DRI	
+863	Phosphorus		adult_31_50	male					362	Natl Academy DRI	
+864	Phosphorus		adult_51_70	male					362	Natl Academy DRI	
+865	Phosphorus		adult_70_up	male					362	Natl Academy DRI	
+866	Phosphorus		child_14_18	female					362	Natl Academy DRI	
+867	Phosphorus		adult_19_30	female					362	Natl Academy DRI	
+868	Phosphorus		adult_31_50	female					362	Natl Academy DRI	
+869	Phosphorus		adult_51_70	female					362	Natl Academy DRI	
+870	Phosphorus		adult_70_up	female					362	Natl Academy DRI	
+871	Phosphorus		pregnant_19_50	female					362	Natl Academy DRI	
+872	Phosphorus		lactating_19_50	female					362	Natl Academy DRI	
+873											
+874											
+875	Potassium	AI	child_14_18	male					370	Natl Academy DRI	
+876	Potassium	AI	adult_19_30	male					370	Natl Academy DRI	
+877	Potassium	AI	adult_31_50	male					370	Natl Academy DRI	
+878	Potassium	AI	adult_51_70	male					370	Natl Academy DRI	
+879	Potassium	AI	adult_70_up	male					370	Natl Academy DRI	
+880	Potassium	AI	child_14_18	female					370	Natl Academy DRI	
+881	Potassium	AI	adult_19_30	female					370	Natl Academy DRI	
+882	Potassium	AI	adult_31_50	female					370	Natl Academy DRI	
+883	Potassium	AI	adult_51_70	female					370	Natl Academy DRI	
+884	Potassium	AI	adult_70_up	female					370	Natl Academy DRI	
+885	Potassium	AI	pregnant_19_50	female					370	Natl Academy DRI	
+886	Potassium	AI	lactating_19_50	female					370	Natl Academy DRI	
+887											
+888	Potassium	UL	child_14_18	male	ND				370	Natl Academy DRI	
+889	Potassium	UL	adult_19_30	male	ND				370	Natl Academy DRI	
+890	Potassium	UL	adult_31_50	male	ND				370	Natl Academy DRI	
+891	Potassium	UL	adult_51_70	male	ND				370	Natl Academy DRI	
+892	Potassium	UL	adult_70_up	male	ND				370	Natl Academy DRI	
+893	Potassium	UL	child_14_18	female	ND				370	Natl Academy DRI	
+894	Potassium	UL	adult_19_30	female	ND				370	Natl Academy DRI	
+895	Potassium	UL	adult_31_50	female	ND				370	Natl Academy DRI	
+896	Potassium	UL	adult_51_70	female	ND				370	Natl Academy DRI	
+897	Potassium	UL	adult_70_up	female	ND				370	Natl Academy DRI	
+898	Potassium	UL	pregnant_19_50	female	ND				370	Natl Academy DRI	
+899	Potassium	UL	lactating_19_50	female	ND				370	Natl Academy DRI	
+900											
+901	Selenium		child_14_18	male					380	Natl Academy DRI	
+902	Selenium		adult_19_30	male					380	Natl Academy DRI	
+903	Selenium		adult_31_50	male					380	Natl Academy DRI	
+904	Selenium		adult_51_70	male					380	Natl Academy DRI	
+905	Selenium		adult_70_up	male					380	Natl Academy DRI	
+906	Selenium		child_14_18	female					380	Natl Academy DRI	
+907	Selenium		adult_19_30	female					380	Natl Academy DRI	
+908	Selenium		adult_31_50	female					380	Natl Academy DRI	
+909	Selenium		adult_51_70	female					380	Natl Academy DRI	
+910	Selenium		adult_70_up	female					380	Natl Academy DRI	
+911	Selenium		pregnant_19_50	female					380	Natl Academy DRI	
+912	Selenium		lactating_19_50	female					380	Natl Academy DRI	
+913											
+914	Sodium	AI	child_14_18	male					386	Natl Academy DRI	
+915	Sodium	AI	adult_19_30	male					386	Natl Academy DRI	
+916	Sodium	AI	adult_31_50	male					386	Natl Academy DRI	
+917	Sodium	AI	adult_51_70	male					386	Natl Academy DRI	
+918	Sodium	AI	adult_70_up	male					386	Natl Academy DRI	
+919	Sodium	AI	child_14_18	female					386	Natl Academy DRI	
+920	Sodium	AI	adult_19_30	female					386	Natl Academy DRI	
+921	Sodium	AI	adult_31_50	female					386	Natl Academy DRI	
+922	Sodium	AI	adult_51_70	female					386	Natl Academy DRI	
+923	Sodium	AI	adult_70_up	female					386	Natl Academy DRI	
+924	Sodium	AI	pregnant_19_50	female					386	Natl Academy DRI	
+925	Sodium	AI	lactating_19_50	female					386	Natl Academy DRI	
+926											
+927	Sodium	UL	child_14_18	male	ND				386	Natl Academy DRI	
+928	Sodium	UL	adult_19_30	male	ND				386	Natl Academy DRI	
+929	Sodium	UL	adult_31_50	male	ND				386	Natl Academy DRI	
+930	Sodium	UL	adult_51_70	male	ND				386	Natl Academy DRI	
+931	Sodium	UL	adult_70_up	male	ND				386	Natl Academy DRI	
+932	Sodium	UL	child_14_18	female	ND				386	Natl Academy DRI	
+933	Sodium	UL	adult_19_30	female	ND				386	Natl Academy DRI	
+934	Sodium	UL	adult_31_50	female	ND				386	Natl Academy DRI	
+935	Sodium	UL	adult_51_70	female	ND				386	Natl Academy DRI	
+936	Sodium	UL	adult_70_up	female	ND				386	Natl Academy DRI	
+937	Sodium	UL	pregnant_19_50	female	ND				386	Natl Academy DRI	
+938	Sodium	UL	lactating_19_50	female	ND				386	Natl Academy DRI	
+939											
+940	Chloride	AI	child_14_18	male					386	Natl Academy DRI	
+941	Chloride	AI	adult_19_30	male					386	Natl Academy DRI	
+942	Chloride	AI	adult_31_50	male					386	Natl Academy DRI	
+943	Chloride	AI	adult_51_70	male					386	Natl Academy DRI	
+944	Chloride	AI	adult_70_up	male					386	Natl Academy DRI	
+945	Chloride	AI	child_14_18	female					386	Natl Academy DRI	
+946	Chloride	AI	adult_19_30	female					386	Natl Academy DRI	
+947	Chloride	AI	adult_31_50	female					386	Natl Academy DRI	
+948	Chloride	AI	adult_51_70	female					386	Natl Academy DRI	
+949	Chloride	AI	adult_70_up	female					386	Natl Academy DRI	
+950	Chloride	AI	pregnant_19_50	female					386	Natl Academy DRI	
+951	Chloride	AI	lactating_19_50	female					386	Natl Academy DRI	
+952											
+953	Chloride	UL	child_14_18	male	ND				386	Natl Academy DRI	
+954	Chloride	UL	adult_19_30	male	ND				386	Natl Academy DRI	
+955	Chloride	UL	adult_31_50	male	ND				386	Natl Academy DRI	
+956	Chloride	UL	adult_51_70	male	ND				386	Natl Academy DRI	
+957	Chloride	UL	adult_70_up	male	ND				386	Natl Academy DRI	
+958	Chloride	UL	child_14_18	female	ND				386	Natl Academy DRI	
+959	Chloride	UL	adult_19_30	female	ND				386	Natl Academy DRI	
+960	Chloride	UL	adult_31_50	female	ND				386	Natl Academy DRI	
+961	Chloride	UL	adult_51_70	female	ND				386	Natl Academy DRI	
+962	Chloride	UL	adult_70_up	female	ND				386	Natl Academy DRI	
+963	Chloride	UL	pregnant_19_50	female	ND				386	Natl Academy DRI	
+964	Chloride	UL	lactating_19_50	female	ND				386	Natl Academy DRI	
+965											
+966	(special)		child_14_18	male					397	Natl Academy DRI	
+967			adult_19_30	male							
+968			adult_31_50	male							
+969			adult_51_70	male							
+970			adult_70_up	male							
+971			child_14_18	female							
+972			adult_19_30	female							
+973			adult_31_50	female							
+974			adult_51_70	female							
+975			adult_70_up	female							
+976			pregnant_19_50	female							
+977			lactating_19_50	female							
+978											
+979	Zinc		child_14_18	male					402	Natl Academy DRI	
+980	Zinc		adult_19_30	male							
+981	Zinc		adult_31_50	male							
+982	Zinc		adult_51_70	male							
+983	Zinc		adult_70_up	male							
+984	Zinc		child_14_18	female							
+985	Zinc		adult_19_30	female							
+986	Zinc		adult_31_50	female							
+987	Zinc		adult_51_70	female							
+988	Zinc		adult_70_up	female							
+989	Zinc		pregnant_19_50	female							
+990	Zinc		lactating_19_50	female							
+991											
+992	Arsenic	UL	child_14_18	male	Undesirable				414	Natl Academy DRI	
+993	Arsenic	UL	adult_19_30	male	Undesirable				414	Natl Academy DRI	
+994	Arsenic	UL	adult_31_50	male	Undesirable				414	Natl Academy DRI	
+995	Arsenic	UL	adult_51_70	male	Undesirable				414	Natl Academy DRI	
+996	Arsenic	UL	adult_70_up	male	Undesirable				414	Natl Academy DRI	
+997	Arsenic	UL	child_14_18	female	Undesirable				414	Natl Academy DRI	
+998	Arsenic	UL	adult_19_30	female	Undesirable				414	Natl Academy DRI	
+999	Arsenic	UL	adult_31_50	female	Undesirable				414	Natl Academy DRI	
+1000	Arsenic	UL	adult_51_70	female	Undesirable				414	Natl Academy DRI	
+1001	Arsenic	UL	adult_70_up	female	Undesirable				414	Natl Academy DRI	
+1002	Arsenic	UL	pregnant_19_50	female	Undesirable				414	Natl Academy DRI	
+1003	Arsenic	UL	lactating_19_50	female	Undesirable				414	Natl Academy DRI	
+1004											
+1005	Silicon	UL	child_14_18	male	ND				414	Natl Academy DRI	
+1006	Silicon	UL	adult_19_30	male	ND				414	Natl Academy DRI	
+1007	Silicon	UL	adult_31_50	male	ND				414	Natl Academy DRI	
+1008	Silicon	UL	adult_51_70	male	ND				414	Natl Academy DRI	
+1009	Silicon	UL	adult_70_up	male	ND				414	Natl Academy DRI	
+1010	Silicon	UL	child_14_18	female	ND				414	Natl Academy DRI	
+1011	Silicon	UL	adult_19_30	female	ND				414	Natl Academy DRI	
+1012	Silicon	UL	adult_31_50	female	ND				414	Natl Academy DRI	
+1013	Silicon	UL	adult_51_70	female	ND				414	Natl Academy DRI	
+1014	Silicon	UL	adult_70_up	female	ND				414	Natl Academy DRI	
+1015	Silicon	UL	pregnant_19_50	female	ND				414	Natl Academy DRI	
+1016	Silicon	UL	lactating_19_50	female	ND				414	Natl Academy DRI	
+1017											
+1018	Boron	UL	child_14_18	male	ND				414	Natl Academy DRI	
+1019	Boron	UL	adult_19_30	male	ND				414	Natl Academy DRI	
+1020	Boron	UL	adult_31_50	male	ND				414	Natl Academy DRI	
+1021	Boron	UL	adult_51_70	male	ND				414	Natl Academy DRI	
+1022	Boron	UL	adult_70_up	male	ND				414	Natl Academy DRI	
+1023	Boron	UL	child_14_18	female	ND				414	Natl Academy DRI	
+1024	Boron	UL	adult_19_30	female	ND				414	Natl Academy DRI	
+1025	Boron	UL	adult_31_50	female	ND				414	Natl Academy DRI	
+1026	Boron	UL	adult_51_70	female	ND				414	Natl Academy DRI	
+1027	Boron	UL	adult_70_up	female	ND				414	Natl Academy DRI	
+1028	Boron	UL	pregnant_19_50	female	ND				414	Natl Academy DRI	
+1029	Boron	UL	lactating_19_50	female	ND				414	Natl Academy DRI	
+1030											
+1031	Nickel	UL	child_14_18	male	ND				414	Natl Academy DRI	
+1032	Nickel	UL	adult_19_30	male	ND				414	Natl Academy DRI	
+1033	Nickel	UL	adult_31_50	male	ND				414	Natl Academy DRI	
+1034	Nickel	UL	adult_51_70	male	ND				414	Natl Academy DRI	
+1035	Nickel	UL	adult_70_up	male	ND				414	Natl Academy DRI	
+1036	Nickel	UL	child_14_18	female	ND				414	Natl Academy DRI	
+1037	Nickel	UL	adult_19_30	female	ND				414	Natl Academy DRI	
+1038	Nickel	UL	adult_31_50	female	ND				414	Natl Academy DRI	
+1039	Nickel	UL	adult_51_70	female	ND				414	Natl Academy DRI	
+1040	Nickel	UL	adult_70_up	female	ND				414	Natl Academy DRI	
+1041	Nickel	UL	pregnant_19_50	female	ND				414	Natl Academy DRI	
+1042	Nickel	UL	lactating_19_50	female	ND				414	Natl Academy DRI	
+1043											
+1044	Vanadium	UL	child_14_18	male	ND				414	Natl Academy DRI	
+1045	Vanadium	UL	adult_19_30	male	ND				414	Natl Academy DRI	
+1046	Vanadium	UL	adult_31_50	male	ND				414	Natl Academy DRI	
+1047	Vanadium	UL	adult_51_70	male	ND				414	Natl Academy DRI	
+1048	Vanadium	UL	adult_70_up	male	ND				414	Natl Academy DRI	
+1049	Vanadium	UL	child_14_18	female	ND				414	Natl Academy DRI	
+1050	Vanadium	UL	adult_19_30	female	ND				414	Natl Academy DRI	
+1051	Vanadium	UL	adult_31_50	female	ND				414	Natl Academy DRI	
+1052	Vanadium	UL	adult_51_70	female	ND				414	Natl Academy DRI	
+1053	Vanadium	UL	adult_70_up	female	ND				414	Natl Academy DRI	
+1054	Vanadium	UL	pregnant_19_50	female	ND				414	Natl Academy DRI	
+1055	Vanadium	UL	lactating_19_50	female	ND				414	Natl Academy DRI	

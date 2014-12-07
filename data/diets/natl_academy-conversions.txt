@@ -1,0 +1,127 @@
+page 466
+
+TABLE F-1 Conversions
+Water
+1 L = 33.8 fluid oz; 1 L = 1.06 qt; 1 cup = 8 fluid oz
+Vitamin A and Carotenoids
+• mg RAE = 1 mg all-trans-retinol
+• mg RAE = 2 mg supplemental all-trans-b-carotene
+• mg RAE = 12 mg dietary all-trans-b-carotene
+• mg RAE = 24 mg other dietary provitamin A carotenoids
+• mg RAE = mg RE in foods containing only preformed Vitamin A (retinol)
+• mg RAE = mg RE in foods containing only plant sources (provitamin A
+carotenoids) of vitamin A (e.g., carrots) 􏰀 2
+• One IU of retinol = 0.3 mg of retinol, or 0.3 mg RAE
+• One IU of supplemental b-carotene = 0.5 IU of retinol or 0.15 mg RAE (0.3 ¥ 0.5)
+• One IU of dietary b-carotene = 0.165 IU retinol or 0.05 mg RAE (0.3 ¥ 0.165)
+• One IU of other dietary provitamin A carotenoids = 0.025 mg RAE
+Vitamin D
+1 mg cholecalciferol = 40 IU vitamin D
+Vitamin E
+• mg of a-tocopherol in a meal = mg of a-tocopherol equivalents in a meal ¥ 0.8
+• mg of a-tocopherol in food, fortified food, or multivitamin
+￼Folate
+1 mg of DFEs
+1 mg of food folate
+1 mg of folate added as a fortificant or as a supplement consumed with meals
+1 mg of folate supplement taken without food
+Niacin
+= IU of the RRR-a-tocopherol compound ¥ 0.67 or
+= IU of the all rac-a-tocopherol compound ¥ 0.45
+= 1.0 mg of food folate
+= 0.6 mg of folate added to foods (as a
+fortificant or folate supplement with food) = 0.5 mg of folate taken as a supplement
+(without food). = 1.0 mg of DFEs
+= 1.7 mg of DFEs = 2.0 mg of DFEs.
+As niacin equivalents (NEs). 1 mg of niacin = 60 mg of tryptophan
+
+WATER
+Conversion factors: 1 L = 33.8 fluid oz; 1 L = 1.06 qt; 1 cup = 8 fluid oz.
+VITAMIN A AND CAROTENOIDS
+A major change in the extent to which provitamin A carotenoids can be used to form vitamin A is the replacement of retinol equivalents (μg RE) with retinol activity equivalents (μg RAE) for the provitamin A carotenoids. The RAEs for dietary β-carotene, α-carotene, and β-cryptoxanthin are 12, 24, and 24 μg, re- spectively, compared to corresponding REs of 6, 12, and 12 μg reported by the National Research Council in 1989.
+DETERMINING THE VITAMIN A CONTENT OF FOODS WITH SOME NUTRIENT DATABASES
+Newer nutrient databases provide vitamin A activity in RAE. Even if a database does not, it is still possible to estimate total vitamin A activity in μg RAE from existing tables using μg RE. For foods, such as liver, containing only vitamin A activity from preformed vitamin A (retinol), no adjustment is necessary. Vita- min A values for foods containing only plant sources (provitamin A carotenoids) of vitamin A (e.g., carrots) can be adjusted by dividing the μg RE by two. For foods that are mixtures containing both plant and animal sources of vitamin A (e.g., a casserole containing meat and vegetables), the adjustment process is more complex. If the recipe for a mixture is known, the new vitamin A value may be calculated after adjusting the vitamin A content of each ingredient, as necessary. Alternatively, if the nutrient database contains values as μg RE for both total vitamin A and carotenoids, then it is possible to calculate a new value both for carotenoids and for total vitamin A. To determine a revised total vita- min A value, the retinol value is calculated as the difference between the origi- nal total vitamin A value and the original carotenoid value. The revised total vitamin A content is then calculated as the sum of the retinol value and the adjusted carotenoid value, which is the original carotenoid value in μg RE di-
+F CONVERSIONS
+Copyright © National Academy of Sciences. All rights reserved.
+Dietary Reference Intakes: The Essential Guide to Nutrient Requirements http://www.nap.edu/catalog/11537.html
+468 DRIs: THE ESSENTIAL GUIDE TO NUTRIENT REQUIREMENTS
+vided by two. As discussed in the following section, this same procedure may be used to adjust intake data that have been analyzed using other databases.
+Supplemental b-carotene has a higher bioconversion to vitamin A than does dietary b-carotene. With low doses, the conversion is as high as 2:1. Little is known about the bioconversion of the forms of b-carotene that are added to foods, so fortification forms of b-carotene should be assumed to have the same bioconversion as food forms, which is 12:1. Food and supplement labels usu- ally state vitamin A levels in International Units (IU). One IU of retinol is equiva- lent to 0.3 mg of retinol, or 0.3 mg RAE. One IU of b-carotene in supplements is equivalent to 0.5 IU of retinol or 0.15 mg RAE (0.3 ¥ 0.5). One IU of dietary b- carotene is equivalent to 0.165 IU retinol or 0.05 mg RAE (0.3 ¥ 0.165). One IU of other dietary provitamin A carotenoids is equivalent 0.025 mg RAE.
+INTERPRETING PUBLISHED DATA ON VITAMIN A INTAKES OF VARIOUS POPULATION GROUPS
+Existing data on vitamin A intakes of individuals and groups will need to be reinterpreted because of the changes in the retinol molar equivalency ratios for carotenoids to mg RAE. Two scenarios are possible: (1) the existing data provide values for both total vitamin A and carotenoid intake, and (2) the existing data provide values only for total vitamin A intake.
+EXISTING DATA PROVIDE VALUES FOR BOTH TOTAL VITAMIN A AND CAROTENOIDS
+The data manipulations required depend on the type of information that is sought (for example, mean intakes versus the proportion of a group with inad- equate intakes). A way to approximate the mean intake of a group follows:
+1a. Find the group mean intake for total vitamin A intake (e.g., for women aged 30 to 39 years in the Continuing Survey of Food Intakes by Individuals [CSFII, 1994–1996], mean intake was 895 mg RE). Subtract the group mean intake of carotenoids (e.g., for women aged 30 to 39 years in the CSFII, mean carotene intake was 500 mg RE). Thus, preformed vitamin A intake would be estimated as 395 mg (895 – 500).
+1b. Divide the group mean intake of carotenoids by 2 (in this example, 500 􏰀 2 = 250 mg RAE). This represents the corrected value for provitamin A intake.
+1c. Add the corrected provitamin A intake determined in Step 1b to the preformed vitamin A intake determined in Step 1a. In this example, the mean vitamin A intake of women aged 30 to 39 years in the CSFII would be 645 mg RAE (250 + 395).
+￼￼Copyright © National Academy of Sciences. All rights reserved.
+Dietary Reference Intakes: The Essential Guide to Nutrient Requirements http://www.nap.edu/catalog/11537.html
+EXISTING DATA PROVIDE VALUES FOR ONLY TOTAL VITAMIN A INTAKE
+In this situation, there will be more uncertainty associated with estimates of both group mean intakes and the proportion of a group with inadequate in- takes. This is because of the lack of information on the proportion of the total vitamin A intake that was derived from carotenoids. In this situation, a possible approach to approximating group mean intakes follows:
+2a. Use other published data from a similar subject life stage and gender group that provide intakes of both total vitamin A and carotenoids to perform the calculations in Steps 1a through 1c above. For example, if the group of interest was 30- to 39-year-old women, data for this group from the CSFII could be used.
+2b. Calculate the adjusted vitamin A intake for this group as a percentage of the unadjusted mean intake. For the example of 30- to 39-year-old women, the adjusted mean intake was 645 μg, and the unadjusted mean was 895 μg. Thus the adjusted vitamin A intake would be 0.72 (645 ÷ 895), or 72 percent.
+2c. Apply the adjustment factor to the mean intake of the group of inter- est. For example, if the group’s mean intake had been reported as 1,100 μg RE, the adjusted intake would be 792 μg RAE (1,100 × 0.72).
+IMPLICATIONS ARISING FROM THE DEVELOPMENT OF RETINOL ACTIVITY EQUIVALENTS (RAE)
+The vitamin A activity of provitamin A carotenoids found in darkly colored fruits and green leafy vegetables is half that previously assumed. Consequently, individuals who rely on plant foods for the majority of their vitamin A needs should ensure that they consume foods that are rich in carotenoids (specifically, deep yellow and green vegetables and fruits) on a regular basis.
+Another implication of the reduced contribution from the provitamin A carotenoids is that vitamin A intakes of most population groups are lower than was previously believed. For example, in the CSFII survey, the reported mean proportion of vitamin A derived from carotenoids was 47 percent. Using the new conversion factors would thus reduce the population mean vitamin A in- take by about 23 to 24 percent, or from 982 μg RE to 751 μg RAE.
+VITAMIN D
+As cholecalciferol. 1 μg cholecalciferol = 40 IU vitamin D.
+￼PART IV: APPENDIX F 469
+￼Copyright © National Academy of Sciences. All rights reserved.
+Dietary Reference Intakes: The Essential Guide to Nutrient Requirements http://www.nap.edu/catalog/11537.html
+470 DRIs: THE ESSENTIAL GUIDE TO NUTRIENT REQUIREMENTS
+VITAMIN E
+The EARs, RDAs, and AIs for vitamin E are based on a-tocopherol only and do not include amounts obtained from the other seven naturally occurring forms of vitamin E (b-, g-, d-tocopherol and the four tocotrienols). Although absorbed, these forms do not contribute to meeting the vitamin E requirement because they are not converted to a-tocopherol. Only the 2R-stereoisomeric forms of a-tocopherol are preferentially secreted by the liver into the plasma for trans- port to tissues. Since the 2S-stereoisomeric forms of a-tocopherol are not main- tained in human plasma or tissues, vitamin E is defined in this publication as limited to the 2R-stereoisomeric forms of a-tocopherol to establish recom- mended intakes. However, all eight stereoisomers of supplemental a-tocopherol are used as the basis for establishing the Tolerable Upper Intake Level (UL) for vitamin E.
+Newer nutrient databases provide values for a-tocopherol. Older ones do not distinguish among all the different forms of vitamin E in food. These data- bases often present the data as a-tocopherol equivalents (a-TE) and thus in- clude the contribution of all eight naturally occurring forms of vitamin E, after adjustment for bioavailability using previously determined equivalencies (e.g., a-tocopherol has been usually assumed to have only 10 percent of the availabil- ity of a-tocopherol) based on fetal resorption assays. It is recommended that the use of a-TE be abandoned due to the lack of evidence of bioavailability via transport in plasma or tissues. Because these other forms of vitamin E occur in foods (e.g., g-tocopherol is present in widely consumed oils such as soybean and corn oils), the intake of a-TE is greater than the intake of a-tocopherol alone.
+All a-tocopherol in foods is RRR-a-tocopherol, but the all rac-a-tocopherol in fortified foods and supplements is an equal mix of the 2R- and 2S-stereoiso- mers. The EARs, RDAs, and AIs given in the Vitamin E chapter apply only to the intake of the RRR-a-tocopherol from food and the 2R-stereoisomeric forms of a-tocopherol (RRR-, RSR-, RRS-, and RSS-a-tocopherol) that occur in forti- fied foods and supplements. The UL applies to all eight stereoisomeric forms of a-tocopherol that occur in fortified foods and supplements.
+CONVERSION FACTOR FOR VITAMIN E IN FOOD AND SUPPLEMENTS
+To estimate the a-tocopherol intake from food surveys in the United States in which food intake data are presented as a-TE, the a-TE should be multiplied by 0.8.
+mg of a-tocopherol in a meal =
+mg of a-tocopherol equivalents in a meal ¥ 0.8.
+￼￼￼Copyright © National Academy of Sciences. All rights reserved.
+Dietary Reference Intakes: The Essential Guide to Nutrient Requirements http://www.nap.edu/catalog/11537.html
+In addition, the amount of chemically synthesized all rac-a-tocopherol com- pounds added to foods and multivitamin supplements in milligrams should be estimated at 50 percent to calculate the intake of the 2R-stereoisomers of a- tocopherol when assessing intakes to meet requirements.
+If vitamin E in foods, fortified foods, and multivitamin supplements is re- ported in international units (IUs), the activity in milligrams of a-tocopherol may be calculated by multiplying the number of IUs by 0.67 if the form of vitamin E is RRR-a-tocopherol (natural vitamin E) (historically and incorrectly labeled d-a-tocopherol), and by 0.45 if the form is all rac-a-tocopherol (syn- thetic vitamin E) (historically and incorrectly labeled dl-a-tocopherol com- pounds).
+mg of a-tocopherol in food, fortified food, or multivitamin = IU of the RRR-a-tocopherol compound ¥ 0.67
+or
+= IU of the all rac-a-tocopherol compound ¥ 0.45
+For example, a person with intake from food of 15 mg/day of a-TE would have consumed approximately 12 mg/day of a-tocopherol (15 ¥ 0.8 = 12). If this person took a daily multivitamin supplement with 30 IU of RRR-a-tocopheryl acetate, an additional 20 mg/day of a-tocopherol would have been consumed (30 ¥ 0.67 = 20). Thus, this person would have an effective total intake of 32 mg/day of a-tocopherol (12 + 20). If the daily multivitamin supplement con- tained 30 IU of all rac-a-tocopherol, it would be equivalent to 13.5 mg/day of a-tocopherol (30 ¥ 0.45 = 13.5), and the person’s total intake of a-tocopherol would be 25.5 mg/day (12 + 13.5).
+FOLATE
+DIETARY FOLATE EQUIVALENTS AND FOLATE SOURCES
+Currently, nutrition labels do not distinguish between sources of folate (food folate and folic acid) or express the folate content of food in dietary folate equiva- lents (DFEs), which take into account the different bioavailabilities of folate sources. DFEs and types of folate are related as follows:
+1 mg of DFEs = 1.0 mg of food folate
+= 0.6 mg of folate added to foods (as a
+fortificant or folate supplement with food) = 0.5 mg of folate taken as a supplement
+(without food)
+￼PART IV: APPENDIX F 471
+￼Copyright © National Academy of Sciences. All rights reserved.
+Dietary Reference Intakes: The Essential Guide to Nutrient Requirements http://www.nap.edu/catalog/11537.html
+472 DRIs: THE ESSENTIAL GUIDE TO NUTRIENT REQUIREMENTS
+￼￼1 mg of food folate
+1 mg of folate added as a fortificant or as a supplement consumed with meals
+1 mg of folate supplement taken without food
+= 1.0 mg of DFEs = 1.7 mg of DFEs
+= 2.0 mg of DFEs
+Diet Assessment of Individuals. When intakes of folate in the diet of an indi- vidual are assessed, it is possible to approximate the DFE intake by estimating the amount added in fortification and the amount present naturally as food folate by using the relationship 1 mg of folate added as a fortificant = 1.7 mg of DFEs (the reciprocal of 1 mg of DFEs = 0.6 mg folate added to food).
+The following four-step method is proposed to approximate DFEs when estimating the dietary intake of an individual:
+1. Group foods into (a) fortified cereal grain foods and specially fortified foods and (b) all others.
+2. If other current data are not available for cereal grains, assume the fol- lowing levels of fortification (read the label of the product to determine whether folate has been added in amounts greater than the required fortification level; this primarily refers to cereals):
+• one slice of bread provides 20 mg of added folate;
+• one serving (about 1 cup) of cooked pasta provides 60 mg of added
+folate; and
+• one serving (about 1 cup) of cooked cereal or rice provides 60 mg of
+added folate.
+Moderately fortified ready-to-eat cereals provide approximately 25 percent of the daily value per serving according to the product label, which is currently equivalent to 100 mg of added folate (25 percent of 400 mg). Highly fortified ready-to-eat cereals provide 100 percent of the daily value per serving, or 400 mg of added folate. Serving sizes of ready-to-eat cereals vary widely.
+3. Combine the folate contributed by all the fortified cereal grains and multiply the result by 1.7 to obtain DFEs from folate added to foods.
+4. Add DFEs from cereal grains to the folate content (in mg) from all other foods obtained from existing nutrient databases to obtain the total folate con- tent in DFEs. For example, if the fortified cereal grains consumed were
+Copyright © National Academy of Sciences. All rights reserved.
+Dietary Reference Intakes: The Essential Guide to Nutrient Requirements http://www.nap.edu/catalog/11537.html
+• 8 slices of bread at 20 mg of added folate per slice (160 mg of total folate),
+• 1 serving of moderately fortified ready-to-eat cereal (100 mg of folate),
+and
+• 1 one-cup serving of pasta (60 mg of folate).
+the total content would be 320 mg of added folate. The other foods in the diet— fruits, vegetables, meats, legumes, and milk products—provide 250 mg of food folate as determined by food composition data.
+Therefore, total folate intake in DFEs = (1.7 ¥ 320) + 250 = 794 mg of DFEs.
+Diet Assessment of Populations. If dietary folate intake has been reported for groups without adjusting for DFEs and if members of the group have con- sumed foods fortified with folate, the amount of available folate will be higher than reported for those group members. Adjustments can be made only at the individual level, not at the group level.
+NIACIN
+As niacin equivalents (NEs). 1 mg of niacin = 60 mg of tryptophan.

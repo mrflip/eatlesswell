@@ -57,7 +57,7 @@ From
 RAE: Retinol Activity Equivalents. 1 RAE = 1 μg retinol, 12 μg β-carotene, 24 μg α-carotene.
 DFE: Dietary Folate Equivalents. 1 DFE = 1 μg food folate = 0.6 μg of folic acid from fortified food.
 
-Nutrient	population	mean	stderr	5ile	10ile	25ile	50ile	75ile	90ile	95ile	units	ref	
+Nutrient	population	mean	stderr	5ile	10ile	25ile	50ile	75ile	90ile	95ile	units	ref
 Vitamin A	male_19_up	656	28.8	238	296	413	577	797	1077	1315	RAE	13	http://www.ars.usda.gov/SP2UserFiles/Place/80400530/pdf/0102/usualintaketables2001-02.pdf
 Vitamin A	female_19_up	564	18.4	230	280	377	514	691	903	1064	RAE	13	http://www.ars.usda.gov/SP2UserFiles/Place/80400530/pdf/0102/usualintaketables2001-02.pdf
 Vitamin E	male_19_up	8.2	0.22	4.1	4.7	5.9	7.6	9.8	12.3	14.2	mg α-tocopherol	14	http://www.ars.usda.gov/SP2UserFiles/Place/80400530/pdf/0102/usualintaketables2001-02.pdf
@@ -114,7 +114,7 @@ Phosphorus	male_19_up	1602	24.3	919	1042	1271	1557	1887	2222	2437	mg	15	http://w
 Phosphorus	female_19_up	1128	19.2	620	713	885	1097	1340	1582	1732	mg	15	http://www.ars.usda.gov/SP2UserFiles/Place/80400530/pdf/0506/usual_nutrient_intake_vitD_ca_phos_mg_2005-06.pdf
 Magnesium	male_19_up	347	5.2	197	223	272	336	412	491	544	mg	16	http://www.ars.usda.gov/SP2UserFiles/Place/80400530/pdf/0506/usual_nutrient_intake_vitD_ca_phos_mg_2005-06.pdf
 Magnesium	female_19_up	261	4.8	141	161	200	250	310	373	414	mg	16	http://www.ars.usda.gov/SP2UserFiles/Place/80400530/pdf/0506/usual_nutrient_intake_vitD_ca_phos_mg_2005-06.pdf
-													
+
 
 Vitamin A	-- Typical Intake -- -- p176 -- Based on data from the Third National Health and Nutrition Examination Survey (NHANES III, 1994–1996), the highest median intake of preformed vitamin A for any gender and life stage group was 895 mg/day for lactating women. The highest reported intake at the 95th percentile was 1,503 mg/day for lactating women. For U.S. adults who took supplements containing vitamin A, intakes at the 95th percentile ranged from approximately 1,500 to 3,000 mg/ day. Fewer than 5 percent of pregnant women had dietary and supplemental intake levels that exceeded the UL. The risk of exceeding the UL for vitamin A appears to be small based on the intakes cited above.
 Vitamin B-6	-- Typical Intake -- -- p185 -- Based on data from the Third National Health and Nutrition Examination Survey (NHANES III, 1988–1994), 9 mg/day was the highest mean intake of vitamin B6 from food and supplements reported for any life stage and gender group. The highest reported intake at the 95th percentile was 21 mg/day in pregnant females aged 14 through 55 years, most of which was pyridoxine from supplements. The risk of adverse effects resulting from excess intake of vitamin B6 from food and supplements appears to be very low at these intake levels.
@@ -135,98 +135,132 @@ Nickel		-- Typical Intake -- -- p420 -- In NHANES III, the adult median intake o
 Silicon		-- Typical Intake -- -- p420 -- In NHANES III, the adult median intake of silicon from supplements was approximately 2 mg/day.
 Vanadium	-- Typical Intake -- -- p420 -- In NHANES III, the adult median intake of vanadium from supple- ments was approximately 9 μg/day.
 
-## AMDRs	Page 70
+Arsenic  -- Typical Adult Intake -- Not provided at the time the DRI values for this nutrient were set.
+Boron:	 -- Typical Adult Intake -- NHANES III median intake from supplements -- 0.14 mg/day.
+Nickel:	 -- Typical Adult Intake -- NHANES III median intake from supplements -- 5 μg/day.
+Silicon: -- Typical Adult Intake -- NHANES III median intake from supplements -- 2 mg/day.
+Vanadium -- Typical Adult Intake -- NHANES III median intake from supplements -- 9 μg/day.
 
-AMDR	Fat	child_1_3	30-40
-AMDR	Fat	child_4_18	25-35
-AMDR	Fat	adult	20-35
-AMDR	Fat -- n-6 polyunsaturated fatty acidsb (linoleic acid)	child_1_3	5–10
-AMDR	Fat -- n-6 polyunsaturated fatty acidsb (linoleic acid)	child_4_18	5–10
-AMDR	Fat -- n-6 polyunsaturated fatty acidsb (linoleic acid)	adult	5–10
-AMDR	Fat -- n-3 polyunsaturated fatty acidsb (a-linolenic acid)	child_1_3	0.6–1.2
-AMDR	Fat -- n-3 polyunsaturated fatty acidsb (a-linolenic acid)	child_4_18	0.6–1.2
-AMDR	Fat -- n-3 polyunsaturated fatty acidsb (a-linolenic acid)	adult	0.6–1.2
-
-AMDR	Carbohydrate	child_1_3	45–65
-AMDR	Carbohydrate	child_4_18	45–65
-AMDR	Carbohydrate	adult	45–65
-AMDR	Protein	child_1_3	5-20
-AMDR	Protein	child_4_18	10-30
-AMDR	Protein	adult	10-35
-
-AMDR	Dietary cholesterol	As low as possible while consuming a nutritionally adequate diet
-AMDR	Trans fatty acids	As low as possible while consuming a nutritionally adequate diet
-AMDR	Saturated fatty acids	As low as possible while consuming a nutritionally adequate diet
-AMDR	Added sugars	Limit to a maximal intake of no more than 25 percent total energy. Not a recommended intake; within this limit no goal amount has been set.
-
-### p 74
-
-"Up to 10 percent of the AMDR for n-3 fatty acids can be consumed as EPA and/or DHA."
-
-AMDR	Fat -- n-3 a-linolenic acid as EPA or DHA	child_1_3	0.06–0.12
-AMDR	Fat -- n-3 a-linolenic acid as EPA or DHA	child_4_18	0.06–0.12
-AMDR	Fat -- n-3 a-linolenic acid as EPA or DHA	adult	0.06–0.12
+### Notes
 
 
-### Effects: p 76
+Folate	Note	Folate is a B vitamin that functions as a coenzyme in the metabolism of nucleic and amino acids. Folate is a generic term that includes both the naturally occurring form of the vitamin (food folate or pteroyl- polyglutamates) and the monoglutamate form (folic acid or pteroylmonoglutamic acid), which is used in fortified foods and dietary supplements.
+Nickel	Note	The possible nutritional importance or biochemical function of nickel in humans has not been established. Nickel may serve as a cofactor or struc- tural component of specific metalloenzymes of various functions, including hy- drolysis and redox reactions and gene expression. Nickel may also serve as a cofactor facilitating iron absorption or metabolism.
+Vanadium	Note	A functional role for vanadium in humans has not been identified. There are some reports that vanadium may increase the action of insulin, but the potential mechanism of action is uncertain. Vanadium also stimulates cell proliferation and differentiation and inhibits various ATPases, phosphatases, and phosphoryl-transfer enzymes.
 
-Cancer	Energy	Animal studies suggest that energy restriction may inhibit cell proliferation and tumor growth
-Cancer	Energy	Increased childhood energy intakes have been associated with increased cancer mortality
-Cancer	Energy	Excess energy contributes to obesity, which may increase risk of certain cancers
-Cancer	Fat	High fat intakes have been implicated in development of certain cancers, although evidence is mixed.
-Cancer	Fat	Epidemiological studies have shown an inverse relationship between fish consumption and risk of breast and colorectal cancer, possibly due to protective effects of n-3 fatty acids.
-Cancer	Protein	No clear role for total protein has yet emerged.
-Cancer	Carbohydrate	Several case-control studies have shown increased risk of colorectal cancer in people with high intakes of sugar-rich foods.
-Cancer	Carbohydrate	High vegetable and fruit intake and avoidance of foods with highly refined sugars have been negatively correlated to risk of colon cancer.
-Cancer	Fiber	High fiber diets may protect against colorectal cancer, though the evidence is conflicting.
-Cancer	Fiber	Fiber may protect against hormone-related cancers including prostate, endometrial, and ovarian cancer.
-Cancer	Fiber	Certain cereal foods may protect against some types and stages of breast cancer.
-Cancer	Physical	Regular exercise has been negatively correlated with risk of colon cancer.
-Cancer	Physical	Numerous epidemiological studies suggest that regular physical activity decreases risk of breast cancer.
-Cancer	Physical	Exercise may help compensate for potential cancer-promoting effects of excess energy intake.
-Cancer	Physical	Exercise may bolster the immune system.
+Boron	Note	A collective body of evidence has yet to establish a clear biological func- tion for boron in humans. Although some evidence does suggest a role in the metabolism of vitamin D and estrogen, further research is necessary.
 
-Heart Disease	Energy	Excess energy contributes to obesity, which increases risk of heart disease.
-Heart Disease	Fat	Increased saturated fat intake can increase total and LDL blood cholesterol levels.
-Heart Disease	Fat	Increasing intakes of trans fatty acids and cholesterol increase total and LDL blood cholesterol levels, although there is wide interindividual variation in serum cholesterol response to dietary cholesterol.
-Heart Disease	Fat	Monounsaturated and polyunsaturated fatty acids decrease total and LDL blood cholesterol levels.
-Heart Disease	Fat	High intakes of n-6 and n-3 polyunsaturated fats are associated with decreased risk of heart disease.
-Heart Disease	Protein	Independent effects of protein on heart disease mortality have not been shown
-Heart Disease	Protein	Soy-based protein may reduce blood cholesterol, but the evidence is mixed.
-Heart Disease	Carbohydrate	High carbohydrate (low-fat) intakes tend to increase plasma triacylglycerol and decrease plasma HDL cholesterol levels. These effects are more extreme if the source is monosaccharides, especially fructose.
-Heart Disease	Fiber	Dietary fiber, particularly naturally occurring viscous fiber, reduces total and LDL cholesterol levels.
-Heart Disease	Fiber	Reduced rates of heart disease have been observed in individuals consuming high fiber diets.
-Heart Disease	Fiber	Dietary fiber intake has been shown to be negatively associated with hypertension in men.
-Heart Disease	Physical	Numerous studies have shown an inverse relationship between exercise and heart disease mortality.
-Heart Disease	Physical	Regular exercise increases HDL cholesterol; decreases triacylglycerol, blood pressure, and risk of cardiac arrhythmias; enhances fibrinolysis, glucose effectiveness, and insulin sensitivity; and lessens platelet adherence.
+Silicon	Note	A functional role for silicon in humans has not yet been identified, although animal studies show that silicon may be involved in the formation of bone.
 
-Dental Caries	Carbohydrate	Sugars play a role in development of dental caries (as do fluoride, oral hygiene and frequency of food intake).
+Arsenic -- Note -- There have been no studies performed to determine the nutritional importance of arsenic for humans. Animal studies suggest a role for arsenic in the metabolism of methionine, in growth and reproduction, and in gene expression.
+Arsenic -- Note -- Data were insufficient to set a UL for arsenic. Although a UL was not determined for arsenic, there is no justification for adding it to food or supplements.
+Arsenic -- Note -- Although no UL was set for arsenic, there may be a risk of adverse effects with the consumption of organic arsenic in food or with the intake of inorganic arsenic in water supplies at the current maximum contamination level of 50 mg/L, set in the United States.
 
-Diabetes := Type II Diabetes Mellitus
+Sulfate	Note	(special)
 
-Diabetes	Energy	Excess energy contributes to obesity, which may increase risk of Type II diabetes.
-Diabetes	Energy	Obesity, particularly abdominal obesity, is a risk factor for Type II diabetes.
-Diabetes	Fat	Some studies show a correlation between high fat intakes and insulin resistance, but it is not clear whether the association is due to fat or to obesity.
-Diabetes	Protein	--
-Diabetes	Carbohydrate	While there is little evidence that total carbohydrate is associated with Type II diabetes, there may be increased risk when the glycemic index of a meal, rather than total carbohydrate, is considered.
-Diabetes	Fiber	Viscous soluble fibers may attenuate the insulin response and thus protect against Type II diabetes.
-Diabetes	Physical	Increased physical activity levels improve insulin sensitivity in people with Type II diabetes.
-Diabetes	Physical	Physical activity can reduce risk of Type II diabetes and can reduce total and abdominal obesity, which are risk factors for Type II diabetes.
+Carotenoids	Note	There are no DRIs specifically for carotenoids. The most prevalent carotenoids in North American diets are a-carotene, b-carotene, lycopene, lutein, zeaxanthin, and b-cryptoxanthin. Of these, a-carotene, b-carotene, and b- cryptoxanthin can be converted into retinol (vitamin A) in the body and are called provitamin A carotenoids. Lycopene, lutein, and zeaxanthin have no vi- tamin A activity and are called nonprovitamin A carotenoids. The only known function of carotenoids in humans is to act as a source of vitamin A in the diet (provitamin A carotenoids only). Although epidemiological evidence suggests that higher blood concentrations of b-carotene and other carotenoids obtained from foods are associated with a lower risk of several chronic diseases, other evidence suggests possible harm arising from very large doses in population subgroups, such as smokers and asbestos workers. Currently, there is insufficient evidence to recommend that a certain percentage of dietary vitamin A should come from provitamin A carot- enoids. However, existing recommendations calling for the increased consumption of carotenoid-rich fruits and vegetables for their health-promoting benefits are strongly supported.
+Biotin	Note	* Biotin content has been documented for relatively few foods, and so it is gener- ally not included in food composition tables. Thus, intake tends to be underestimated in diets. Although biotin is widely distributed in natural foods, its con- centration significantly varies. For example, liver contains biotin at about 100 mg/100 g, whereas fruits and most meats contain only about 1 mg/100 g.
+Vitamin B-12	Note	Considerations -- adult_50_up -- Because 10 to 30 percent of older people may malabsorb food-bound vitamin B12, for adults over 50 years old it is advisable for most of this amount to be obtained by consuming foods fortified with vitamin B12 or a vitamin B12-containng supplement.
 
-Obesity	Energy	Excess energy intake causes obesity.
-Obesity	Fat	Available data on whether diets high in total fat increase the risk for obesity are conflicting; this may be partly due to underreporting of food intake, notably fat intake
-Obesity	Protein	Available data on whether diets high in protein are associated with obesity are mixed: some have shown a positive association with protein intake and body fatness, others have demonstrated weight loss.
-Obesity	Carbohydrate	Published reports have produced conflicting results about the existence of a direct link between high sugar intakes and obesity; this may be partly due to underreporting of food intake.
-Obesity	Fiber	Intervention studies suggest that high fiber diets may assist in weight loss, although evidence overall is mixed.
-Obesity	Physical	Physical inactivity is a major risk factor for development of obesity.
+Vitamin A	Note	Considerations: Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals.
+Vitamin A	Note	The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+Vitamin A 	Typical Intake -- 95th percentile -- 2000 mg/day -- For U.S. adults who took supplements containing vitamin A, intakes at the 95th percentile ranged from approximately 1,500 to 3,000 mg/ day.
+Vitamin A	Typical Intake -- Median -- 1,430 mg RAE/day -- NHANES III data, the median intake of vitamin A from supple- ments was approximately 1,430 mg RAE/day for men and wome
 
-Bone Health	Energy	--
-Bone Health	Fat	--
-Bone Health	Protein	The relationship between protein intake and bone health is very controversial with some studies showing bone loss and osteoporosis in relationship to high intakes and others showing no association in the presence of adequate calcium intakes.
-Bone Health	Carbohydrate	--
-Bone Health	Fiber	--
-Bone Health	Physical	Physical activity increases bone mass in children and adolescents and maintains bone mass in adults
-Bone Health	Physical	Physical activity enhances muscle strength, coordination, and flexibility, which may prevent falls and fractures in elderly adults.
+Vitamin A	Note	RAE = Retinol activity equivalent. 1 mg RAE = 1 mg retinol, 12 mg b-carotene, and 24 mg a-carotene or b-cryptoxanthin. The RAE for dietary provitamin A carotenoids in foods is twofold greater than retinol equivalents (RE), whereas the RAE for preformed vitamin A in foods is the same as RE.
+Vitamin A	Note	The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
+
+Total Water -- Inadequate -- Inadequate water intake leads to dehydration
+
+Total Water -- interaction -- Caffeine -- Due to its diuretic effect, caffeine in high amounts may lead to a total body water (TBW) deficit.
+Total Water -- interaction -- Alcohol -- Alcohol intake appears to increase water excretion.
+Total Water -- interaction -- Sodium -- Increased sodium intake may increase urine volume.
+Total Water -- interaction -- Protein -- Increased protein consumption may increase water needs. Urea, a major end product of the metabolism of dietary proteins and amino acids, requires water for excretion by the kidneys.
+Total Water -- interaction -- Fiber -- Fecal water loss is increased with increased dietary fiber.
+Total Water -- interaction -- Carbohydrate -- The presence of dietary carbohydrates may decrease quantity of body solutes (ketone bodies) that need to be excreted
+
+Total Water -- Typical Intake -- 99th percentile -- 8.1 L/day
+
+
+Cholesterol	Note	Neither an EAR, RDA, nor AI was set for cholesterol. Because all tissues are capable of synthesizing enough cholesterol to meet their metabolic and structural needs, there is no evidence for a biological requirement for dietary cholesterol. It is recommended that people maintain their dietary cholesterol intake as low as possible, while consuming a diet nutritionally adequate in all required nutrients. The main adverse effect of dietary cholesterol is increased LDL cholesterol concentration, which could result in an increased risk of CHD. There is also increasing evidence that genetic factors underlie a substantial portion of the variation among individuals in response to dietary cholesterol. Although mixed, there is evidence that increases in serum cholesterol concen- tration due to dietary cholesterol are blunted by diets low in saturated fat, high in polyunsaturated fat, or both. No consistent significant associations have been established between dietary cholesterol intake and cancer, including lung, breast, colon, and prostate cancers.
+
+
+## AMDRs
+AMDR							
+AMDR	Fat	child_4_18	25	35	70	DRI	
+AMDR	Fat	adult	20	35	70	DRI	
+AMDR	Fat; n-6 polyunsaturated fatty acidsb (linoleic acid)	child_4_18	5	10	70	DRI	
+AMDR	Fat; n-6 polyunsaturated fatty acidsb (linoleic acid)	adult	5	10	70	DRI	
+AMDR	Fat; n-3 polyunsaturated fatty acidsb (a-linolenic acid)	child_4_18	0.6	1.2	70	DRI	
+AMDR	Fat; n-3 polyunsaturated fatty acidsb (a-linolenic acid)	adult	0.6	1.2	70	DRI	
+AMDR	Carbohydrate	child_4_18	45	65	70	DRI	
+AMDR	Carbohydrate	adult	45	65	70	DRI	
+AMDR	Protein	child_4_18	10	30	70	DRI	
+AMDR	Protein	adult	10	35	70	DRI	
+AMDR	Dietary cholesterol	all	0	undesirable	70	DRI	As low as possible while consuming a nutritionally adequate diet
+AMDR	Trans fatty acids	all	0	undesirable	70	DRI	As low as possible while consuming a nutritionally adequate diet
+AMDR	Saturated fatty acids	all	0	undesirable	70	DRI	As low as possible while consuming a nutritionally adequate diet
+AMDR	Added sugars	all	0	undesirable	70	DRI	Limit to a maximal intake of no more than 25 percent total energy. Not a recommended intake; within this limit no goal amount has been set.
+AMDR	Fat; n-3 a-linolenic acid as EPA or DHA	child_4_18	0.06	0.12	74	DRI	Up to 10 percent of the AMDR for n-3 fatty acids can be consumed as EPA and/or DHA.
+AMDR	Fat; n-3 a-linolenic acid as EPA or DHA	adult	0.06	0.12	74	DRI	Up to 10 percent of the AMDR for n-3 fatty acids can be consumed as EPA and/or DHA.
+
+### Relationship of Macronutrients and Physical Activity to Chronic Disease
+
+Disease	Macronutrient			Caution
+Cancer	Energy	76	DRI	Animal studies suggest that energy restriction may inhibit cell proliferation and tumor growth
+Cancer	Energy	76	DRI	Increased childhood energy intakes have been associated with increased cancer mortality
+Cancer	Energy	76	DRI	Excess energy contributes to obesity, which may increase risk of certain cancers
+Cancer	Fat	76	DRI	High fat intakes have been implicated in development of certain cancers, although evidence is mixed.
+Cancer	Fat	76	DRI	Epidemiological studies have shown an inverse relationship between fish consumption and risk of breast and colorectal cancer, possibly due to protective effects of n-3 fatty acids.
+Cancer	Protein	76	DRI	No clear role for total protein has yet emerged.
+Cancer	Carbohydrate	76	DRI	Several case-control studies have shown increased risk of colorectal cancer in people with high intakes of sugar-rich foods.
+Cancer	Carbohydrate	76	DRI	High vegetable and fruit intake and avoidance of foods with highly refined sugars have been negatively correlated to risk of colon cancer.
+Cancer	Fiber	76	DRI	High fiber diets may protect against colorectal cancer, though the evidence is conflicting.
+Cancer	Fiber	76	DRI	Fiber may protect against hormone-related cancers including prostate, endometrial, and ovarian cancer.
+Cancer	Fiber	76	DRI	Certain cereal foods may protect against some types and stages of breast cancer.
+Cancer	Physical	76	DRI	Regular exercise has been negatively correlated with risk of colon cancer.
+Cancer	Physical	76	DRI	Numerous epidemiological studies suggest that regular physical activity decreases risk of breast cancer.
+Cancer	Physical	76	DRI	Exercise may help compensate for potential cancer-promoting effects of excess energy intake.
+Cancer	Physical	76	DRI	Exercise may bolster the immune system.
+Heart Disease	Energy	76	DRI	Excess energy contributes to obesity, which increases risk of heart disease.
+Heart Disease	Fat	76	DRI	Increased saturated fat intake can increase total and LDL blood cholesterol levels.
+Heart Disease	Fat	76	DRI	Increasing intakes of trans fatty acids and cholesterol increase total and LDL blood cholesterol levels, although there is wide interindividual variation in serum cholesterol response to dietary cholesterol.
+Heart Disease	Fat	76	DRI	Monounsaturated and polyunsaturated fatty acids decrease total and LDL blood cholesterol levels.
+Heart Disease	Fat	76	DRI	High intakes of n-6 and n-3 polyunsaturated fats are associated with decreased risk of heart disease.
+Heart Disease	Protein	76	DRI	Independent effects of protein on heart disease mortality have not been shown
+Heart Disease	Protein	76	DRI	Soy-based protein may reduce blood cholesterol, but the evidence is mixed.
+Heart Disease	Carbohydrate	76	DRI	High carbohydrate (low-fat) intakes tend to increase plasma triacylglycerol and decrease plasma HDL cholesterol levels. These effects are more extreme if the source is monosaccharides, especially fructose.
+Heart Disease	Fiber	76	DRI	Dietary fiber, particularly naturally occurring viscous fiber, reduces total and LDL cholesterol levels.
+Heart Disease	Fiber	76	DRI	Reduced rates of heart disease have been observed in individuals consuming high fiber diets.
+Heart Disease	Fiber	76	DRI	Dietary fiber intake has been shown to be negatively associated with hypertension in men.
+Heart Disease	Physical	76	DRI	Numerous studies have shown an inverse relationship between exercise and heart disease mortality.
+Heart Disease	Physical	76	DRI	Regular exercise increases HDL cholesterol; decreases triacylglycerol, blood pressure, and risk of cardiac arrhythmias; enhances fibrinolysis, glucose effectiveness, and insulin sensitivity; and lessens platelet adherence.
+Dental Caries	Carbohydrate	78	DRI	Sugars play a role in development of dental caries (as do fluoride, oral hygiene and frequency of food intake).
+Type II Diabetes Mellitus	Energy	78	DRI	Excess energy contributes to obesity, which may increase risk of Type II diabetes.
+Type II Diabetes Mellitus	Energy	78	DRI	Obesity, particularly abdominal obesity, is a risk factor for Type II diabetes.
+Type II Diabetes Mellitus	Fat	78	DRI	Some studies show a correlation between high fat intakes and insulin resistance, but it is not clear whether the association is due to fat or to obesity.
+Type II Diabetes Mellitus	Protein	78	DRI	--
+Type II Diabetes Mellitus	Carbohydrate	78	DRI	While there is little evidence that total carbohydrate is associated with Type II diabetes, there may be increased risk when the glycemic index of a meal, rather than total carbohydrate, is considered.
+Type II Diabetes Mellitus	Fiber	78	DRI	Viscous soluble fibers may attenuate the insulin response and thus protect against Type II diabetes.
+Type II Diabetes Mellitus	Physical	78	DRI	Increased physical activity levels improve insulin sensitivity in people with Type II diabetes.
+Type II Diabetes Mellitus	Physical	78	DRI	Physical activity can reduce risk of Type II diabetes and can reduce total and abdominal obesity, which are risk factors for Type II diabetes.
+Obesity	Energy	78	DRI	Excess energy intake causes obesity.
+Obesity	Fat	78	DRI	Available data on whether diets high in total fat increase the risk for obesity are conflicting; this may be partly due to underreporting of food intake, notably fat intake
+Obesity	Protein	78	DRI	Available data on whether diets high in protein are associated with obesity are mixed: some have shown a positive association with protein intake and body fatness, others have demonstrated weight loss.
+Obesity	Carbohydrate	78	DRI	Published reports have produced conflicting results about the existence of a direct link between high sugar intakes and obesity; this may be partly due to underreporting of food intake.
+Obesity	Fiber	78	DRI	Intervention studies suggest that high fiber diets may assist in weight loss, although evidence overall is mixed.
+Obesity	Physical	78	DRI	Physical inactivity is a major risk factor for development of obesity.
+Bone Health	Energy	78	DRI	--
+Bone Health	Fat	78	DRI	--
+Bone Health	Protein	78	DRI	The relationship between protein intake and bone health is very controversial with some studies showing bone loss and osteoporosis in relationship to high intakes and others showing no association in the presence of adequate calcium intakes.
+Bone Health	Carbohydrate	78	DRI	--
+Bone Health	Fiber	78	DRI	--
+Bone Health	Physical	78	DRI	Physical activity increases bone mass in children and adolescents and maintains bone mass in adults
+Bone Health	Physical	78	DRI	Physical activity enhances muscle strength, coordination, and flexibility, which may prevent falls and fractures in elderly adults.
+
+
+
+
 
 ### Energy Requirements: Table 1, p 82
 
@@ -290,6 +324,32 @@ Excessive physical activity can lead to the following adverse effects:
 • Cardiac events: Although regular physical activity promotes cardiovas- cular fitness, heavy physical exertion can trigger the development of arrhythmias or myocardial infarctions or, in some instances, can lead to sudden death.
 • Female athlete triad: Athletic women who undereat or overtrain can de- velop a condition, or cluster of conditions, called the “female athlete triad.” In this triad, disordered eating and chronic energy deficits can lead to loss of menses, osteopenia, and premature osteoporosis, increas- ing the risk of hip, spine, and forearm fractures.
 
+
+### Amino Acids p 149
+
+The recommended amino acid scoring pattern for proteins for individuals aged 1 year and older and all other age groups is as shown (in mg/g of protein). This pattern allows comparison of the relative nutritional quality of different protein sources by calculating a pro- tein digestibility corrected amino acid score (PDCAAS). The calculation com- pares the amino acid in a test protein with the amount of that amino acid in the FNB/IOM scoring pattern multiplied by the true digestibility. Illustration of the calculation involved is detailed in Dietary Reference Intakes for Energy, Carbohy- drate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids (2005).
+
+		
+* isoleucine	25 mg per g_protein	
+* leucine	55 mg per g_protein	
+* lysine	51 mg per g_protein	
+* methionine + cysteine (SAA)	25 mg per g_protein	
+* phenylalanine + tyrosine	47 mg per g_protein	
+* threonine	27 mg per g_protein	
+* tryptophan	 7 mg per g_protein	
+* valine	32 mg per g_protein	
+* histidine	18 mg per g_protein
+
+The Acceptable Macronutrient Distribution Range (AMDR) for protein is
+
+Protein		AMDR	child_14_18	10–30 percent of total calories
+Protein		AMDR	adult_18_up	10–35 percent of total calories
+
+* The Tolerable Upper Intake Level (UL) is the highest level of daily nutrient intake that is likely to pose no risk of adverse effects for almost all people. Data were insufficient to establish a UL for total protein or for any of the amino acids.
+* However, the absence of a UL warrants caution in using any single amino acid at levels significantly above those normally found in food.
+
+* Given limited data, caution is warranted in using any single amino acid at a level significantly above that normally found in food.
+
 ### Carbohydrate DRI pg 103
 
 Carbohydrate	EAR	child_14_18	100 g/day
@@ -312,26 +372,24 @@ ADVERSE EFFECTS OF OVERCONSUMPTION: Data are mixed on potential adverse effects 
 
 ### Fiber DRI pg 110
 
-g/1,000 kcal -- g/day
+Total Fiber	AI	child_14_18	male	14	g/1k cal	38	g/day
+Total Fiber	AI	child_14_18	female	14	g/1k cal	26	g/day
+Total Fiber	AI	adult_19_30	male	14	g/1k cal	38	g/day
+Total Fiber	AI	adult_19_30	female	14	g/1k cal	25	g/day
+Total Fiber	AI	adult_31_50	male	14	g/1k cal	38	g/day
+Total Fiber	AI	adult_31_50	female	14	g/1k cal	25	g/day
+Total Fiber	AI	adult_51_70	male	14	g/1k cal	30	g/day
+Total Fiber	AI	adult_51_70	female	14	g/1k cal	21	g/day
+Total Fiber	AI	adult_70_up	male	14	g/1k cal	30	g/day
+Total Fiber	AI	adult_70_up	female	14	g/1k cal	21	g/day
+Total Fiber	AI	pregnant_18_lo	female	14	g/1k cal	28	g/day
+Total Fiber	AI	pregnant_19_50	female	14	g/1k cal	28	g/day
+Total Fiber	AI	lactating_18_lo	female	14	g/1k cal	29	g/day
+Total Fiber	AI	lactating_19_50	female	14	g/1k cal	29	g/day
 
-Total Fiber	AI	child_14_18	male	14 g/1k cal	38 g/day
-Total Fiber	AI	child_14_18	female	14 g/1k cal	26 g/day
-Total Fiber	AI	adult_19_30	male	14 g/1k cal	38 g/day
-Total Fiber	AI	adult_19_30	female	14 g/1k cal	25 g/day
-Total Fiber	AI	adult_31_50	male	14 g/1k cal	38 g/day
-Total Fiber	AI	adult_31_50	female	14 g/1k cal	25 g/day
-Total Fiber	AI	adult_51_70	male	14 g/1k cal	30 g/day
-Total Fiber	AI	adult_51_70	female	14 g/1k cal	21 g/day
-Total Fiber	AI	adult_70_up	male	14 g/1k cal	30 g/day
-Total Fiber	AI	adult_70_up	female	14 g/1k cal	21 g/day
-Total Fiber	AI	pregnant_18_lo	female	14 g/1k cal	28 g/day
-Total Fiber	AI	pregnant_19_50	female	14 g/1k cal	28 g/day
-Total Fiber	AI	lactating_18_lo	female	14 g/1k cal	29 g/day
-Total Fiber	AI	lactating_19_50	female	14 g/1k cal	29 g/day
-
+* g/1,000 kcal -- g/day
 * Total Fiber is the combination of Dietary Fiber, the edible, nondigestible carbohydrate and lignin components as they exist naturally in plant foods, and Functional Fiber, which refers to isolated, extracted, or synthetic fiber that has proven health benefits.
 * Values in second column are example of the total g/day of total fiber calculated from g/1,000 kcal multiplied by the median energy intake (kcal/1,000 kcal/day) from the Continuing Survey of Food Intakes by Individuals (CSFII 1994–1996, 1998).
-
 
 p 120 TABLE 3 Potential Interactions of Dietary Fiber with Other Dietary Substances **not read**
 
@@ -404,98 +462,69 @@ Fatty acids are the major constituents of triglycerides and fall into the follow
 
 ### Cholesterol p 137
 
-Neither an EAR, RDA, nor AI was set for cholesterol.
-Because all tissues are capable of synthesizing enough cholesterol to meet their metabolic and structural needs, there is no evidence for a biological requirement for dietary cholesterol.
-It is recommended that people maintain their dietary cholesterol intake as low as possible, while consuming a diet nutritionally adequate in all required nutrients.
-The main adverse effect of dietary cholesterol is increased LDL cholesterol concentration, which could result in an increased risk of CHD.
-There is also increasing evidence that genetic factors underlie a substantial portion of the variation among individuals in response to dietary cholesterol. Although mixed, there is evidence that increases in serum cholesterol concen- tration due to dietary cholesterol are blunted by diets low in saturated fat, high in polyunsaturated fat, or both.
-No consistent significant associations have been established between dietary cholesterol intake and cancer, including lung, breast, colon, and prostate cancers.
+Cholesterol	Note	Neither an EAR, RDA, nor AI was set for cholesterol. Because all tissues are capable of synthesizing enough cholesterol to meet their metabolic and structural needs, there is no evidence for a biological requirement for dietary cholesterol. It is recommended that people maintain their dietary cholesterol intake as low as possible, while consuming a diet nutritionally adequate in all required nutrients. The main adverse effect of dietary cholesterol is increased LDL cholesterol concentration, which could result in an increased risk of CHD. There is also increasing evidence that genetic factors underlie a substantial portion of the variation among individuals in response to dietary cholesterol. Although mixed, there is evidence that increases in serum cholesterol concen- tration due to dietary cholesterol are blunted by diets low in saturated fat, high in polyunsaturated fat, or both. No consistent significant associations have been established between dietary cholesterol intake and cancer, including lung, breast, colon, and prostate cancers.
 
 ### Protein p145
 
-	Protein	EAR	child_14_18	male	0.73	g/day per kg_weight
-	Protein	EAR	adult_19_30	male	0.66	g/day per kg_weight
-	Protein	EAR	adult_31_50	male	0.66	g/day per kg_weight
-	Protein	EAR	adult_51_70	male	0.66	g/day per kg_weight
-	Protein	EAR	adult_70_up	male	0.66	g/day per kg_weight
-	Protein	EAR	child_14_18	female	0.71	g/day per kg_weight
-	Protein	EAR	adult_19_30	female	0.66	g/day per kg_weight
-	Protein	EAR	adult_31_50	female	0.66	g/day per kg_weight
-	Protein	EAR	adult_51_70	female	0.66	g/day per kg_weight
-	Protein	EAR	adult_70_up	female	0.66	g/day per kg_weight
-	Protein	EAR	pregnant	female	0.88	g/day per kg_weight
-	Protein	EAR	lactating	female	1.05	g/day per kg_weight
+Protein	EAR	child_14_18	male	0.73	g/day per kg_weight
+Protein	EAR	adult_19_30	male	0.66	g/day per kg_weight
+Protein	EAR	adult_31_50	male	0.66	g/day per kg_weight
+Protein	EAR	adult_51_70	male	0.66	g/day per kg_weight
+Protein	EAR	adult_70_up	male	0.66	g/day per kg_weight
+Protein	EAR	child_14_18	female	0.71	g/day per kg_weight
+Protein	EAR	adult_19_30	female	0.66	g/day per kg_weight
+Protein	EAR	adult_31_50	female	0.66	g/day per kg_weight
+Protein	EAR	adult_51_70	female	0.66	g/day per kg_weight
+Protein	EAR	adult_70_up	female	0.66	g/day per kg_weight
+Protein	EAR	pregnant	female	0.88	g/day per kg_weight
+Protein	EAR	lactating	female	1.05	g/day per kg_weight
 
-	Protein	RDA	child_14_18	male	0.85	g/day per kg_weight
-	Protein	RDA	adult_19_30	male	0.80	g/day per kg_weight
-	Protein	RDA	adult_31_50	male	0.80	g/day per kg_weight
-	Protein	RDA	adult_51_70	male	0.80	g/day per kg_weight
-	Protein	RDA	adult_70_up	male	0.80	g/day per kg_weight
-	Protein	RDA	child_14_18	female	0.85	g/day per kg_weight
-	Protein	RDA	adult_19_30	female	0.80	g/day per kg_weight
-	Protein	RDA	adult_31_50	female	0.80	g/day per kg_weight
-	Protein	RDA	adult_51_70	female	0.80	g/day per kg_weight
-	Protein	RDA	adult_70_up	female	0.80	g/day per kg_weight
-	Protein	RDA	pregnant	female	1.1	g/day per kg_weight
-	Protein	RDA	lactating	female	1.3	g/day per kg_weight
+Protein	RDA	child_14_18	male	0.85	g/day per kg_weight
+Protein	RDA	adult_19_30	male	0.80	g/day per kg_weight
+Protein	RDA	adult_31_50	male	0.80	g/day per kg_weight
+Protein	RDA	adult_51_70	male	0.80	g/day per kg_weight
+Protein	RDA	adult_70_up	male	0.80	g/day per kg_weight
+Protein	RDA	child_14_18	female	0.85	g/day per kg_weight
+Protein	RDA	adult_19_30	female	0.80	g/day per kg_weight
+Protein	RDA	adult_31_50	female	0.80	g/day per kg_weight
+Protein	RDA	adult_51_70	female	0.80	g/day per kg_weight
+Protein	RDA	adult_70_up	female	0.80	g/day per kg_weight
+Protein	RDA	pregnant	female	1.1	g/day per kg_weight
+Protein	RDA	lactating	female	1.3	g/day per kg_weight
 
 No UL for proteins
-
-### Amino Acids p 149
-
-The recommended amino acid scoring pattern for proteins for individuals aged 1 year and older and all other age groups is as shown (in mg/g of protein). This pattern allows comparison of the relative nutritional quality of different protein sources by calculating a pro- tein digestibility corrected amino acid score (PDCAAS). The calculation com- pares the amino acid in a test protein with the amount of that amino acid in the FNB/IOM scoring pattern multiplied by the true digestibility. Illustration of the calculation involved is detailed in Dietary Reference Intakes for Energy, Carbohy- drate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids (2005).
-
-* isoleucine			25 mg per g_protein
-* leucine			55 mg per g_protein
-* lysine			51 mg per g_protein
-* methionine + cysteine (SAA)	25 mg per g_protein
-* phenylalanine + tyrosine	47 mg per g_protein
-* threonine			27 mg per g_protein
-* tryptophan			 7 mg per g_protein
-* valine			32 mg per g_protein
-* histidine		18 mg per g_protein
-
-The Acceptable Macronutrient Distribution Range (AMDR) for protein is
-
-Protein		AMDR	child_14_18	10–30 percent of total calories
-Protein		AMDR	adult_18_up	10–35 percent of total calories
-
-* The Tolerable Upper Intake Level (UL) is the highest level of daily nutrient intake that is likely to pose no risk of adverse effects for almost all people. Data were insufficient to establish a UL for total protein or for any of the amino acids.
-* However, the absence of a UL warrants caution in using any single amino acid at levels significantly above those normally found in food.
-
-* Given limited data, caution is warranted in using any single amino acid at a level significantly above that normally found in food.
 
 ### Water p 158
 
 Total water (as italicized) includes all water contained in food, beverages, and drinking water.
-
-    Total Water	RDA	child_14_18	male	3.3
-    Total Water	RDA	adult_19_30	male	3.7
-    Total Water	RDA	adult_31_50	male	3.7
-    Total Water	RDA	adult_51_70	male	3.7
-    Total Water	RDA	adult_70_up	male	3.7
-    Total Water	RDA	child_14_18	female	2.3
-    Total Water	RDA	adult_19_30	female	2.7
-    Total Water	RDA	adult_31_50	female	2.7
-    Total Water	RDA	adult_51_70	female	2.7
-    Total Water	RDA	adult_70_up	female	2.7
-    Total Water	RDA	pregnant_19_50	female	3.0
-    Total Water	RDA	lactating_19_50	female	3.8
-
 Total beverages includes drinking water but not water from food
 
-    Total Beverage	RDA	child_14_18	male	2.6
-    Total Beverage	RDA	adult_19_30	male	3.0
-    Total Beverage	RDA	adult_31_50	male	3.0
-    Total Beverage	RDA	adult_51_70	male	3.0
-    Total Beverage	RDA	adult_70_up	male	3.0
-    Total Beverage	RDA	child_14_18	female	1.8
-    Total Beverage	RDA	adult_19_30	female	2.2
-    Total Beverage	RDA	adult_31_50	female	2.2
-    Total Beverage	RDA	adult_51_70	female	2.2
-    Total Beverage	RDA	adult_70_up	female	2.2
-    Total Beverage	RDA	pregnant_19_50	female	2.3
-    Total Beverage	RDA	lactating_19_50	female	3.1
+Total Water	RDA	child_14_18	male	3.3
+Total Water	RDA	adult_19_30	male	3.7
+Total Water	RDA	adult_31_50	male	3.7
+Total Water	RDA	adult_51_70	male	3.7
+Total Water	RDA	adult_70_up	male	3.7
+Total Water	RDA	child_14_18	female	2.3
+Total Water	RDA	adult_19_30	female	2.7
+Total Water	RDA	adult_31_50	female	2.7
+Total Water	RDA	adult_51_70	female	2.7
+Total Water	RDA	adult_70_up	female	2.7
+Total Water	RDA	pregnant_19_50	female	3.0
+Total Water	RDA	lactating_19_50	female	3.8
+
+
+Total Beverage	RDA	child_14_18	male	2.6
+Total Beverage	RDA	adult_19_30	male	3.0
+Total Beverage	RDA	adult_31_50	male	3.0
+Total Beverage	RDA	adult_51_70	male	3.0
+Total Beverage	RDA	adult_70_up	male	3.0
+Total Beverage	RDA	child_14_18	female	1.8
+Total Beverage	RDA	adult_19_30	female	2.2
+Total Beverage	RDA	adult_31_50	female	2.2
+Total Beverage	RDA	adult_51_70	female	2.2
+Total Beverage	RDA	adult_70_up	female	2.2
+Total Beverage	RDA	pregnant_19_50	female	2.3
+Total Beverage	RDA	lactating_19_50	female	3.1
 
 * Active adults: Physical activity, particularly when performed in hot weather, increases daily fluid needs. Daily water requirements for adults can double in hot weather (86∞F or 30∞C) and triple in very hot weather (104∞F or 40∞C) to make up for water lost via sweating.
 * Active children: Children who are active produce considerably less sweat than active adults, even when exercising in hot environments. This dif- ference in sweat production prevails until midpuberty and should be considered when determining the water requirements of active children and adolescents.
@@ -530,138 +559,136 @@ Total Water -- Typical Intake -- 99th percentile -- 8.1 L/day
 * The UL for vitamin A applies only to preformed vitamin A (e.g., retinol, the form of vitamin A found in animal foods, most fortified foods, and supplements). It does not apply to vitamin A derived from carotenoids.
 
 ```
-    Vitamin A	EAR	child_14_18	male	630 u_gm RAE/day
-    Vitamin A	EAR	adult_19_30	male	625 u_gm RAE/day
-    Vitamin A	EAR	adult_31_50	male	625 u_gm RAE/day
-    Vitamin A	EAR	adult_51_70	male	625 u_gm RAE/day
-    Vitamin A	EAR	adult_70_up	male	625 u_gm RAE/day
-    Vitamin A	EAR	child_14_18	female	485 u_gm RAE/day
-    Vitamin A	EAR	adult_19_30	female	500 u_gm RAE/day
-    Vitamin A	EAR	adult_31_50	female	500 u_gm RAE/day
-    Vitamin A	EAR	adult_51_70	female	500 u_gm RAE/day
-    Vitamin A	EAR	adult_70_up	female	500 u_gm RAE/day
-    Vitamin A	EAR	pregnant_19_50	female	550 u_gm RAE/day
-    Vitamin A	EAR	lactating_19_50	female	900 u_gm RAE/day
+Vitamin A	EAR	child_14_18	male	630 u_gm RAE/day
+Vitamin A	EAR	adult_19_30	male	625 u_gm RAE/day
+Vitamin A	EAR	adult_31_50	male	625 u_gm RAE/day
+Vitamin A	EAR	adult_51_70	male	625 u_gm RAE/day
+Vitamin A	EAR	adult_70_up	male	625 u_gm RAE/day
+Vitamin A	EAR	child_14_18	female	485 u_gm RAE/day
+Vitamin A	EAR	adult_19_30	female	500 u_gm RAE/day
+Vitamin A	EAR	adult_31_50	female	500 u_gm RAE/day
+Vitamin A	EAR	adult_51_70	female	500 u_gm RAE/day
+Vitamin A	EAR	adult_70_up	female	500 u_gm RAE/day
+Vitamin A	EAR	pregnant_19_50	female	550 u_gm RAE/day
+Vitamin A	EAR	lactating_19_50	female	900 u_gm RAE/day
 
-    Vitamin A	RDA	child_14_18	male	900 u_gm RAE/day
-    Vitamin A	RDA	adult_19_30	male	900 u_gm RAE/day
-    Vitamin A	RDA	adult_31_50	male	900 u_gm RAE/day
-    Vitamin A	RDA	adult_51_70	male	900 u_gm RAE/day
-    Vitamin A	RDA	adult_70_up	male	900 u_gm RAE/day
-    Vitamin A	RDA	child_14_18	female	700 u_gm RAE/day
-    Vitamin A	RDA	adult_19_30	female	700 u_gm RAE/day
-    Vitamin A	RDA	adult_31_50	female	700 u_gm RAE/day
-    Vitamin A	RDA	adult_51_70	female	700 u_gm RAE/day
-    Vitamin A	RDA	adult_70_up	female	700 u_gm RAE/day
-    Vitamin A	RDA	pregnant_19_50	female	770 u_gm RAE/day
-    Vitamin A	RDA	lactating_19_50	female	1300 u_gm RAE/day
+Vitamin A	RDA	child_14_18	male	900 u_gm RAE/day
+Vitamin A	RDA	adult_19_30	male	900 u_gm RAE/day
+Vitamin A	RDA	adult_31_50	male	900 u_gm RAE/day
+Vitamin A	RDA	adult_51_70	male	900 u_gm RAE/day
+Vitamin A	RDA	adult_70_up	male	900 u_gm RAE/day
+Vitamin A	RDA	child_14_18	female	700 u_gm RAE/day
+Vitamin A	RDA	adult_19_30	female	700 u_gm RAE/day
+Vitamin A	RDA	adult_31_50	female	700 u_gm RAE/day
+Vitamin A	RDA	adult_51_70	female	700 u_gm RAE/day
+Vitamin A	RDA	adult_70_up	female	700 u_gm RAE/day
+Vitamin A	RDA	pregnant_19_50	female	770 u_gm RAE/day
+Vitamin A	RDA	lactating_19_50	female	1300 u_gm RAE/day
 
-    Vitamin A	UL	child_14_18	male	2800 u_gm RAE/day
-    Vitamin A	UL	adult_19_30	male	3000 u_gm RAE/day
-    Vitamin A	UL	adult_31_50	male	3000 u_gm RAE/day
-    Vitamin A	UL	adult_51_70	male	3000 u_gm RAE/day
-    Vitamin A	UL	adult_70_up	male	3000 u_gm RAE/day
-    Vitamin A	UL	child_14_18	female	2800 u_gm RAE/day
-    Vitamin A	UL	adult_19_30	female	3000 u_gm RAE/day
-    Vitamin A	UL	adult_31_50	female	3000 u_gm RAE/day
-    Vitamin A	UL	adult_51_70	female	3000 u_gm RAE/day
-    Vitamin A	UL	adult_70_up	female	3000 u_gm RAE/day
-    Vitamin A	UL	pregnant_19_50	female	3000 u_gm RAE/day
-    Vitamin A	UL	lactating_19_50	female	3000 u_gm RAE/day
+Vitamin A	UL	child_14_18	male	2800 u_gm RAE/day
+Vitamin A	UL	adult_19_30	male	3000 u_gm RAE/day
+Vitamin A	UL	adult_31_50	male	3000 u_gm RAE/day
+Vitamin A	UL	adult_51_70	male	3000 u_gm RAE/day
+Vitamin A	UL	adult_70_up	male	3000 u_gm RAE/day
+Vitamin A	UL	child_14_18	female	2800 u_gm RAE/day
+Vitamin A	UL	adult_19_30	female	3000 u_gm RAE/day
+Vitamin A	UL	adult_31_50	female	3000 u_gm RAE/day
+Vitamin A	UL	adult_51_70	female	3000 u_gm RAE/day
+Vitamin A	UL	adult_70_up	female	3000 u_gm RAE/day
+Vitamin A	UL	pregnant_19_50	female	3000 u_gm RAE/day
+Vitamin A	UL	lactating_19_50	female	3000 u_gm RAE/day
 ```
 
-* Vitamin A -- Considerations -- Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals.
-
-* The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
-
-Vitamin A -- Typical Intake -- 95th percentile -- 2000 mg/day -- For U.S. adults who took supplements containing vitamin A, intakes at the 95th percentile ranged from approximately 1,500 to 3,000 mg/ day.
-Vitamin A -- Typical Intake -- Median -- 1,430 mg RAE/day -- NHANES III data, the median intake of vitamin A from supple- ments was approximately 1,430 mg RAE/day for men and wome
+Vitamin A	Note	Considerations: Vegetarian diets: Preformed vitamin A (retinol) is found only in animal-based foods. People who do not consume such foods must meet their requirements with foods that contain sufficient provitamin A carotenoids, such as deeply colored fruits and vegetables, or with fortified foods, such as margarine, some plant-based beverages, and cereals.
+Vitamin A	Note	The UL for adults is based on liver abnormalities as the critical adverse effect; for women of childbearing age, the UL is based on teratogenicity as the critical adverse effect. High b-carotene in- takes have not been shown to cause hypervitaminosis A.
+Vitamin A 	Typical Intake -- 95th percentile -- 2000 mg/day -- For U.S. adults who took supplements containing vitamin A, intakes at the 95th percentile ranged from approximately 1,500 to 3,000 mg/ day.
+Vitamin A	Typical Intake -- Median -- 1,430 mg RAE/day -- NHANES III data, the median intake of vitamin A from supple- ments was approximately 1,430 mg RAE/day for men and wome
 
 ### Vitamin B-6 p183
 
 
 ```
-    Vitamin B-6	EAR	child_14_18	male	1.1
-    Vitamin B-6	EAR	adult_19_30	male	1.1
-    Vitamin B-6	EAR	adult_31_50	male	1.1
-    Vitamin B-6	EAR	adult_51_70	male	1.4
-    Vitamin B-6	EAR	adult_70_up	male	1.4
-    Vitamin B-6	EAR	child_14_18	female	1.0
-    Vitamin B-6	EAR	adult_19_30	female	1.1
-    Vitamin B-6	EAR	adult_31_50	female	1.1
-    Vitamin B-6	EAR	adult_51_70	female	1.3
-    Vitamin B-6	EAR	adult_70_up	female	1.3
-    Vitamin B-6	EAR	pregnant_19_50	female	1.6
-    Vitamin B-6	EAR	lactating_19_50	female	1.7
+Vitamin B-6	EAR	child_14_18	male	1.1
+Vitamin B-6	EAR	adult_19_30	male	1.1
+Vitamin B-6	EAR	adult_31_50	male	1.1
+Vitamin B-6	EAR	adult_51_70	male	1.4
+Vitamin B-6	EAR	adult_70_up	male	1.4
+Vitamin B-6	EAR	child_14_18	female	1.0
+Vitamin B-6	EAR	adult_19_30	female	1.1
+Vitamin B-6	EAR	adult_31_50	female	1.1
+Vitamin B-6	EAR	adult_51_70	female	1.3
+Vitamin B-6	EAR	adult_70_up	female	1.3
+Vitamin B-6	EAR	pregnant_19_50	female	1.6
+Vitamin B-6	EAR	lactating_19_50	female	1.7
 
-    Vitamin B-6	RDA	child_14_18	male	1.3
-    Vitamin B-6	RDA	adult_19_30	male	1.3
-    Vitamin B-6	RDA	adult_31_50	male	1.3
-    Vitamin B-6	RDA	adult_51_70	male	1.7
-    Vitamin B-6	RDA	adult_70_up	male	1.7
-    Vitamin B-6	RDA	child_14_18	female	1.2
-    Vitamin B-6	RDA	adult_19_30	female	1.3
-    Vitamin B-6	RDA	adult_31_50	female	1.3
-    Vitamin B-6	RDA	adult_51_70	female	1.5
-    Vitamin B-6	RDA	adult_70_up	female	1.5
-    Vitamin B-6	RDA	pregnant_19_50	female	1.9
-    Vitamin B-6	RDA	lactating_19_50	female	2.0
+Vitamin B-6	RDA	child_14_18	male	1.3
+Vitamin B-6	RDA	adult_19_30	male	1.3
+Vitamin B-6	RDA	adult_31_50	male	1.3
+Vitamin B-6	RDA	adult_51_70	male	1.7
+Vitamin B-6	RDA	adult_70_up	male	1.7
+Vitamin B-6	RDA	child_14_18	female	1.2
+Vitamin B-6	RDA	adult_19_30	female	1.3
+Vitamin B-6	RDA	adult_31_50	female	1.3
+Vitamin B-6	RDA	adult_51_70	female	1.5
+Vitamin B-6	RDA	adult_70_up	female	1.5
+Vitamin B-6	RDA	pregnant_19_50	female	1.9
+Vitamin B-6	RDA	lactating_19_50	female	2.0
 
-    Vitamin B-6	UL	child_14_18	male	80
-    Vitamin B-6	UL	adult_19_30	male	100
-    Vitamin B-6	UL	adult_31_50	male	100
-    Vitamin B-6	UL	adult_51_70	male	100
-    Vitamin B-6	UL	adult_70_up	male	100
-    Vitamin B-6	UL	child_14_18	female	80
-    Vitamin B-6	UL	adult_19_30	female	100
-    Vitamin B-6	UL	adult_31_50	female	100
-    Vitamin B-6	UL	adult_51_70	female	100
-    Vitamin B-6	UL	adult_70_up	female	100
-    Vitamin B-6	UL	pregnant_19_50	female	100
-    Vitamin B-6	UL	lactating_19_50	female	100
+Vitamin B-6	UL	child_14_18	male	80
+Vitamin B-6	UL	adult_19_30	male	100
+Vitamin B-6	UL	adult_31_50	male	100
+Vitamin B-6	UL	adult_51_70	male	100
+Vitamin B-6	UL	adult_70_up	male	100
+Vitamin B-6	UL	child_14_18	female	80
+Vitamin B-6	UL	adult_19_30	female	100
+Vitamin B-6	UL	adult_31_50	female	100
+Vitamin B-6	UL	adult_51_70	female	100
+Vitamin B-6	UL	adult_70_up	female	100
+Vitamin B-6	UL	pregnant_19_50	female	100
+Vitamin B-6	UL	lactating_19_50	female	100
 ```
 
 ### Vitamin B-12 p189
 
 ```
-    Vitamin B-12	EAR	child_14_18	male	2.0
-    Vitamin B-12	EAR	adult_19_30	male	2.0
-    Vitamin B-12	EAR	adult_31_50	male	2.0
-    Vitamin B-12	EAR	adult_51_70	male	2.0
-    Vitamin B-12	EAR	adult_70_up	male	2.0
-    Vitamin B-12	EAR	child_14_18	female	2.0
-    Vitamin B-12	EAR	adult_19_30	female	2.0
-    Vitamin B-12	EAR	adult_31_50	female	2.0
-    Vitamin B-12	EAR	adult_51_70	female	2.0
-    Vitamin B-12	EAR	adult_70_up	female	2.0
-    Vitamin B-12	EAR	pregnant_19_50	female	2.2
-    Vitamin B-12	EAR	lactating_19_50	female	2.4
+Vitamin B-12	EAR	child_14_18	male	2.0
+Vitamin B-12	EAR	adult_19_30	male	2.0
+Vitamin B-12	EAR	adult_31_50	male	2.0
+Vitamin B-12	EAR	adult_51_70	male	2.0
+Vitamin B-12	EAR	adult_70_up	male	2.0
+Vitamin B-12	EAR	child_14_18	female	2.0
+Vitamin B-12	EAR	adult_19_30	female	2.0
+Vitamin B-12	EAR	adult_31_50	female	2.0
+Vitamin B-12	EAR	adult_51_70	female	2.0
+Vitamin B-12	EAR	adult_70_up	female	2.0
+Vitamin B-12	EAR	pregnant_19_50	female	2.2
+Vitamin B-12	EAR	lactating_19_50	female	2.4
 
-    Vitamin B-12	RDA	child_14_18	male	2.4
-    Vitamin B-12	RDA	adult_19_30	male	2.4
-    Vitamin B-12	RDA	adult_31_50	male	2.4
-    Vitamin B-12	RDA	adult_51_70	male	2.4
-    Vitamin B-12	RDA	adult_70_up	male	2.4
-    Vitamin B-12	RDA	child_14_18	female	2.4
-    Vitamin B-12	RDA	adult_19_30	female	2.4
-    Vitamin B-12	RDA	adult_31_50	female	2.4
-    Vitamin B-12	RDA	adult_51_70	female	2.4
-    Vitamin B-12	RDA	adult_70_up	female	2.4
-    Vitamin B-12	RDA	pregnant_19_50	female	2.6
-    Vitamin B-12	RDA	lactating_19_50	female	2.8
+Vitamin B-12	RDA	child_14_18	male	2.4
+Vitamin B-12	RDA	adult_19_30	male	2.4
+Vitamin B-12	RDA	adult_31_50	male	2.4
+Vitamin B-12	RDA	adult_51_70	male	2.4
+Vitamin B-12	RDA	adult_70_up	male	2.4
+Vitamin B-12	RDA	child_14_18	female	2.4
+Vitamin B-12	RDA	adult_19_30	female	2.4
+Vitamin B-12	RDA	adult_31_50	female	2.4
+Vitamin B-12	RDA	adult_51_70	female	2.4
+Vitamin B-12	RDA	adult_70_up	female	2.4
+Vitamin B-12	RDA	pregnant_19_50	female	2.6
+Vitamin B-12	RDA	lactating_19_50	female	2.8
 
-    Vitamin B-12	UL	child_14_18	male	ND
-    Vitamin B-12	UL	adult_19_30	male	ND
-    Vitamin B-12	UL	adult_31_50	male	ND
-    Vitamin B-12	UL	adult_51_70	male	ND
-    Vitamin B-12	UL	adult_70_up	male	ND
-    Vitamin B-12	UL	child_14_18	female	ND
-    Vitamin B-12	UL	adult_19_30	female	ND
-    Vitamin B-12	UL	adult_31_50	female	ND
-    Vitamin B-12	UL	adult_51_70	female	ND
-    Vitamin B-12	UL	adult_70_up	female	ND
-    Vitamin B-12	UL	pregnant_19_50	female	ND
-    Vitamin B-12	UL	lactating_19_50	female	ND
+Vitamin B-12	UL	child_14_18	male	ND
+Vitamin B-12	UL	adult_19_30	male	ND
+Vitamin B-12	UL	adult_31_50	male	ND
+Vitamin B-12	UL	adult_51_70	male	ND
+Vitamin B-12	UL	adult_70_up	male	ND
+Vitamin B-12	UL	child_14_18	female	ND
+Vitamin B-12	UL	adult_19_30	female	ND
+Vitamin B-12	UL	adult_31_50	female	ND
+Vitamin B-12	UL	adult_51_70	female	ND
+Vitamin B-12	UL	adult_70_up	female	ND
+Vitamin B-12	UL	pregnant_19_50	female	ND
+Vitamin B-12	UL	lactating_19_50	female	ND
 ```
 
 * Vitamin B-12 -- Considerations -- adult_50_up -- Because 10 to 30 percent of older people may malabsorb food-bound vitamin B12, for adults over 50 years old it is advisable for most of this amount to be obtained by consuming foods fortified with vitamin B12 or a vitamin B12-containng supplement.
@@ -669,18 +696,18 @@ Vitamin A -- Typical Intake -- Median -- 1,430 mg RAE/day -- NHANES III data, th
 ### Biotin p 197
 
 ```
-    Biotin	AI	child_14_18	male	25
-    Biotin	AI	adult_19_30	male	30
-    Biotin	AI	adult_31_50	male	30
-    Biotin	AI	adult_51_70	male	30
-    Biotin	AI	adult_70_up	male	30
-    Biotin	AI	child_14_18	female	25
-    Biotin	AI	adult_19_30	female	30
-    Biotin	AI	adult_31_50	female	30
-    Biotin	AI	adult_51_70	female	30
-    Biotin	AI	adult_70_up	female	30
-    Biotin	AI	pregnant_19_50	female	30
-    Biotin	AI	lactating_19_50	female	35
+Biotin	AI	child_14_18	male	25
+Biotin	AI	adult_19_30	male	30
+Biotin	AI	adult_31_50	male	30
+Biotin	AI	adult_51_70	male	30
+Biotin	AI	adult_70_up	male	30
+Biotin	AI	child_14_18	female	25
+Biotin	AI	adult_19_30	female	30
+Biotin	AI	adult_31_50	female	30
+Biotin	AI	adult_51_70	female	30
+Biotin	AI	adult_70_up	female	30
+Biotin	AI	pregnant_19_50	female	30
+Biotin	AI	lactating_19_50	female	35
 ```
 
 
@@ -690,701 +717,695 @@ Vitamin A -- Typical Intake -- Median -- 1,430 mg RAE/day -- NHANES III data, th
 ### Vitamin C p189
 
 ```
-    Vitamin C	EAR	child_14_18	male	63
-    Vitamin C	EAR	adult_19_30	male	75
-    Vitamin C	EAR	adult_31_50	male	75
-    Vitamin C	EAR	adult_51_70	male	75
-    Vitamin C	EAR	adult_70_up	male	75
-    Vitamin C	EAR	child_14_18	female	56
-    Vitamin C	EAR	adult_19_30	female	60
-    Vitamin C	EAR	adult_31_50	female	60
-    Vitamin C	EAR	adult_51_70	female	60
-    Vitamin C	EAR	adult_70_up	female	60
-    Vitamin C	EAR	pregnant_19_50	female	70
-    Vitamin C	EAR	lactating_19_50	female	100
+Vitamin C	EAR	child_14_18	male	63
+Vitamin C	EAR	adult_19_30	male	75
+Vitamin C	EAR	adult_31_50	male	75
+Vitamin C	EAR	adult_51_70	male	75
+Vitamin C	EAR	adult_70_up	male	75
+Vitamin C	EAR	child_14_18	female	56
+Vitamin C	EAR	adult_19_30	female	60
+Vitamin C	EAR	adult_31_50	female	60
+Vitamin C	EAR	adult_51_70	female	60
+Vitamin C	EAR	adult_70_up	female	60
+Vitamin C	EAR	pregnant_19_50	female	70
+Vitamin C	EAR	lactating_19_50	female	100
 
-    Vitamin C	RDA	child_14_18	male	75
-    Vitamin C	RDA	adult_19_30	male	90
-    Vitamin C	RDA	adult_31_50	male	90
-    Vitamin C	RDA	adult_51_70	male	90
-    Vitamin C	RDA	adult_70_up	male	90
-    Vitamin C	RDA	child_14_18	female	65
-    Vitamin C	RDA	adult_19_30	female	75
-    Vitamin C	RDA	adult_31_50	female	75
-    Vitamin C	RDA	adult_51_70	female	75
-    Vitamin C	RDA	adult_70_up	female	75
-    Vitamin C	RDA	pregnant_19_50	female	85
-    Vitamin C	RDA	lactating_19_50	female	120
+Vitamin C	RDA	child_14_18	male	75
+Vitamin C	RDA	adult_19_30	male	90
+Vitamin C	RDA	adult_31_50	male	90
+Vitamin C	RDA	adult_51_70	male	90
+Vitamin C	RDA	adult_70_up	male	90
+Vitamin C	RDA	child_14_18	female	65
+Vitamin C	RDA	adult_19_30	female	75
+Vitamin C	RDA	adult_31_50	female	75
+Vitamin C	RDA	adult_51_70	female	75
+Vitamin C	RDA	adult_70_up	female	75
+Vitamin C	RDA	pregnant_19_50	female	85
+Vitamin C	RDA	lactating_19_50	female	120
 
-    Vitamin C	UL	child_14_18	male	1800
-    Vitamin C	UL	adult_19_30	male	2000
-    Vitamin C	UL	adult_31_50	male	2000
-    Vitamin C	UL	adult_51_70	male	2000
-    Vitamin C	UL	adult_70_up	male	2000
-    Vitamin C	UL	child_14_18	female	1800
-    Vitamin C	UL	adult_19_30	female	2000
-    Vitamin C	UL	adult_31_50	female	2000
-    Vitamin C	UL	adult_51_70	female	2000
-    Vitamin C	UL	adult_70_up	female	2000
-    Vitamin C	UL	pregnant_19_50	female	2000
-    Vitamin C	UL	lactating_19_50	female	2000
+Vitamin C	UL	child_14_18	male	1800
+Vitamin C	UL	adult_19_30	male	2000
+Vitamin C	UL	adult_31_50	male	2000
+Vitamin C	UL	adult_51_70	male	2000
+Vitamin C	UL	adult_70_up	male	2000
+Vitamin C	UL	child_14_18	female	1800
+Vitamin C	UL	adult_19_30	female	2000
+Vitamin C	UL	adult_31_50	female	2000
+Vitamin C	UL	adult_51_70	female	2000
+Vitamin C	UL	adult_70_up	female	2000
+Vitamin C	UL	pregnant_19_50	female	2000
+Vitamin C	UL	lactating_19_50	female	2000
 ```
 
 ### CAROTENOIDS p 212
 
-he most prevalent carotenoids in North American diets are a-carotene, b-carotene, lycopene, lutein, zeaxanthin, and b-cryptoxanthin. Of these, a-carotene, b-carotene, and b- cryptoxanthin can be converted into retinol (vitamin A) in the body and are called provitamin A carotenoids. Lycopene, lutein, and zeaxanthin have no vi- tamin A activity and are called nonprovitamin A carotenoids. The only known function of carotenoids in humans is to act as a source of vitamin A in the diet (provitamin A carotenoids only).
-
-There are no DRIs specifically for carotenoids
-
-Al- though epidemiological evidence suggests that higher blood concentrations of b-carotene and other carotenoids obtained from foods are associated with a lower risk of several chronic diseases, other evidence suggests possible harm arising from very large doses in population subgroups, such as smokers and asbestos workers. Currently, there is insufficient evidence to recommend that a certain percentage of dietary vitamin A should come from provitamin A carot- enoids. However, existing recommendations calling for the increased consump- tion of carotenoid-rich fruits and vegetables for their health-promoting benefits are strongly supported.
+There are no DRIs specifically for carotenoids. The most prevalent carotenoids in North American diets are a-carotene, b-carotene, lycopene, lutein, zeaxanthin, and b-cryptoxanthin. Of these, a-carotene, b-carotene, and b- cryptoxanthin can be converted into retinol (vitamin A) in the body and are called provitamin A carotenoids. Lycopene, lutein, and zeaxanthin have no vi- tamin A activity and are called nonprovitamin A carotenoids. The only known function of carotenoids in humans is to act as a source of vitamin A in the diet (provitamin A carotenoids only). Although epidemiological evidence suggests that higher blood concentrations of b-carotene and other carotenoids obtained from foods are associated with a lower risk of several chronic diseases, other evidence suggests possible harm arising from very large doses in population subgroups, such as smokers and asbestos workers. Currently, there is insufficient evidence to recommend that a certain percentage of dietary vitamin A should come from provitamin A carot- enoids. However, existing recommendations calling for the increased consumption of carotenoid-rich fruits and vegetables for their health-promoting benefits are strongly supported.
 
 ### Choline p 219
 
 ```
-    Choline	AI	child_14_18	male
-    Choline	AI	adult_19_30	male
-    Choline	AI	adult_31_50	male
-    Choline	AI	adult_51_70	male
-    Choline	AI	adult_70_up	male
-    Choline	AI	child_14_18	female
-    Choline	AI	adult_19_30	female
-    Choline	AI	adult_31_50	female
-    Choline	AI	adult_51_70	female
-    Choline	AI	adult_70_up	female
-    Choline	AI	pregnant_19_50	female
-    Choline	AI	lactating_19_50	female
+Choline	AI	child_14_18	male
+Choline	AI	adult_19_30	male
+Choline	AI	adult_31_50	male
+Choline	AI	adult_51_70	male
+Choline	AI	adult_70_up	male
+Choline	AI	child_14_18	female
+Choline	AI	adult_19_30	female
+Choline	AI	adult_31_50	female
+Choline	AI	adult_51_70	female
+Choline	AI	adult_70_up	female
+Choline	AI	pregnant_19_50	female
+Choline	AI	lactating_19_50	female
 
-    Choline	UL	child_14_18	male
-    Choline	UL	adult_19_30	male
-    Choline	UL	adult_31_50	male
-    Choline	UL	adult_51_70	male
-    Choline	UL	adult_70_up	male
-    Choline	UL	child_14_18	female
-    Choline	UL	adult_19_30	female
-    Choline	UL	adult_31_50	female
-    Choline	UL	adult_51_70	female
-    Choline	UL	adult_70_up	female
-    Choline	UL	pregnant_19_50	female
-    Choline	UL	lactating_19_50	female
+Choline	UL	child_14_18	male
+Choline	UL	adult_19_30	male
+Choline	UL	adult_31_50	male
+Choline	UL	adult_51_70	male
+Choline	UL	adult_70_up	male
+Choline	UL	child_14_18	female
+Choline	UL	adult_19_30	female
+Choline	UL	adult_31_50	female
+Choline	UL	adult_51_70	female
+Choline	UL	adult_70_up	female
+Choline	UL	pregnant_19_50	female
+Choline	UL	lactating_19_50	female
 ```
 
 
 ### Vitamin D p 224
 
 ```
-    Vitamin D	AI	child_14_18	male
-    Vitamin D	AI	adult_19_30	male
-    Vitamin D	AI	adult_31_50	male
-    Vitamin D	AI	adult_51_70	male
-    Vitamin D	AI	adult_70_up	male
-    Vitamin D	AI	child_14_18	female
-    Vitamin D	AI	adult_19_30	female
-    Vitamin D	AI	adult_31_50	female
-    Vitamin D	AI	adult_51_70	female
-    Vitamin D	AI	adult_70_up	female
-    Vitamin D	AI	pregnant_19_50	female
-    Vitamin D	AI	lactating_19_50	female
+Vitamin D	AI	child_14_18	male
+Vitamin D	AI	adult_19_30	male
+Vitamin D	AI	adult_31_50	male
+Vitamin D	AI	adult_51_70	male
+Vitamin D	AI	adult_70_up	male
+Vitamin D	AI	child_14_18	female
+Vitamin D	AI	adult_19_30	female
+Vitamin D	AI	adult_31_50	female
+Vitamin D	AI	adult_51_70	female
+Vitamin D	AI	adult_70_up	female
+Vitamin D	AI	pregnant_19_50	female
+Vitamin D	AI	lactating_19_50	female
 
-    Vitamin D	UL	child_14_18	male
-    Vitamin D	UL	adult_19_30	male
-    Vitamin D	UL	adult_31_50	male
-    Vitamin D	UL	adult_51_70	male
-    Vitamin D	UL	adult_70_up	male
-    Vitamin D	UL	child_14_18	female
-    Vitamin D	UL	adult_19_30	female
-    Vitamin D	UL	adult_31_50	female
-    Vitamin D	UL	adult_51_70	female
-    Vitamin D	UL	adult_70_up	female
-    Vitamin D	UL	pregnant_19_50	female
-    Vitamin D	UL	lactating_19_50	female
+Vitamin D	UL	child_14_18	male
+Vitamin D	UL	adult_19_30	male
+Vitamin D	UL	adult_31_50	male
+Vitamin D	UL	adult_51_70	male
+Vitamin D	UL	adult_70_up	male
+Vitamin D	UL	child_14_18	female
+Vitamin D	UL	adult_19_30	female
+Vitamin D	UL	adult_31_50	female
+Vitamin D	UL	adult_51_70	female
+Vitamin D	UL	adult_70_up	female
+Vitamin D	UL	pregnant_19_50	female
+Vitamin D	UL	lactating_19_50	female
 ```
 
 
 ### Vitamin E 234
 
 ```
-    Vitamin E	EAR	child_14_18	male
-    Vitamin E	EAR	adult_19_30	male
-    Vitamin E	EAR	adult_31_50	male
-    Vitamin E	EAR	adult_51_70	male
-    Vitamin E	EAR	adult_70_up	male
-    Vitamin E	EAR	child_14_18	female
-    Vitamin E	EAR	adult_19_30	female
-    Vitamin E	EAR	adult_31_50	female
-    Vitamin E	EAR	adult_51_70	female
-    Vitamin E	EAR	adult_70_up	female
-    Vitamin E	EAR	pregnant_19_50	female
-    Vitamin E	EAR	lactating_19_50	female
+Vitamin E	EAR	child_14_18	male
+Vitamin E	EAR	adult_19_30	male
+Vitamin E	EAR	adult_31_50	male
+Vitamin E	EAR	adult_51_70	male
+Vitamin E	EAR	adult_70_up	male
+Vitamin E	EAR	child_14_18	female
+Vitamin E	EAR	adult_19_30	female
+Vitamin E	EAR	adult_31_50	female
+Vitamin E	EAR	adult_51_70	female
+Vitamin E	EAR	adult_70_up	female
+Vitamin E	EAR	pregnant_19_50	female
+Vitamin E	EAR	lactating_19_50	female
 
-    Vitamin E	RDA	child_14_18	male
-    Vitamin E	RDA	adult_19_30	male
-    Vitamin E	RDA	adult_31_50	male
-    Vitamin E	RDA	adult_51_70	male
-    Vitamin E	RDA	adult_70_up	male
-    Vitamin E	RDA	child_14_18	female
-    Vitamin E	RDA	adult_19_30	female
-    Vitamin E	RDA	adult_31_50	female
-    Vitamin E	RDA	adult_51_70	female
-    Vitamin E	RDA	adult_70_up	female
-    Vitamin E	RDA	pregnant_19_50	female
-    Vitamin E	RDA	lactating_19_50	female
+Vitamin E	RDA	child_14_18	male
+Vitamin E	RDA	adult_19_30	male
+Vitamin E	RDA	adult_31_50	male
+Vitamin E	RDA	adult_51_70	male
+Vitamin E	RDA	adult_70_up	male
+Vitamin E	RDA	child_14_18	female
+Vitamin E	RDA	adult_19_30	female
+Vitamin E	RDA	adult_31_50	female
+Vitamin E	RDA	adult_51_70	female
+Vitamin E	RDA	adult_70_up	female
+Vitamin E	RDA	pregnant_19_50	female
+Vitamin E	RDA	lactating_19_50	female
 
-    Vitamin E	UL	child_14_18	male
-    Vitamin E	UL	adult_19_30	male
-    Vitamin E	UL	adult_31_50	male
-    Vitamin E	UL	adult_51_70	male
-    Vitamin E	UL	adult_70_up	male
-    Vitamin E	UL	child_14_18	female
-    Vitamin E	UL	adult_19_30	female
-    Vitamin E	UL	adult_31_50	female
-    Vitamin E	UL	adult_51_70	female
-    Vitamin E	UL	adult_70_up	female
-    Vitamin E	UL	pregnant_19_50	female
-    Vitamin E	UL	lactating_19_50	female
+Vitamin E	UL	child_14_18	male
+Vitamin E	UL	adult_19_30	male
+Vitamin E	UL	adult_31_50	male
+Vitamin E	UL	adult_51_70	male
+Vitamin E	UL	adult_70_up	male
+Vitamin E	UL	child_14_18	female
+Vitamin E	UL	adult_19_30	female
+Vitamin E	UL	adult_31_50	female
+Vitamin E	UL	adult_51_70	female
+Vitamin E	UL	adult_70_up	female
+Vitamin E	UL	pregnant_19_50	female
+Vitamin E	UL	lactating_19_50	female
 ```
 
 
 ### Folate p 244
 
-Folate is a B vitamin that functions as a coenzyme in the metabolism of nucleic and amino acids. Folate is a generic term that includes both the naturally occurring form of the vitamin (food folate or pteroyl- polyglutamates) and the monoglutamate form (folic acid or pteroylmonoglutamic acid), which is used in fortified foods and dietary supplements.
-
 
 ```
-    Folate	EAR	child_14_18	male
-    Folate	EAR	adult_19_30	male
-    Folate	EAR	adult_31_50	male
-    Folate	EAR	adult_51_70	male
-    Folate	EAR	adult_70_up	male
-    Folate	EAR	child_14_18	female
-    Folate	EAR	adult_19_30	female
-    Folate	EAR	adult_31_50	female
-    Folate	EAR	adult_51_70	female
-    Folate	EAR	adult_70_up	female
-    Folate	EAR	pregnant_19_50	female
-    Folate	EAR	lactating_19_50	female
+Folate	EAR	child_14_18	male
+Folate	EAR	adult_19_30	male
+Folate	EAR	adult_31_50	male
+Folate	EAR	adult_51_70	male
+Folate	EAR	adult_70_up	male
+Folate	EAR	child_14_18	female
+Folate	EAR	adult_19_30	female
+Folate	EAR	adult_31_50	female
+Folate	EAR	adult_51_70	female
+Folate	EAR	adult_70_up	female
+Folate	EAR	pregnant_19_50	female
+Folate	EAR	lactating_19_50	female
 
-    Folate	RDA	child_14_18	male
-    Folate	RDA	adult_19_30	male
-    Folate	RDA	adult_31_50	male
-    Folate	RDA	adult_51_70	male
-    Folate	RDA	adult_70_up	male
-    Folate	RDA	child_14_18	female
-    Folate	RDA	adult_19_30	female
-    Folate	RDA	adult_31_50	female
-    Folate	RDA	adult_51_70	female
-    Folate	RDA	adult_70_up	female
-    Folate	RDA	pregnant_19_50	female
-    Folate	RDA	lactating_19_50	female
+Folate	RDA	child_14_18	male
+Folate	RDA	adult_19_30	male
+Folate	RDA	adult_31_50	male
+Folate	RDA	adult_51_70	male
+Folate	RDA	adult_70_up	male
+Folate	RDA	child_14_18	female
+Folate	RDA	adult_19_30	female
+Folate	RDA	adult_31_50	female
+Folate	RDA	adult_51_70	female
+Folate	RDA	adult_70_up	female
+Folate	RDA	pregnant_19_50	female
+Folate	RDA	lactating_19_50	female
 
-    Folate	UL	child_14_18	male
-    Folate	UL	adult_19_30	male
-    Folate	UL	adult_31_50	male
-    Folate	UL	adult_51_70	male
-    Folate	UL	adult_70_up	male
-    Folate	UL	child_14_18	female
-    Folate	UL	adult_19_30	female
-    Folate	UL	adult_31_50	female
-    Folate	UL	adult_51_70	female
-    Folate	UL	adult_70_up	female
-    Folate	UL	pregnant_19_50	female
-    Folate	UL	lactating_19_50	female
+Folate	UL	child_14_18	male
+Folate	UL	adult_19_30	male
+Folate	UL	adult_31_50	male
+Folate	UL	adult_51_70	male
+Folate	UL	adult_70_up	male
+Folate	UL	child_14_18	female
+Folate	UL	adult_19_30	female
+Folate	UL	adult_31_50	female
+Folate	UL	adult_51_70	female
+Folate	UL	adult_70_up	female
+Folate	UL	pregnant_19_50	female
+Folate	UL	lactating_19_50	female
 ```
 
 ### Vitamin K p 254
 
 ```
-    Vitamin K	AI	child_14_18	male
-    Vitamin K	AI	adult_19_30	male
-    Vitamin K	AI	adult_31_50	male
-    Vitamin K	AI	adult_51_70	male
-    Vitamin K	AI	adult_70_up	male
-    Vitamin K	AI	child_14_18	female
-    Vitamin K	AI	adult_19_30	female
-    Vitamin K	AI	adult_31_50	female
-    Vitamin K	AI	adult_51_70	female
-    Vitamin K	AI	adult_70_up	female
-    Vitamin K	AI	pregnant_19_50	female
-    Vitamin K	AI	lactating_19_50	female
+Vitamin K	AI	child_14_18	male
+Vitamin K	AI	adult_19_30	male
+Vitamin K	AI	adult_31_50	male
+Vitamin K	AI	adult_51_70	male
+Vitamin K	AI	adult_70_up	male
+Vitamin K	AI	child_14_18	female
+Vitamin K	AI	adult_19_30	female
+Vitamin K	AI	adult_31_50	female
+Vitamin K	AI	adult_51_70	female
+Vitamin K	AI	adult_70_up	female
+Vitamin K	AI	pregnant_19_50	female
+Vitamin K	AI	lactating_19_50	female
 
-    Vitamin K	UL	child_14_18	male
-    Vitamin K	UL	adult_19_30	male
-    Vitamin K	UL	adult_31_50	male
-    Vitamin K	UL	adult_51_70	male
-    Vitamin K	UL	adult_70_up	male
-    Vitamin K	UL	child_14_18	female
-    Vitamin K	UL	adult_19_30	female
-    Vitamin K	UL	adult_31_50	female
-    Vitamin K	UL	adult_51_70	female
-    Vitamin K	UL	adult_70_up	female
-    Vitamin K	UL	pregnant_19_50	female
-    Vitamin K	UL	lactating_19_50	female
+Vitamin K	UL	child_14_18	male
+Vitamin K	UL	adult_19_30	male
+Vitamin K	UL	adult_31_50	male
+Vitamin K	UL	adult_51_70	male
+Vitamin K	UL	adult_70_up	male
+Vitamin K	UL	child_14_18	female
+Vitamin K	UL	adult_19_30	female
+Vitamin K	UL	adult_31_50	female
+Vitamin K	UL	adult_51_70	female
+Vitamin K	UL	adult_70_up	female
+Vitamin K	UL	pregnant_19_50	female
+Vitamin K	UL	lactating_19_50	female
 ```
 
 
 ### Niacin p 262
 
 ```
-    Niacin	EAR	child_14_18	male
-    Niacin	EAR	adult_19_30	male
-    Niacin	EAR	adult_31_50	male
-    Niacin	EAR	adult_51_70	male
-    Niacin	EAR	adult_70_up	male
-    Niacin	EAR	child_14_18	female
-    Niacin	EAR	adult_19_30	female
-    Niacin	EAR	adult_31_50	female
-    Niacin	EAR	adult_51_70	female
-    Niacin	EAR	adult_70_up	female
-    Niacin	EAR	pregnant_19_50	female
-    Niacin	EAR	lactating_19_50	female
+Niacin	EAR	child_14_18	male
+Niacin	EAR	adult_19_30	male
+Niacin	EAR	adult_31_50	male
+Niacin	EAR	adult_51_70	male
+Niacin	EAR	adult_70_up	male
+Niacin	EAR	child_14_18	female
+Niacin	EAR	adult_19_30	female
+Niacin	EAR	adult_31_50	female
+Niacin	EAR	adult_51_70	female
+Niacin	EAR	adult_70_up	female
+Niacin	EAR	pregnant_19_50	female
+Niacin	EAR	lactating_19_50	female
 
-    Niacin	RDA	child_14_18	male
-    Niacin	RDA	adult_19_30	male
-    Niacin	RDA	adult_31_50	male
-    Niacin	RDA	adult_51_70	male
-    Niacin	RDA	adult_70_up	male
-    Niacin	RDA	child_14_18	female
-    Niacin	RDA	adult_19_30	female
-    Niacin	RDA	adult_31_50	female
-    Niacin	RDA	adult_51_70	female
-    Niacin	RDA	adult_70_up	female
-    Niacin	RDA	pregnant_19_50	female
-    Niacin	RDA	lactating_19_50	female
+Niacin	RDA	child_14_18	male
+Niacin	RDA	adult_19_30	male
+Niacin	RDA	adult_31_50	male
+Niacin	RDA	adult_51_70	male
+Niacin	RDA	adult_70_up	male
+Niacin	RDA	child_14_18	female
+Niacin	RDA	adult_19_30	female
+Niacin	RDA	adult_31_50	female
+Niacin	RDA	adult_51_70	female
+Niacin	RDA	adult_70_up	female
+Niacin	RDA	pregnant_19_50	female
+Niacin	RDA	lactating_19_50	female
 
-    Niacin	UL	child_14_18	male
-    Niacin	UL	adult_19_30	male
-    Niacin	UL	adult_31_50	male
-    Niacin	UL	adult_51_70	male
-    Niacin	UL	adult_70_up	male
-    Niacin	UL	child_14_18	female
-    Niacin	UL	adult_19_30	female
-    Niacin	UL	adult_31_50	female
-    Niacin	UL	adult_51_70	female
-    Niacin	UL	adult_70_up	female
-    Niacin	UL	pregnant_19_50	female
-    Niacin	UL	lactating_19_50	female
+Niacin	UL	child_14_18	male
+Niacin	UL	adult_19_30	male
+Niacin	UL	adult_31_50	male
+Niacin	UL	adult_51_70	male
+Niacin	UL	adult_70_up	male
+Niacin	UL	child_14_18	female
+Niacin	UL	adult_19_30	female
+Niacin	UL	adult_31_50	female
+Niacin	UL	adult_51_70	female
+Niacin	UL	adult_70_up	female
+Niacin	UL	pregnant_19_50	female
+Niacin	UL	lactating_19_50	female
 ```
 
 ### Pantothenic Acid p 254
 
 ```
-    Pantothenic Acid	AI	child_14_18	male
-    Pantothenic Acid	AI	adult_19_30	male
-    Pantothenic Acid	AI	adult_31_50	male
-    Pantothenic Acid	AI	adult_51_70	male
-    Pantothenic Acid	AI	adult_70_up	male
-    Pantothenic Acid	AI	child_14_18	female
-    Pantothenic Acid	AI	adult_19_30	female
-    Pantothenic Acid	AI	adult_31_50	female
-    Pantothenic Acid	AI	adult_51_70	female
-    Pantothenic Acid	AI	adult_70_up	female
-    Pantothenic Acid	AI	pregnant_19_50	female
-    Pantothenic Acid	AI	lactating_19_50	female
+Pantothenic Acid	AI	child_14_18	male
+Pantothenic Acid	AI	adult_19_30	male
+Pantothenic Acid	AI	adult_31_50	male
+Pantothenic Acid	AI	adult_51_70	male
+Pantothenic Acid	AI	adult_70_up	male
+Pantothenic Acid	AI	child_14_18	female
+Pantothenic Acid	AI	adult_19_30	female
+Pantothenic Acid	AI	adult_31_50	female
+Pantothenic Acid	AI	adult_51_70	female
+Pantothenic Acid	AI	adult_70_up	female
+Pantothenic Acid	AI	pregnant_19_50	female
+Pantothenic Acid	AI	lactating_19_50	female
 
-    Pantothenic Acid	UL	child_14_18	male	ND
-    Pantothenic Acid	UL	adult_19_30	male	ND
-    Pantothenic Acid	UL	adult_31_50	male	ND
-    Pantothenic Acid	UL	adult_51_70	male	ND
-    Pantothenic Acid	UL	adult_70_up	male	ND
-    Pantothenic Acid	UL	child_14_18	female	ND
-    Pantothenic Acid	UL	adult_19_30	female	ND
-    Pantothenic Acid	UL	adult_31_50	female	ND
-    Pantothenic Acid	UL	adult_51_70	female	ND
-    Pantothenic Acid	UL	adult_70_up	female	ND
-    Pantothenic Acid	UL	pregnant_19_50	female	ND
-    Pantothenic Acid	UL	lactating_19_50	female	ND
+Pantothenic Acid	UL	child_14_18	male	ND
+Pantothenic Acid	UL	adult_19_30	male	ND
+Pantothenic Acid	UL	adult_31_50	male	ND
+Pantothenic Acid	UL	adult_51_70	male	ND
+Pantothenic Acid	UL	adult_70_up	male	ND
+Pantothenic Acid	UL	child_14_18	female	ND
+Pantothenic Acid	UL	adult_19_30	female	ND
+Pantothenic Acid	UL	adult_31_50	female	ND
+Pantothenic Acid	UL	adult_51_70	female	ND
+Pantothenic Acid	UL	adult_70_up	female	ND
+Pantothenic Acid	UL	pregnant_19_50	female	ND
+Pantothenic Acid	UL	lactating_19_50	female	ND
 ```
 
 ### Riboflavin p 262
 
 ```
-    Riboflavin	EAR	child_14_18	male
-    Riboflavin	EAR	adult_19_30	male
-    Riboflavin	EAR	adult_31_50	male
-    Riboflavin	EAR	adult_51_70	male
-    Riboflavin	EAR	adult_70_up	male
-    Riboflavin	EAR	child_14_18	female
-    Riboflavin	EAR	adult_19_30	female
-    Riboflavin	EAR	adult_31_50	female
-    Riboflavin	EAR	adult_51_70	female
-    Riboflavin	EAR	adult_70_up	female
-    Riboflavin	EAR	pregnant_19_50	female
-    Riboflavin	EAR	lactating_19_50	female
+Riboflavin	EAR	child_14_18	male
+Riboflavin	EAR	adult_19_30	male
+Riboflavin	EAR	adult_31_50	male
+Riboflavin	EAR	adult_51_70	male
+Riboflavin	EAR	adult_70_up	male
+Riboflavin	EAR	child_14_18	female
+Riboflavin	EAR	adult_19_30	female
+Riboflavin	EAR	adult_31_50	female
+Riboflavin	EAR	adult_51_70	female
+Riboflavin	EAR	adult_70_up	female
+Riboflavin	EAR	pregnant_19_50	female
+Riboflavin	EAR	lactating_19_50	female
 
-    Riboflavin	RDA	child_14_18	male
-    Riboflavin	RDA	adult_19_30	male
-    Riboflavin	RDA	adult_31_50	male
-    Riboflavin	RDA	adult_51_70	male
-    Riboflavin	RDA	adult_70_up	male
-    Riboflavin	RDA	child_14_18	female
-    Riboflavin	RDA	adult_19_30	female
-    Riboflavin	RDA	adult_31_50	female
-    Riboflavin	RDA	adult_51_70	female
-    Riboflavin	RDA	adult_70_up	female
-    Riboflavin	RDA	pregnant_19_50	female
-    Riboflavin	RDA	lactating_19_50	female
+Riboflavin	RDA	child_14_18	male
+Riboflavin	RDA	adult_19_30	male
+Riboflavin	RDA	adult_31_50	male
+Riboflavin	RDA	adult_51_70	male
+Riboflavin	RDA	adult_70_up	male
+Riboflavin	RDA	child_14_18	female
+Riboflavin	RDA	adult_19_30	female
+Riboflavin	RDA	adult_31_50	female
+Riboflavin	RDA	adult_51_70	female
+Riboflavin	RDA	adult_70_up	female
+Riboflavin	RDA	pregnant_19_50	female
+Riboflavin	RDA	lactating_19_50	female
 
-    Riboflavin	UL	child_14_18	male
-    Riboflavin	UL	adult_19_30	male
-    Riboflavin	UL	adult_31_50	male
-    Riboflavin	UL	adult_51_70	male
-    Riboflavin	UL	adult_70_up	male
-    Riboflavin	UL	child_14_18	female
-    Riboflavin	UL	adult_19_30	female
-    Riboflavin	UL	adult_31_50	female
-    Riboflavin	UL	adult_51_70	female
-    Riboflavin	UL	adult_70_up	female
-    Riboflavin	UL	pregnant_19_50	female
-    Riboflavin	UL	lactating_19_50	female
+Riboflavin	UL	child_14_18	male
+Riboflavin	UL	adult_19_30	male
+Riboflavin	UL	adult_31_50	male
+Riboflavin	UL	adult_51_70	male
+Riboflavin	UL	adult_70_up	male
+Riboflavin	UL	child_14_18	female
+Riboflavin	UL	adult_19_30	female
+Riboflavin	UL	adult_31_50	female
+Riboflavin	UL	adult_51_70	female
+Riboflavin	UL	adult_70_up	female
+Riboflavin	UL	pregnant_19_50	female
+Riboflavin	UL	lactating_19_50	female
 ```
 
 ### Thiamin p 280
 
 ```
-    Thiamin	EAR	child_14_18	male
-    Thiamin	EAR	adult_19_30	male
-    Thiamin	EAR	adult_31_50	male
-    Thiamin	EAR	adult_51_70	male
-    Thiamin	EAR	adult_70_up	male
-    Thiamin	EAR	child_14_18	female
-    Thiamin	EAR	adult_19_30	female
-    Thiamin	EAR	adult_31_50	female
-    Thiamin	EAR	adult_51_70	female
-    Thiamin	EAR	adult_70_up	female
-    Thiamin	EAR	pregnant_19_50	female
-    Thiamin	EAR	lactating_19_50	female
+Thiamin	EAR	child_14_18	male
+Thiamin	EAR	adult_19_30	male
+Thiamin	EAR	adult_31_50	male
+Thiamin	EAR	adult_51_70	male
+Thiamin	EAR	adult_70_up	male
+Thiamin	EAR	child_14_18	female
+Thiamin	EAR	adult_19_30	female
+Thiamin	EAR	adult_31_50	female
+Thiamin	EAR	adult_51_70	female
+Thiamin	EAR	adult_70_up	female
+Thiamin	EAR	pregnant_19_50	female
+Thiamin	EAR	lactating_19_50	female
 
-    Thiamin	RDA	child_14_18	male
-    Thiamin	RDA	adult_19_30	male
-    Thiamin	RDA	adult_31_50	male
-    Thiamin	RDA	adult_51_70	male
-    Thiamin	RDA	adult_70_up	male
-    Thiamin	RDA	child_14_18	female
-    Thiamin	RDA	adult_19_30	female
-    Thiamin	RDA	adult_31_50	female
-    Thiamin	RDA	adult_51_70	female
-    Thiamin	RDA	adult_70_up	female
-    Thiamin	RDA	pregnant_19_50	female
-    Thiamin	RDA	lactating_19_50	female
+Thiamin	RDA	child_14_18	male
+Thiamin	RDA	adult_19_30	male
+Thiamin	RDA	adult_31_50	male
+Thiamin	RDA	adult_51_70	male
+Thiamin	RDA	adult_70_up	male
+Thiamin	RDA	child_14_18	female
+Thiamin	RDA	adult_19_30	female
+Thiamin	RDA	adult_31_50	female
+Thiamin	RDA	adult_51_70	female
+Thiamin	RDA	adult_70_up	female
+Thiamin	RDA	pregnant_19_50	female
+Thiamin	RDA	lactating_19_50	female
 
-    Thiamin	UL	child_14_18	male
-    Thiamin	UL	adult_19_30	male
-    Thiamin	UL	adult_31_50	male
-    Thiamin	UL	adult_51_70	male
-    Thiamin	UL	adult_70_up	male
-    Thiamin	UL	child_14_18	female
-    Thiamin	UL	adult_19_30	female
-    Thiamin	UL	adult_31_50	female
-    Thiamin	UL	adult_51_70	female
-    Thiamin	UL	adult_70_up	female
-    Thiamin	UL	pregnant_19_50	female
-    Thiamin	UL	lactating_19_50	female
+Thiamin	UL	child_14_18	male
+Thiamin	UL	adult_19_30	male
+Thiamin	UL	adult_31_50	male
+Thiamin	UL	adult_51_70	male
+Thiamin	UL	adult_70_up	male
+Thiamin	UL	child_14_18	female
+Thiamin	UL	adult_19_30	female
+Thiamin	UL	adult_31_50	female
+Thiamin	UL	adult_51_70	female
+Thiamin	UL	adult_70_up	female
+Thiamin	UL	pregnant_19_50	female
+Thiamin	UL	lactating_19_50	female
 ```
 
 
 ### Calcium p 286
 
 ```
-    Calcium	EAR	child_14_18	male
-    Calcium	EAR	adult_19_30	male
-    Calcium	EAR	adult_31_50	male
-    Calcium	EAR	adult_51_70	male
-    Calcium	EAR	adult_70_up	male
-    Calcium	EAR	child_14_18	female
-    Calcium	EAR	adult_19_30	female
-    Calcium	EAR	adult_31_50	female
-    Calcium	EAR	adult_51_70	female
-    Calcium	EAR	adult_70_up	female
-    Calcium	EAR	pregnant_19_50	female
-    Calcium	EAR	lactating_19_50	female
+Calcium	EAR	child_14_18	male
+Calcium	EAR	adult_19_30	male
+Calcium	EAR	adult_31_50	male
+Calcium	EAR	adult_51_70	male
+Calcium	EAR	adult_70_up	male
+Calcium	EAR	child_14_18	female
+Calcium	EAR	adult_19_30	female
+Calcium	EAR	adult_31_50	female
+Calcium	EAR	adult_51_70	female
+Calcium	EAR	adult_70_up	female
+Calcium	EAR	pregnant_19_50	female
+Calcium	EAR	lactating_19_50	female
 
-    Calcium	RDA	child_14_18	male
-    Calcium	RDA	adult_19_30	male
-    Calcium	RDA	adult_31_50	male
-    Calcium	RDA	adult_51_70	male
-    Calcium	RDA	adult_70_up	male
-    Calcium	RDA	child_14_18	female
-    Calcium	RDA	adult_19_30	female
-    Calcium	RDA	adult_31_50	female
-    Calcium	RDA	adult_51_70	female
-    Calcium	RDA	adult_70_up	female
-    Calcium	RDA	pregnant_19_50	female
-    Calcium	RDA	lactating_19_50	female
+Calcium	RDA	child_14_18	male
+Calcium	RDA	adult_19_30	male
+Calcium	RDA	adult_31_50	male
+Calcium	RDA	adult_51_70	male
+Calcium	RDA	adult_70_up	male
+Calcium	RDA	child_14_18	female
+Calcium	RDA	adult_19_30	female
+Calcium	RDA	adult_31_50	female
+Calcium	RDA	adult_51_70	female
+Calcium	RDA	adult_70_up	female
+Calcium	RDA	pregnant_19_50	female
+Calcium	RDA	lactating_19_50	female
 
-    Calcium	UL	child_14_18	male
-    Calcium	UL	adult_19_30	male
-    Calcium	UL	adult_31_50	male
-    Calcium	UL	adult_51_70	male
-    Calcium	UL	adult_70_up	male
-    Calcium	UL	child_14_18	female
-    Calcium	UL	adult_19_30	female
-    Calcium	UL	adult_31_50	female
-    Calcium	UL	adult_51_70	female
-    Calcium	UL	adult_70_up	female
-    Calcium	UL	pregnant_19_50	female
-    Calcium	UL	lactating_19_50	female
+Calcium	UL	child_14_18	male
+Calcium	UL	adult_19_30	male
+Calcium	UL	adult_31_50	male
+Calcium	UL	adult_51_70	male
+Calcium	UL	adult_70_up	male
+Calcium	UL	child_14_18	female
+Calcium	UL	adult_19_30	female
+Calcium	UL	adult_31_50	female
+Calcium	UL	adult_51_70	female
+Calcium	UL	adult_70_up	female
+Calcium	UL	pregnant_19_50	female
+Calcium	UL	lactating_19_50	female
 ```
 
 ### Chromium  p 296
 
 ```
-    Chromium	AI	child_14_18	male
-    Chromium	AI	adult_19_30	male
-    Chromium	AI	adult_31_50	male
-    Chromium	AI	adult_51_70	male
-    Chromium	AI	adult_70_up	male
-    Chromium	AI	child_14_18	female
-    Chromium	AI	adult_19_30	female
-    Chromium	AI	adult_31_50	female
-    Chromium	AI	adult_51_70	female
-    Chromium	AI	adult_70_up	female
-    Chromium	AI	pregnant_19_50	female
-    Chromium	AI	lactating_19_50	female
+Chromium	AI	child_14_18	male
+Chromium	AI	adult_19_30	male
+Chromium	AI	adult_31_50	male
+Chromium	AI	adult_51_70	male
+Chromium	AI	adult_70_up	male
+Chromium	AI	child_14_18	female
+Chromium	AI	adult_19_30	female
+Chromium	AI	adult_31_50	female
+Chromium	AI	adult_51_70	female
+Chromium	AI	adult_70_up	female
+Chromium	AI	pregnant_19_50	female
+Chromium	AI	lactating_19_50	female
 
-    Chromium	UL	child_14_18	male	ND
-    Chromium	UL	adult_19_30	male	ND
-    Chromium	UL	adult_31_50	male	ND
-    Chromium	UL	adult_51_70	male	ND
-    Chromium	UL	adult_70_up	male	ND
-    Chromium	UL	child_14_18	female	ND
-    Chromium	UL	adult_19_30	female	ND
-    Chromium	UL	adult_31_50	female	ND
-    Chromium	UL	adult_51_70	female	ND
-    Chromium	UL	adult_70_up	female	ND
-    Chromium	UL	pregnant_19_50	female	ND
-    Chromium	UL	lactating_19_50	female	ND
+Chromium	UL	child_14_18	male	ND
+Chromium	UL	adult_19_30	male	ND
+Chromium	UL	adult_31_50	male	ND
+Chromium	UL	adult_51_70	male	ND
+Chromium	UL	adult_70_up	male	ND
+Chromium	UL	child_14_18	female	ND
+Chromium	UL	adult_19_30	female	ND
+Chromium	UL	adult_31_50	female	ND
+Chromium	UL	adult_51_70	female	ND
+Chromium	UL	adult_70_up	female	ND
+Chromium	UL	pregnant_19_50	female	ND
+Chromium	UL	lactating_19_50	female	ND
 ```
 
 ### Copper p 305
 
 ```
-    Copper	EAR	child_14_18	male
-    Copper	EAR	adult_19_30	male
-    Copper	EAR	adult_31_50	male
-    Copper	EAR	adult_51_70	male
-    Copper	EAR	adult_70_up	male
-    Copper	EAR	child_14_18	female
-    Copper	EAR	adult_19_30	female
-    Copper	EAR	adult_31_50	female
-    Copper	EAR	adult_51_70	female
-    Copper	EAR	adult_70_up	female
-    Copper	EAR	pregnant_19_50	female
-    Copper	EAR	lactating_19_50	female
+Copper	EAR	child_14_18	male
+Copper	EAR	adult_19_30	male
+Copper	EAR	adult_31_50	male
+Copper	EAR	adult_51_70	male
+Copper	EAR	adult_70_up	male
+Copper	EAR	child_14_18	female
+Copper	EAR	adult_19_30	female
+Copper	EAR	adult_31_50	female
+Copper	EAR	adult_51_70	female
+Copper	EAR	adult_70_up	female
+Copper	EAR	pregnant_19_50	female
+Copper	EAR	lactating_19_50	female
 
-    Copper	RDA	child_14_18	male
-    Copper	RDA	adult_19_30	male
-    Copper	RDA	adult_31_50	male
-    Copper	RDA	adult_51_70	male
-    Copper	RDA	adult_70_up	male
-    Copper	RDA	child_14_18	female
-    Copper	RDA	adult_19_30	female
-    Copper	RDA	adult_31_50	female
-    Copper	RDA	adult_51_70	female
-    Copper	RDA	adult_70_up	female
-    Copper	RDA	pregnant_19_50	female
-    Copper	RDA	lactating_19_50	female
+Copper	RDA	child_14_18	male
+Copper	RDA	adult_19_30	male
+Copper	RDA	adult_31_50	male
+Copper	RDA	adult_51_70	male
+Copper	RDA	adult_70_up	male
+Copper	RDA	child_14_18	female
+Copper	RDA	adult_19_30	female
+Copper	RDA	adult_31_50	female
+Copper	RDA	adult_51_70	female
+Copper	RDA	adult_70_up	female
+Copper	RDA	pregnant_19_50	female
+Copper	RDA	lactating_19_50	female
 
-    Copper	UL	child_14_18	male
-    Copper	UL	adult_19_30	male
-    Copper	UL	adult_31_50	male
-    Copper	UL	adult_51_70	male
-    Copper	UL	adult_70_up	male
-    Copper	UL	child_14_18	female
-    Copper	UL	adult_19_30	female
-    Copper	UL	adult_31_50	female
-    Copper	UL	adult_51_70	female
-    Copper	UL	adult_70_up	female
-    Copper	UL	pregnant_19_50	female
-    Copper	UL	lactating_19_50	female
+Copper	UL	child_14_18	male
+Copper	UL	adult_19_30	male
+Copper	UL	adult_31_50	male
+Copper	UL	adult_51_70	male
+Copper	UL	adult_70_up	male
+Copper	UL	child_14_18	female
+Copper	UL	adult_19_30	female
+Copper	UL	adult_31_50	female
+Copper	UL	adult_51_70	female
+Copper	UL	adult_70_up	female
+Copper	UL	pregnant_19_50	female
+Copper	UL	lactating_19_50	female
 ```
 
 ### Fluoride  p 296
 
 ```
-    Fluoride	AI	child_14_18	male
-    Fluoride	AI	adult_19_30	male
-    Fluoride	AI	adult_31_50	male
-    Fluoride	AI	adult_51_70	male
-    Fluoride	AI	adult_70_up	male
-    Fluoride	AI	child_14_18	female
-    Fluoride	AI	adult_19_30	female
-    Fluoride	AI	adult_31_50	female
-    Fluoride	AI	adult_51_70	female
-    Fluoride	AI	adult_70_up	female
-    Fluoride	AI	pregnant_19_50	female
-    Fluoride	AI	lactating_19_50	female
+Fluoride	AI	child_14_18	male
+Fluoride	AI	adult_19_30	male
+Fluoride	AI	adult_31_50	male
+Fluoride	AI	adult_51_70	male
+Fluoride	AI	adult_70_up	male
+Fluoride	AI	child_14_18	female
+Fluoride	AI	adult_19_30	female
+Fluoride	AI	adult_31_50	female
+Fluoride	AI	adult_51_70	female
+Fluoride	AI	adult_70_up	female
+Fluoride	AI	pregnant_19_50	female
+Fluoride	AI	lactating_19_50	female
 
-    Fluoride	UL	child_14_18	male
-    Fluoride	UL	adult_19_30	male
-    Fluoride	UL	adult_31_50	male
-    Fluoride	UL	adult_51_70	male
-    Fluoride	UL	adult_70_up	male
-    Fluoride	UL	child_14_18	female
-    Fluoride	UL	adult_19_30	female
-    Fluoride	UL	adult_31_50	female
-    Fluoride	UL	adult_51_70	female
-    Fluoride	UL	adult_70_up	female
-    Fluoride	UL	pregnant_19_50	female
-    Fluoride	UL	lactating_19_50	female
+Fluoride	UL	child_14_18	male
+Fluoride	UL	adult_19_30	male
+Fluoride	UL	adult_31_50	male
+Fluoride	UL	adult_51_70	male
+Fluoride	UL	adult_70_up	male
+Fluoride	UL	child_14_18	female
+Fluoride	UL	adult_19_30	female
+Fluoride	UL	adult_31_50	female
+Fluoride	UL	adult_51_70	female
+Fluoride	UL	adult_70_up	female
+Fluoride	UL	pregnant_19_50	female
+Fluoride	UL	lactating_19_50	female
 ```
 
 ### Iodine p 320
 
 ```
-    Iodine	EAR	child_14_18	male
-    Iodine	EAR	adult_19_30	male
-    Iodine	EAR	adult_31_50	male
-    Iodine	EAR	adult_51_70	male
-    Iodine	EAR	adult_70_up	male
-    Iodine	EAR	child_14_18	female
-    Iodine	EAR	adult_19_30	female
-    Iodine	EAR	adult_31_50	female
-    Iodine	EAR	adult_51_70	female
-    Iodine	EAR	adult_70_up	female
-    Iodine	EAR	pregnant_19_50	female
-    Iodine	EAR	lactating_19_50	female
+Iodine	EAR	child_14_18	male
+Iodine	EAR	adult_19_30	male
+Iodine	EAR	adult_31_50	male
+Iodine	EAR	adult_51_70	male
+Iodine	EAR	adult_70_up	male
+Iodine	EAR	child_14_18	female
+Iodine	EAR	adult_19_30	female
+Iodine	EAR	adult_31_50	female
+Iodine	EAR	adult_51_70	female
+Iodine	EAR	adult_70_up	female
+Iodine	EAR	pregnant_19_50	female
+Iodine	EAR	lactating_19_50	female
 
-    Iodine	RDA	child_14_18	male
-    Iodine	RDA	adult_19_30	male
-    Iodine	RDA	adult_31_50	male
-    Iodine	RDA	adult_51_70	male
-    Iodine	RDA	adult_70_up	male
-    Iodine	RDA	child_14_18	female
-    Iodine	RDA	adult_19_30	female
-    Iodine	RDA	adult_31_50	female
-    Iodine	RDA	adult_51_70	female
-    Iodine	RDA	adult_70_up	female
-    Iodine	RDA	pregnant_19_50	female
-    Iodine	RDA	lactating_19_50	female
+Iodine	RDA	child_14_18	male
+Iodine	RDA	adult_19_30	male
+Iodine	RDA	adult_31_50	male
+Iodine	RDA	adult_51_70	male
+Iodine	RDA	adult_70_up	male
+Iodine	RDA	child_14_18	female
+Iodine	RDA	adult_19_30	female
+Iodine	RDA	adult_31_50	female
+Iodine	RDA	adult_51_70	female
+Iodine	RDA	adult_70_up	female
+Iodine	RDA	pregnant_19_50	female
+Iodine	RDA	lactating_19_50	female
 
-    Iodine	UL	child_14_18	male
-    Iodine	UL	adult_19_30	male
-    Iodine	UL	adult_31_50	male
-    Iodine	UL	adult_51_70	male
-    Iodine	UL	adult_70_up	male
-    Iodine	UL	child_14_18	female
-    Iodine	UL	adult_19_30	female
-    Iodine	UL	adult_31_50	female
-    Iodine	UL	adult_51_70	female
-    Iodine	UL	adult_70_up	female
-    Iodine	UL	pregnant_19_50	female
-    Iodine	UL	lactating_19_50	female
+Iodine	UL	child_14_18	male
+Iodine	UL	adult_19_30	male
+Iodine	UL	adult_31_50	male
+Iodine	UL	adult_51_70	male
+Iodine	UL	adult_70_up	male
+Iodine	UL	child_14_18	female
+Iodine	UL	adult_19_30	female
+Iodine	UL	adult_31_50	female
+Iodine	UL	adult_51_70	female
+Iodine	UL	adult_70_up	female
+Iodine	UL	pregnant_19_50	female
+Iodine	UL	lactating_19_50	female
 ```
 
 ### Iron p 328
 
 ```
-    Iron	EAR	child_14_18	male
-    Iron	EAR	adult_19_30	male
-    Iron	EAR	adult_31_50	male
-    Iron	EAR	adult_51_70	male
-    Iron	EAR	adult_70_up	male
-    Iron	EAR	child_14_18	female
-    Iron	EAR	adult_19_30	female
-    Iron	EAR	adult_31_50	female
-    Iron	EAR	adult_51_70	female
-    Iron	EAR	adult_70_up	female
-    Iron	EAR	pregnant_19_50	female
-    Iron	EAR	lactating_19_50	female
+Iron	EAR	child_14_18	male
+Iron	EAR	adult_19_30	male
+Iron	EAR	adult_31_50	male
+Iron	EAR	adult_51_70	male
+Iron	EAR	adult_70_up	male
+Iron	EAR	child_14_18	female
+Iron	EAR	adult_19_30	female
+Iron	EAR	adult_31_50	female
+Iron	EAR	adult_51_70	female
+Iron	EAR	adult_70_up	female
+Iron	EAR	pregnant_19_50	female
+Iron	EAR	lactating_19_50	female
 
-    Iron	RDA	child_14_18	male
-    Iron	RDA	adult_19_30	male
-    Iron	RDA	adult_31_50	male
-    Iron	RDA	adult_51_70	male
-    Iron	RDA	adult_70_up	male
-    Iron	RDA	child_14_18	female
-    Iron	RDA	adult_19_30	female
-    Iron	RDA	adult_31_50	female
-    Iron	RDA	adult_51_70	female
-    Iron	RDA	adult_70_up	female
-    Iron	RDA	pregnant_19_50	female
-    Iron	RDA	lactating_19_50	female
+Iron	RDA	child_14_18	male
+Iron	RDA	adult_19_30	male
+Iron	RDA	adult_31_50	male
+Iron	RDA	adult_51_70	male
+Iron	RDA	adult_70_up	male
+Iron	RDA	child_14_18	female
+Iron	RDA	adult_19_30	female
+Iron	RDA	adult_31_50	female
+Iron	RDA	adult_51_70	female
+Iron	RDA	adult_70_up	female
+Iron	RDA	pregnant_19_50	female
+Iron	RDA	lactating_19_50	female
 
-    Iron	UL	child_14_18	male
-    Iron	UL	adult_19_30	male
-    Iron	UL	adult_31_50	male
-    Iron	UL	adult_51_70	male
-    Iron	UL	adult_70_up	male
-    Iron	UL	child_14_18	female
-    Iron	UL	adult_19_30	female
-    Iron	UL	adult_31_50	female
-    Iron	UL	adult_51_70	female
-    Iron	UL	adult_70_up	female
-    Iron	UL	pregnant_19_50	female
-    Iron	UL	lactating_19_50	female
+Iron	UL	child_14_18	male
+Iron	UL	adult_19_30	male
+Iron	UL	adult_31_50	male
+Iron	UL	adult_51_70	male
+Iron	UL	adult_70_up	male
+Iron	UL	child_14_18	female
+Iron	UL	adult_19_30	female
+Iron	UL	adult_31_50	female
+Iron	UL	adult_51_70	female
+Iron	UL	adult_70_up	female
+Iron	UL	pregnant_19_50	female
+Iron	UL	lactating_19_50	female
 ```
 
 ### Magnesium p 328
 
 ```
-    Magnesium	EAR	child_14_18	male
-    Magnesium	EAR	adult_19_30	male
-    Magnesium	EAR	adult_31_50	male
-    Magnesium	EAR	adult_51_70	male
-    Magnesium	EAR	adult_70_up	male
-    Magnesium	EAR	child_14_18	female
-    Magnesium	EAR	adult_19_30	female
-    Magnesium	EAR	adult_31_50	female
-    Magnesium	EAR	adult_51_70	female
-    Magnesium	EAR	adult_70_up	female
-    Magnesium	EAR	pregnant_19_50	female
-    Magnesium	EAR	lactating_19_50	female
+Magnesium	EAR	child_14_18	male
+Magnesium	EAR	adult_19_30	male
+Magnesium	EAR	adult_31_50	male
+Magnesium	EAR	adult_51_70	male
+Magnesium	EAR	adult_70_up	male
+Magnesium	EAR	child_14_18	female
+Magnesium	EAR	adult_19_30	female
+Magnesium	EAR	adult_31_50	female
+Magnesium	EAR	adult_51_70	female
+Magnesium	EAR	adult_70_up	female
+Magnesium	EAR	pregnant_19_50	female
+Magnesium	EAR	lactating_19_50	female
 
-    Magnesium	RDA	child_14_18	male
-    Magnesium	RDA	adult_19_30	male
-    Magnesium	RDA	adult_31_50	male
-    Magnesium	RDA	adult_51_70	male
-    Magnesium	RDA	adult_70_up	male
-    Magnesium	RDA	child_14_18	female
-    Magnesium	RDA	adult_19_30	female
-    Magnesium	RDA	adult_31_50	female
-    Magnesium	RDA	adult_51_70	female
-    Magnesium	RDA	adult_70_up	female
-    Magnesium	RDA	pregnant_19_50	female
-    Magnesium	RDA	lactating_19_50	female
+Magnesium	RDA	child_14_18	male
+Magnesium	RDA	adult_19_30	male
+Magnesium	RDA	adult_31_50	male
+Magnesium	RDA	adult_51_70	male
+Magnesium	RDA	adult_70_up	male
+Magnesium	RDA	child_14_18	female
+Magnesium	RDA	adult_19_30	female
+Magnesium	RDA	adult_31_50	female
+Magnesium	RDA	adult_51_70	female
+Magnesium	RDA	adult_70_up	female
+Magnesium	RDA	pregnant_19_50	female
+Magnesium	RDA	lactating_19_50	female
 
-    Magnesium	UL	child_14_18	male
-    Magnesium	UL	adult_19_30	male
-    Magnesium	UL	adult_31_50	male
-    Magnesium	UL	adult_51_70	male
-    Magnesium	UL	adult_70_up	male
-    Magnesium	UL	child_14_18	female
-    Magnesium	UL	adult_19_30	female
-    Magnesium	UL	adult_31_50	female
-    Magnesium	UL	adult_51_70	female
-    Magnesium	UL	adult_70_up	female
-    Magnesium	UL	pregnant_19_50	female
-    Magnesium	UL	lactating_19_50	female
+Magnesium	UL	child_14_18	male
+Magnesium	UL	adult_19_30	male
+Magnesium	UL	adult_31_50	male
+Magnesium	UL	adult_51_70	male
+Magnesium	UL	adult_70_up	male
+Magnesium	UL	child_14_18	female
+Magnesium	UL	adult_19_30	female
+Magnesium	UL	adult_31_50	female
+Magnesium	UL	adult_51_70	female
+Magnesium	UL	adult_70_up	female
+Magnesium	UL	pregnant_19_50	female
+Magnesium	UL	lactating_19_50	female
 ```
 
 ### Manganese, 350
 
 
 ```
-    Manganese	AI	child_14_18	male
-    Manganese	AI	adult_19_30	male
-    Manganese	AI	adult_31_50	male
-    Manganese	AI	adult_51_70	male
-    Manganese	AI	adult_70_up	male
-    Manganese	AI	child_14_18	female
-    Manganese	AI	adult_19_30	female
-    Manganese	AI	adult_31_50	female
-    Manganese	AI	adult_51_70	female
-    Manganese	AI	adult_70_up	female
-    Manganese	AI	pregnant_19_50	female
-    Manganese	AI	lactating_19_50	female
+Manganese	AI	child_14_18	male
+Manganese	AI	adult_19_30	male
+Manganese	AI	adult_31_50	male
+Manganese	AI	adult_51_70	male
+Manganese	AI	adult_70_up	male
+Manganese	AI	child_14_18	female
+Manganese	AI	adult_19_30	female
+Manganese	AI	adult_31_50	female
+Manganese	AI	adult_51_70	female
+Manganese	AI	adult_70_up	female
+Manganese	AI	pregnant_19_50	female
+Manganese	AI	lactating_19_50	female
 
-    Manganese	UL	child_14_18	male	ND
-    Manganese	UL	adult_19_30	male	ND
-    Manganese	UL	adult_31_50	male	ND
-    Manganese	UL	adult_51_70	male	ND
-    Manganese	UL	adult_70_up	male	ND
-    Manganese	UL	child_14_18	female	ND
-    Manganese	UL	adult_19_30	female	ND
-    Manganese	UL	adult_31_50	female	ND
-    Manganese	UL	adult_51_70	female	ND
-    Manganese	UL	adult_70_up	female	ND
-    Manganese	UL	pregnant_19_50	female	ND
-    Manganese	UL	lactating_19_50	female	ND
+Manganese	UL	child_14_18	male	ND
+Manganese	UL	adult_19_30	male	ND
+Manganese	UL	adult_31_50	male	ND
+Manganese	UL	adult_51_70	male	ND
+Manganese	UL	adult_70_up	male	ND
+Manganese	UL	child_14_18	female	ND
+Manganese	UL	adult_19_30	female	ND
+Manganese	UL	adult_31_50	female	ND
+Manganese	UL	adult_51_70	female	ND
+Manganese	UL	adult_70_up	female	ND
+Manganese	UL	pregnant_19_50	female	ND
+Manganese	UL	lactating_19_50	female	ND
 ```
 
 ### Molybdenum, 356
@@ -1396,31 +1417,31 @@ Folate is a B vitamin that functions as a coenzyme in the metabolism of nucleic 
 
 
 ```
-    Potassium	AI	child_14_18	male
-    Potassium	AI	adult_19_30	male
-    Potassium	AI	adult_31_50	male
-    Potassium	AI	adult_51_70	male
-    Potassium	AI	adult_70_up	male
-    Potassium	AI	child_14_18	female
-    Potassium	AI	adult_19_30	female
-    Potassium	AI	adult_31_50	female
-    Potassium	AI	adult_51_70	female
-    Potassium	AI	adult_70_up	female
-    Potassium	AI	pregnant_19_50	female
-    Potassium	AI	lactating_19_50	female
+Potassium	AI	child_14_18	male
+Potassium	AI	adult_19_30	male
+Potassium	AI	adult_31_50	male
+Potassium	AI	adult_51_70	male
+Potassium	AI	adult_70_up	male
+Potassium	AI	child_14_18	female
+Potassium	AI	adult_19_30	female
+Potassium	AI	adult_31_50	female
+Potassium	AI	adult_51_70	female
+Potassium	AI	adult_70_up	female
+Potassium	AI	pregnant_19_50	female
+Potassium	AI	lactating_19_50	female
 
-    Potassium	UL	child_14_18	male	ND
-    Potassium	UL	adult_19_30	male	ND
-    Potassium	UL	adult_31_50	male	ND
-    Potassium	UL	adult_51_70	male	ND
-    Potassium	UL	adult_70_up	male	ND
-    Potassium	UL	child_14_18	female	ND
-    Potassium	UL	adult_19_30	female	ND
-    Potassium	UL	adult_31_50	female	ND
-    Potassium	UL	adult_51_70	female	ND
-    Potassium	UL	adult_70_up	female	ND
-    Potassium	UL	pregnant_19_50	female	ND
-    Potassium	UL	lactating_19_50	female	ND
+Potassium	UL	child_14_18	male	ND
+Potassium	UL	adult_19_30	male	ND
+Potassium	UL	adult_31_50	male	ND
+Potassium	UL	adult_51_70	male	ND
+Potassium	UL	adult_70_up	male	ND
+Potassium	UL	child_14_18	female	ND
+Potassium	UL	adult_19_30	female	ND
+Potassium	UL	adult_31_50	female	ND
+Potassium	UL	adult_51_70	female	ND
+Potassium	UL	adult_70_up	female	ND
+Potassium	UL	pregnant_19_50	female	ND
+Potassium	UL	lactating_19_50	female	ND
 ```
 
 ### Selenium, 380
@@ -1430,60 +1451,60 @@ Folate is a B vitamin that functions as a coenzyme in the metabolism of nucleic 
 
 
 ```
-    Sodium	AI	child_14_18	male
-    Sodium	AI	adult_19_30	male
-    Sodium	AI	adult_31_50	male
-    Sodium	AI	adult_51_70	male
-    Sodium	AI	adult_70_up	male
-    Sodium	AI	child_14_18	female
-    Sodium	AI	adult_19_30	female
-    Sodium	AI	adult_31_50	female
-    Sodium	AI	adult_51_70	female
-    Sodium	AI	adult_70_up	female
-    Sodium	AI	pregnant_19_50	female
-    Sodium	AI	lactating_19_50	female
+Sodium	AI	child_14_18	male
+Sodium	AI	adult_19_30	male
+Sodium	AI	adult_31_50	male
+Sodium	AI	adult_51_70	male
+Sodium	AI	adult_70_up	male
+Sodium	AI	child_14_18	female
+Sodium	AI	adult_19_30	female
+Sodium	AI	adult_31_50	female
+Sodium	AI	adult_51_70	female
+Sodium	AI	adult_70_up	female
+Sodium	AI	pregnant_19_50	female
+Sodium	AI	lactating_19_50	female
 
-    Sodium	UL	child_14_18	male	ND
-    Sodium	UL	adult_19_30	male	ND
-    Sodium	UL	adult_31_50	male	ND
-    Sodium	UL	adult_51_70	male	ND
-    Sodium	UL	adult_70_up	male	ND
-    Sodium	UL	child_14_18	female	ND
-    Sodium	UL	adult_19_30	female	ND
-    Sodium	UL	adult_31_50	female	ND
-    Sodium	UL	adult_51_70	female	ND
-    Sodium	UL	adult_70_up	female	ND
-    Sodium	UL	pregnant_19_50	female	ND
-    Sodium	UL	lactating_19_50	female	ND
+Sodium	UL	child_14_18	male	ND
+Sodium	UL	adult_19_30	male	ND
+Sodium	UL	adult_31_50	male	ND
+Sodium	UL	adult_51_70	male	ND
+Sodium	UL	adult_70_up	male	ND
+Sodium	UL	child_14_18	female	ND
+Sodium	UL	adult_19_30	female	ND
+Sodium	UL	adult_31_50	female	ND
+Sodium	UL	adult_51_70	female	ND
+Sodium	UL	adult_70_up	female	ND
+Sodium	UL	pregnant_19_50	female	ND
+Sodium	UL	lactating_19_50	female	ND
 ```
 
 
 ```
-    Chloride	AI	child_14_18	male
-    Chloride	AI	adult_19_30	male
-    Chloride	AI	adult_31_50	male
-    Chloride	AI	adult_51_70	male
-    Chloride	AI	adult_70_up	male
-    Chloride	AI	child_14_18	female
-    Chloride	AI	adult_19_30	female
-    Chloride	AI	adult_31_50	female
-    Chloride	AI	adult_51_70	female
-    Chloride	AI	adult_70_up	female
-    Chloride	AI	pregnant_19_50	female
-    Chloride	AI	lactating_19_50	female
+Chloride	AI	child_14_18	male
+Chloride	AI	adult_19_30	male
+Chloride	AI	adult_31_50	male
+Chloride	AI	adult_51_70	male
+Chloride	AI	adult_70_up	male
+Chloride	AI	child_14_18	female
+Chloride	AI	adult_19_30	female
+Chloride	AI	adult_31_50	female
+Chloride	AI	adult_51_70	female
+Chloride	AI	adult_70_up	female
+Chloride	AI	pregnant_19_50	female
+Chloride	AI	lactating_19_50	female
 
-    Chloride	UL	child_14_18	male	ND
-    Chloride	UL	adult_19_30	male	ND
-    Chloride	UL	adult_31_50	male	ND
-    Chloride	UL	adult_51_70	male	ND
-    Chloride	UL	adult_70_up	male	ND
-    Chloride	UL	child_14_18	female	ND
-    Chloride	UL	adult_19_30	female	ND
-    Chloride	UL	adult_31_50	female	ND
-    Chloride	UL	adult_51_70	female	ND
-    Chloride	UL	adult_70_up	female	ND
-    Chloride	UL	pregnant_19_50	female	ND
-    Chloride	UL	lactating_19_50	female	ND
+Chloride	UL	child_14_18	male	ND
+Chloride	UL	adult_19_30	male	ND
+Chloride	UL	adult_31_50	male	ND
+Chloride	UL	adult_51_70	male	ND
+Chloride	UL	adult_70_up	male	ND
+Chloride	UL	child_14_18	female	ND
+Chloride	UL	adult_19_30	female	ND
+Chloride	UL	adult_31_50	female	ND
+Chloride	UL	adult_51_70	female	ND
+Chloride	UL	adult_70_up	female	ND
+Chloride	UL	pregnant_19_50	female	ND
+Chloride	UL	lactating_19_50	female	ND
 ```
 
 
@@ -1497,101 +1518,80 @@ Folate is a B vitamin that functions as a coenzyme in the metabolism of nucleic 
 
 ### Arsenic, Boron, Nickel, Silicon, and Vanadium, 414
 
-Arsenic -- Note -- There have been no studies performed to determine the nutritional importance of arsenic for humans. Animal studies suggest a role for arsenic in the metabolism of methionine, in growth and reproduction, and in gene expression.
-Arsenic -- Note -- Data were insufficient to set a UL for arsenic. Although a UL was not determined for arsenic, there is no justification for adding it to food or supplements.
-Arsenic -- Note -- Although no UL was set for arsenic, there may be a risk of adverse effects with the consumption of organic arsenic in food or with the intake of inorganic arsenic in water supplies at the current maximum contamination level of 50 mg/L, set in the United States.
-
 
 ```
-    Arsenic	UL	child_14_18	male	Undesirable
-    Arsenic	UL	adult_19_30	male	Undesirable
-    Arsenic	UL	adult_31_50	male	Undesirable
-    Arsenic	UL	adult_51_70	male	Undesirable
-    Arsenic	UL	adult_70_up	male	Undesirable
-    Arsenic	UL	child_14_18	female	Undesirable
-    Arsenic	UL	adult_19_30	female	Undesirable
-    Arsenic	UL	adult_31_50	female	Undesirable
-    Arsenic	UL	adult_51_70	female	Undesirable
-    Arsenic	UL	adult_70_up	female	Undesirable
-    Arsenic	UL	pregnant_19_50	female	Undesirable
-    Arsenic	UL	lactating_19_50	female	Undesirable
+Arsenic	UL	child_14_18	male	Undesirable
+Arsenic	UL	adult_19_30	male	Undesirable
+Arsenic	UL	adult_31_50	male	Undesirable
+Arsenic	UL	adult_51_70	male	Undesirable
+Arsenic	UL	adult_70_up	male	Undesirable
+Arsenic	UL	child_14_18	female	Undesirable
+Arsenic	UL	adult_19_30	female	Undesirable
+Arsenic	UL	adult_31_50	female	Undesirable
+Arsenic	UL	adult_51_70	female	Undesirable
+Arsenic	UL	adult_70_up	female	Undesirable
+Arsenic	UL	pregnant_19_50	female	Undesirable
+Arsenic	UL	lactating_19_50	female	Undesirable
 ```
 
-Silicon: A functional role for silicon in humans has not yet been identified, although animal studies show that silicon may be involved in the formation of bone.
-
 ```
-    Silicon	UL	child_14_18	male	ND
-    Silicon	UL	adult_19_30	male	ND
-    Silicon	UL	adult_31_50	male	ND
-    Silicon	UL	adult_51_70	male	ND
-    Silicon	UL	adult_70_up	male	ND
-    Silicon	UL	child_14_18	female	ND
-    Silicon	UL	adult_19_30	female	ND
-    Silicon	UL	adult_31_50	female	ND
-    Silicon	UL	adult_51_70	female	ND
-    Silicon	UL	adult_70_up	female	ND
-    Silicon	UL	pregnant_19_50	female	ND
-    Silicon	UL	lactating_19_50	female	ND
+Silicon	UL	child_14_18	male	ND
+Silicon	UL	adult_19_30	male	ND
+Silicon	UL	adult_31_50	male	ND
+Silicon	UL	adult_51_70	male	ND
+Silicon	UL	adult_70_up	male	ND
+Silicon	UL	child_14_18	female	ND
+Silicon	UL	adult_19_30	female	ND
+Silicon	UL	adult_31_50	female	ND
+Silicon	UL	adult_51_70	female	ND
+Silicon	UL	adult_70_up	female	ND
+Silicon	UL	pregnant_19_50	female	ND
+Silicon	UL	lactating_19_50	female	ND
 ```
 
 
-Boron: A collective body of evidence has yet to establish a clear biological func- tion for boron in humans. Although some evidence does suggest a role in the metabolism of vitamin D and estrogen, further research is necessary.
+```
+Boron	UL	child_14_18	male	ND
+Boron	UL	adult_19_30	male	ND
+Boron	UL	adult_31_50	male	ND
+Boron	UL	adult_51_70	male	ND
+Boron	UL	adult_70_up	male	ND
+Boron	UL	child_14_18	female	ND
+Boron	UL	adult_19_30	female	ND
+Boron	UL	adult_31_50	female	ND
+Boron	UL	adult_51_70	female	ND
+Boron	UL	adult_70_up	female	ND
+Boron	UL	pregnant_19_50	female	ND
+Boron	UL	lactating_19_50	female	ND
+```
+
+```
+Nickel	UL	child_14_18	male	ND
+Nickel	UL	adult_19_30	male	ND
+Nickel	UL	adult_31_50	male	ND
+Nickel	UL	adult_51_70	male	ND
+Nickel	UL	adult_70_up	male	ND
+Nickel	UL	child_14_18	female	ND
+Nickel	UL	adult_19_30	female	ND
+Nickel	UL	adult_31_50	female	ND
+Nickel	UL	adult_51_70	female	ND
+Nickel	UL	adult_70_up	female	ND
+Nickel	UL	pregnant_19_50	female	ND
+Nickel	UL	lactating_19_50	female	ND
+```
 
 
 ```
-    Boron	UL	child_14_18	male	ND
-    Boron	UL	adult_19_30	male	ND
-    Boron	UL	adult_31_50	male	ND
-    Boron	UL	adult_51_70	male	ND
-    Boron	UL	adult_70_up	male	ND
-    Boron	UL	child_14_18	female	ND
-    Boron	UL	adult_19_30	female	ND
-    Boron	UL	adult_31_50	female	ND
-    Boron	UL	adult_51_70	female	ND
-    Boron	UL	adult_70_up	female	ND
-    Boron	UL	pregnant_19_50	female	ND
-    Boron	UL	lactating_19_50	female	ND
+Vanadium	UL	child_14_18	male	ND
+Vanadium	UL	adult_19_30	male	ND
+Vanadium	UL	adult_31_50	male	ND
+Vanadium	UL	adult_51_70	male	ND
+Vanadium	UL	adult_70_up	male	ND
+Vanadium	UL	child_14_18	female	ND
+Vanadium	UL	adult_19_30	female	ND
+Vanadium	UL	adult_31_50	female	ND
+Vanadium	UL	adult_51_70	female	ND
+Vanadium	UL	adult_70_up	female	ND
+Vanadium	UL	pregnant_19_50	female	ND
+Vanadium	UL	lactating_19_50	female	ND
 ```
-
-Nickel: The possible nutritional importance or biochemical function of nickel in humans has not been established. Nickel may serve as a cofactor or struc- tural component of specific metalloenzymes of various functions, including hy- drolysis and redox reactions and gene expression. Nickel may also serve as a cofactor facilitating iron absorption or metabolism.
-
-```
-    Nickel	UL	child_14_18	male	ND
-    Nickel	UL	adult_19_30	male	ND
-    Nickel	UL	adult_31_50	male	ND
-    Nickel	UL	adult_51_70	male	ND
-    Nickel	UL	adult_70_up	male	ND
-    Nickel	UL	child_14_18	female	ND
-    Nickel	UL	adult_19_30	female	ND
-    Nickel	UL	adult_31_50	female	ND
-    Nickel	UL	adult_51_70	female	ND
-    Nickel	UL	adult_70_up	female	ND
-    Nickel	UL	pregnant_19_50	female	ND
-    Nickel	UL	lactating_19_50	female	ND
-```
-
-Vanadium: A functional role for vanadium in humans has not been identified. There are some reports that vanadium may increase the action of insulin, but the potential mechanism of action is uncertain. Vanadium also stimulates cell proliferation and differentiation and inhibits various ATPases, phosphatases, and phosphoryl-transfer enzymes.
-
-
-```
-    Vanadium	UL	child_14_18	male	ND
-    Vanadium	UL	adult_19_30	male	ND
-    Vanadium	UL	adult_31_50	male	ND
-    Vanadium	UL	adult_51_70	male	ND
-    Vanadium	UL	adult_70_up	male	ND
-    Vanadium	UL	child_14_18	female	ND
-    Vanadium	UL	adult_19_30	female	ND
-    Vanadium	UL	adult_31_50	female	ND
-    Vanadium	UL	adult_51_70	female	ND
-    Vanadium	UL	adult_70_up	female	ND
-    Vanadium	UL	pregnant_19_50	female	ND
-    Vanadium	UL	lactating_19_50	female	ND
-```
-
-#### Typical Adult Intake p 420
-
-Arsenic  -- Typical Adult Intake -- Not provided at the time the DRI values for this nutrient were set.
-Boron:	 -- Typical Adult Intake -- NHANES III median intake from supplements -- 0.14 mg/day.
-Nickel:	 -- Typical Adult Intake -- NHANES III median intake from supplements -- 5 μg/day.
-Silicon: -- Typical Adult Intake -- NHANES III median intake from supplements -- 2 mg/day.
-Vanadium -- Typical Adult Intake -- NHANES III median intake from supplements -- 9 μg/day.

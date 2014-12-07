@@ -1,0 +1,39 @@
+p 459
+
+
+         	        	H	I	L	K	M+C	F+Y	T	W	V	H	I	L	K	M+C	F+Y	T	W	V	Protein
+         	        	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	mg/kg/d	g/kg/d
+																				b,f
+         	        	EAR	EAR	EAR	EAR	EAR	EAR	EAR	EAR	EAR	RDA	RDA	RDA	RDA	RDA	RDA	RDA	RDA	RDA	RDA
+Infants	  	0-6 mo  	36	88	156	107	59	135	73	28	87	214	529	938	640	353	807	436	167	519	
+Infants	  	6-12 mo  	22	30	65	62	30	58	34	9	39	32	43	93	89	43	84	49	13	58	1.2
+Children  	1−3 y  	16	22	48	45	22	41	24	6	28	21	28	63	58	28	54	32	8	37	1.05
+Children  	4−8 y  	13	18	40	37	18	33	19	5	23	16	22	49	46	22	41	24	6	28	0.95
+Males	  	9−13 y  	13	18	40	37	18	33	19	5	23	17	22	49	46	22	41	24	6	28	0.95
+Males	  	14−18 y  	12	17	38	35	17	31	18	5	22	15	21	47	43	21	38	22	6	27	0.85
+Males	  	19−30 y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Males	  	31−50 y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Males	  	51−70 y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Males	  	70-up y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Females	  	9−13 y  	12	17	38	35	17	31	18	5	22	15	21	47	43	21	38	22	6	27	0.95
+Females	  	14−18 y  	12	16	35	32	16	28	17	4	20	14	19	44	40	19	35	21	5	24	0.85
+Females	  	19−30 y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Females	  	31−50 y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Females	  	51−70 y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Females	  	70-up y  	11	15	34	31	15	27	16	4	19	14	19	42	38	19	33	20	5	24	0.80
+Pregnancy 	14−18 y  	15	20	45	41	20	36	21	5	25	18	25	56	51	25	44	26	7	31	1.1
+Pregnancy 	19−30 y  	15	20	45	41	20	36	21	5	25	18	25	56	51	25	44	26	7	31	1.1
+Pregnancy 	61−50 y  	15	20	45	41	20	36	21	5	25	18	25	56	51	25	44	26	7	31	1.1
+Lactation 	14−18 y  	15	24	50	42	21	41	24	7	28	19	30	62	52	26	51	30	9	35	1.3
+Lactation 	19−30 y  	15	24	50	42	21	41	24	7	28	19	30	62	52	26	51	30	9	35	1.3
+Lactation 	31−50 y  	15	24	50	42	21	41	24	7	28	19	30	62	52	26	51	30	9	35	1.3
+
+         	        	H	I	L	K	M+C	F+Y	T	W	V		page	ref
+         	        	mg/g prot	mg/g prot	mg/g prot	mg/g prot	mg/g prot	mg/g prot	mg/g prot	mg/g prot	mg/g prot			
+		        											
+         	        	RDA	RDA	RDA	RDA	RDA	RDA	RDA	RDA	RDA			
+Infants	 	0-12 mo  	23	57	101	69	38	87	47	18	56		687	http://www.nal.usda.gov/fnic/DRI/DRI_Energy/energy_full_report.pdf
+Children 	1−3 y  	18	25	55	51	25	47	27	7	32		687	http://www.nal.usda.gov/fnic/DRI/DRI_Energy/energy_full_report.pdf
+All	 	18-up y  	17	23	52	47	23	41	24	6	29		687	http://www.nal.usda.gov/fnic/DRI/DRI_Energy/energy_full_report.pdf
+Children 	1−3 y  	114	156	341	320	156	291	170	43	199			
+All	 	18-up y  	104	142	322	294	142	256	152	38	180
